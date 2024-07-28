@@ -1,0 +1,28 @@
+
+   # PLAYER                      : RATING    POINTS  PLAYED    (%)
+   1 STMN                        : 2886.7     111.0     173   64.2%
+   2 Tribe Gaming                : 2856.1     124.0     180   68.9%
+   3 Elevate                     : 2851.6     122.0     184   66.3%
+   4 Pioneers                    : 2846.9     124.0     194   63.9%
+   5 Luminosity                  : 2832.7     113.0     186   60.8%
+   6 Reconic Esports Black       : 2781.4      46.0      71   64.8%
+   7 CT Esports                  : 2766.8      78.0     133   58.6%
+   8 Reconic Esports Gold        : 2760.4      73.0     123   59.3%
+   9 West Coast FA               : 2675.3      56.0     102   54.9%
+  10 Mystic Esports              : 2674.4     104.0     167   62.3%
+  11 Rival Esports NA            : 2665.6      76.0     145   52.4%
+  12 Ninjas F/A                  : 2639.6      51.0      92   55.4%
+  13 IX Squares                  : 2635.4      48.0      88   54.5%
+  14 DC TEAM                     : 2600.8      24.0      50   48.0%
+  15 Yippee                      : 2592.1      73.0     130   56.2%
+  16 Complexity                  : 2563.7      46.0      93   49.5%
+  17 SGA                         : 2497.0      47.0      91   51.6%
+  18 Blackout Hat                : 2430.7      28.0      51   54.9%
+  19 MVR                         : 2412.3      31.0      68   45.6%
+  20 Midnight Brawlers           : 2383.2      18.0      50   36.0%
+  21 PDF Team                    : 2333.8      28.0      69   40.6%
+  22 da bois                     : 2268.6      28.0      72   38.9%
+
+White advantage = 0.00
+Draw rate (equal opponents) = 50.00 %
+

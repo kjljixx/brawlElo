@@ -37,3 +37,4 @@ if __name__ == "__main__":
         file.write('[Result "0-1"]\n')
   file.close()
   os.system(".." + os.sep +"ordo -G -o ../output/" + regionAbbrev.lower() + "/" + regionAbbrev.lower() + "-rankings.txt -t 50 -p ../output/" + regionAbbrev.lower() + "/" + regionAbbrev.lower() + "-data.pgn")
+  os.system(".." + os.sep +"ordo -G -j ../output/" + regionAbbrev.lower() + "/" + regionAbbrev.lower() + "-h2h.txt  ../output/" + regionAbbrev.lower() + "/" + regionAbbrev.lower() + "-data.pgn")

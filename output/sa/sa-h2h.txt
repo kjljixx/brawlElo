@@ -1,0 +1,1006 @@
+Head to head statistics:
+
+ 1) Spacestation Gaming        3026.4 :    198 (+150,=0,-48),  75.8 %
+
+    vs.                               :  games (   +, =,  -),   (%) :    Diff
+    FUT Esports                       :     46 (  24, 0, 22),  52.2 :   +31.0
+    SKCalalas                         :     17 (  13, 0,  4),  76.5 :  +100.7
+    Marruecos                         :     29 (  23, 0,  6),  79.3 :  +180.4
+    Team Queso                        :     21 (  17, 0,  4),  81.0 :  +208.7
+    iWorlds                           :     17 (  13, 0,  4),  76.5 :  +245.1
+    Olimpo Squad                      :     12 (  10, 0,  2),  83.3 :  +309.2
+    One Chance 🌎                   :      4 (   4, 0,  0), 100.0 :  +318.5
+    bota limpo                        :      5 (   4, 0,  1),  80.0 :  +356.1
+    Big Studios                       :      4 (   4, 0,  0), 100.0 :  +393.6
+    Fire Jokers Gaming                :      4 (   4, 0,  0), 100.0 :  +421.0
+    Level Esports                     :      5 (   4, 0,  1),  80.0 :  +424.1
+    Macaquitos F/A                    :      7 (   5, 0,  2),  71.4 :  +521.4
+    >:3                               :      7 (   5, 0,  2),  71.4 :  +524.8
+    Nobruzes                          :      8 (   8, 0,  0), 100.0 :  +536.2
+    Los flaites                       :      4 (   4, 0,  0), 100.0 :  +560.9
+    DOM Esports                       :      4 (   4, 0,  0), 100.0 :  +625.1
+    LPC F/A                           :      4 (   4, 0,  0), 100.0 :  +884.3
+
+ 2) FUT Esports                2995.5 :    185 (+129,=0,-56),  69.7 %
+
+    vs.                               :  games (   +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :     46 (  22, 0, 24),  47.8 :   -31.0
+    SKCalalas                         :     20 (   9, 0, 11),  45.0 :   +69.8
+    Reis do PL                        :     35 (  23, 0, 12),  65.7 :  +153.6
+    Team Queso                        :     11 (  10, 0,  1),  90.9 :  +177.7
+    iWorlds                           :     11 (   9, 0,  2),  81.8 :  +214.2
+    Urubus do Pix 🐦‍⬛          :     21 (  16, 0,  5),  76.2 :  +235.1
+    Olimpo Squad                      :      6 (   6, 0,  0), 100.0 :  +278.3
+    bota limpo                        :      5 (   4, 0,  1),  80.0 :  +325.1
+    Level Esports                     :      6 (   6, 0,  0), 100.0 :  +393.1
+    NORTH SIDE RAIDERS                :      4 (   4, 0,  0), 100.0 :  +465.6
+    Twig Real                         :      4 (   4, 0,  0), 100.0 :  +477.2
+    CFZ                               :      4 (   4, 0,  0), 100.0 :  +807.0
+    paiN                              :      4 (   4, 0,  0), 100.0 :  +832.1
+    Tesla Division                    :      4 (   4, 0,  0), 100.0 :  +943.7
+    LA FÚRIA BS                      :      4 (   4, 0,  0), 100.0 : +1232.0
+
+ 3) SKCalalas                  2925.7 :    145 (+100,=0,-45),  69.0 %
+
+    vs.                               :  games (   +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :     17 (   4, 0, 13),  23.5 :  -100.7
+    FUT Esports                       :     20 (  11, 0,  9),  55.0 :   -69.8
+    Marruecos                         :     32 (  17, 0, 15),  53.1 :   +79.6
+    Team Queso                        :     14 (  10, 0,  4),  71.4 :  +107.9
+    Olimpo Squad                      :      5 (   4, 0,  1),  80.0 :  +208.5
+    Panchos                           :     13 (  10, 0,  3),  76.9 :  +284.2
+    Raza eSports                      :      4 (   4, 0,  0), 100.0 :  +368.6
+    >:3                               :      4 (   4, 0,  0), 100.0 :  +424.1
+    Revenge Gaming                    :      4 (   4, 0,  0), 100.0 :  +509.1
+    Perde baixo                       :      8 (   8, 0,  0), 100.0 :  +598.2
+    Underdogs                         :      8 (   8, 0,  0), 100.0 :  +694.8
+    Legends Stars                     :      4 (   4, 0,  0), 100.0 :  +760.6
+    Warriors Team                     :      4 (   4, 0,  0), 100.0 :  +813.6
+    Texas burguer                     :      4 (   4, 0,  0), 100.0 :  +888.0
+    Merlenses                         :      4 (   4, 0,  0), 100.0 :  +910.9
+
+ 4) Marruecos                  2846.1 :    170 (+96,=0,-74),  56.5 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :     29 (  6, 0, 23),  20.7 :  -180.4
+    SKCalalas                         :     32 ( 15, 0, 17),  46.9 :   -79.6
+    Reis do PL                        :     32 ( 16, 0, 16),  50.0 :    +4.2
+    Team Queso                        :      7 (  3, 0,  4),  42.9 :   +28.3
+    Arranca Diu                       :      4 (  4, 0,  0), 100.0 :   +48.8
+    Olimpo Squad                      :      7 (  4, 0,  3),  57.1 :  +128.9
+    One Chance 🌎                   :     12 (  8, 0,  4),  66.7 :  +138.2
+    noite carioca                     :      5 (  4, 0,  1),  80.0 :  +160.4
+    Demons Gaming                     :      4 (  4, 0,  0), 100.0 :  +232.6
+    Elite Brawlstars 🌎             :      5 (  4, 0,  1),  80.0 :  +242.9
+    Level Esports                     :     10 (  8, 0,  2),  80.0 :  +243.7
+    Los flaites                       :      5 (  4, 0,  1),  80.0 :  +380.5
+    Revenge Gaming                    :      4 (  4, 0,  0), 100.0 :  +429.4
+    DirectX                           :      5 (  4, 0,  1),  80.0 :  +606.1
+    Hibou Argento                     :      5 (  4, 0,  1),  80.0 :  +804.3
+    Os Pianistas                      :      4 (  4, 0,  0), 100.0 : +1166.3
+
+ 5) Reis do PL                 2841.9 :    159 (+94,=0,-65),  59.1 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    FUT Esports                       :     35 ( 12, 0, 23),  34.3 :  -153.6
+    Marruecos                         :     32 ( 16, 0, 16),  50.0 :    -4.2
+    Team Queso                        :     25 ( 13, 0, 12),  52.0 :   +24.1
+    Olimpo Squad                      :     17 ( 12, 0,  5),  70.6 :  +124.7
+    ACRE LOVERS                       :     13 (  9, 0,  4),  69.2 :  +170.4
+    Big Studios                       :      5 (  4, 0,  1),  80.0 :  +209.0
+    Level Esports                     :      4 (  4, 0,  0), 100.0 :  +239.5
+    Sublime                           :      4 (  4, 0,  0), 100.0 :  +383.5
+    Revenge Gaming                    :      4 (  4, 0,  0), 100.0 :  +425.2
+    SP team                           :      5 (  4, 0,  1),  80.0 :  +451.3
+    CFZ                               :      4 (  4, 0,  0), 100.0 :  +653.4
+    CYY66                             :      5 (  4, 0,  1),  80.0 :  +677.9
+    Time 7                            :      6 (  4, 0,  2),  66.7 :  +913.1
+
+ 6) Team Queso                 2817.8 :    179 (+110,=0,-69),  61.5 %
+
+    vs.                               :  games (   +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :     21 (   4, 0, 17),  19.0 :  -208.7
+    FUT Esports                       :     11 (   1, 0, 10),   9.1 :  -177.7
+    SKCalalas                         :     14 (   4, 0, 10),  28.6 :  -107.9
+    Marruecos                         :      7 (   4, 0,  3),  57.1 :   -28.3
+    Reis do PL                        :     25 (  12, 0, 13),  48.0 :   -24.1
+    Urubus do Pix 🐦‍⬛          :      4 (   4, 0,  0), 100.0 :   +57.4
+    One Chance 🌎                   :      8 (   5, 0,  3),  62.5 :  +109.8
+    noite carioca                     :      5 (   4, 0,  1),  80.0 :  +132.1
+    Big Studios                       :     13 (  10, 0,  3),  76.9 :  +184.9
+    Demons Gaming                     :      5 (   4, 0,  1),  80.0 :  +204.3
+    Level Esports                     :     14 (   8, 0,  6),  57.1 :  +215.4
+    NORTH SIDE RAIDERS                :      8 (   8, 0,  0), 100.0 :  +287.9
+    >:3                               :      8 (   8, 0,  0), 100.0 :  +316.1
+    Balinhas                          :      7 (   6, 0,  1),  85.7 :  +345.4
+    Nova Vestroia                     :      5 (   4, 0,  1),  80.0 :  +357.7
+    Revenge Gaming                    :      4 (   4, 0,  0), 100.0 :  +401.1
+    DOM Esports                       :      4 (   4, 0,  0), 100.0 :  +416.4
+    CFZ                               :      4 (   4, 0,  0), 100.0 :  +629.3
+    Warriors Team                     :      4 (   4, 0,  0), 100.0 :  +705.7
+    GOLDEN FALCONS                    :      4 (   4, 0,  0), 100.0 :  +810.0
+    RDL | WANGESTU                    :      4 (   4, 0,  0), 100.0 :  +830.3
+
+ 7) Arranca Diu                2797.3 :     28 (+19,=0,-9),  67.9 %
+
+    vs.                               :  games (  +, =, -),   (%) :    Diff
+    Marruecos                         :      4 (  0, 0, 4),   0.0 :   -48.8
+    Urubus do Pix 🐦‍⬛          :      7 (  3, 0, 4),  42.9 :   +36.9
+    One Chance 🌎                   :      9 (  8, 0, 1),  88.9 :   +89.3
+    DirectX                           :      4 (  4, 0, 0), 100.0 :  +557.3
+    NVD                               :      4 (  4, 0, 0), 100.0 :  +753.0
+
+ 8) iWorlds                    2781.3 :     66 (+29,=0,-37),  43.9 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :     17 (  4, 0, 13),  23.5 :  -245.1
+    FUT Esports                       :     11 (  2, 0,  9),  18.2 :  -214.2
+    Urubus do Pix 🐦‍⬛          :     14 (  8, 0,  6),  57.1 :   +21.0
+    Olimpo Squad                      :      7 (  5, 0,  2),  71.4 :   +64.1
+    noite carioca                     :      9 (  5, 0,  4),  55.6 :   +95.6
+    Level Esports                     :      8 (  5, 0,  3),  62.5 :  +178.9
+
+ 9) Urubus do Pix 🐦‍⬛   2760.3 :    110 (+67,=0,-43),  60.9 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    FUT Esports                       :     21 (  5, 0, 16),  23.8 :  -235.1
+    Team Queso                        :      4 (  0, 0,  4),   0.0 :   -57.4
+    Arranca Diu                       :      7 (  4, 0,  3),  57.1 :   -36.9
+    iWorlds                           :     14 (  6, 0,  8),  42.9 :   -21.0
+    One Chance 🌎                   :      5 (  4, 0,  1),  80.0 :   +52.4
+    Panchos                           :     13 (  8, 0,  5),  61.5 :  +118.8
+    Big Studios                       :      4 (  4, 0,  0), 100.0 :  +127.5
+    Level Esports                     :      8 (  4, 0,  4),  50.0 :  +158.0
+    Nova Vestroia                     :      4 (  4, 0,  0), 100.0 :  +300.3
+    Revenge Gaming                    :      6 (  4, 0,  2),  66.7 :  +343.7
+    SP team                           :      4 (  4, 0,  0), 100.0 :  +369.8
+    🇵🇪PERUVIAN STARS🏆        :      4 (  4, 0,  0), 100.0 :  +472.3
+    Cerrau                            :      4 (  4, 0,  0), 100.0 :  +562.2
+    Lost Time                         :      4 (  4, 0,  0), 100.0 :  +562.4
+    CFZ                               :      4 (  4, 0,  0), 100.0 :  +571.9
+    paiN                              :      4 (  4, 0,  0), 100.0 :  +597.0
+
+10) Olimpo Squad               2717.2 :    140 (+77,=0,-63),  55.0 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :     12 (  2, 0, 10),  16.7 :  -309.2
+    FUT Esports                       :      6 (  0, 0,  6),   0.0 :  -278.3
+    SKCalalas                         :      5 (  1, 0,  4),  20.0 :  -208.5
+    Marruecos                         :      7 (  3, 0,  4),  42.9 :  -128.9
+    Reis do PL                        :     17 (  5, 0, 12),  29.4 :  -124.7
+    iWorlds                           :      7 (  2, 0,  5),  28.6 :   -64.1
+    One Chance 🌎                   :     20 (  9, 0, 11),  45.0 :    +9.3
+    Panchos                           :      4 (  4, 0,  0), 100.0 :   +75.6
+    Big Studios                       :     22 ( 14, 0,  8),  63.6 :   +84.4
+    NORTH SIDE RAIDERS                :      8 (  5, 0,  3),  62.5 :  +187.3
+    Macaquitos F/A                    :      4 (  4, 0,  0), 100.0 :  +212.1
+    Underrated Ones                   :      4 (  4, 0,  0), 100.0 :  +430.9
+    Underdogs                         :      8 (  8, 0,  0), 100.0 :  +486.3
+    Aurora Gaming                     :      8 (  8, 0,  0), 100.0 :  +546.3
+    Legends Stars                     :      4 (  4, 0,  0), 100.0 :  +552.1
+    Aposentados ™                   :      4 (  4, 0,  0), 100.0 :  +781.7
+
+11) One Chance 🌎            2707.9 :     82 (+40,=0,-42),  48.8 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      4 (  0, 0,  4),   0.0 :  -318.5
+    Marruecos                         :     12 (  4, 0,  8),  33.3 :  -138.2
+    Team Queso                        :      8 (  3, 0,  5),  37.5 :  -109.8
+    Arranca Diu                       :      9 (  1, 0,  8),  11.1 :   -89.3
+    Urubus do Pix 🐦‍⬛          :      5 (  1, 0,  4),  20.0 :   -52.4
+    Olimpo Squad                      :     20 ( 11, 0,  9),  55.0 :    -9.3
+    Level Esports                     :      5 (  4, 0,  1),  80.0 :  +105.5
+    Raza eSports                      :      5 (  4, 0,  1),  80.0 :  +150.8
+    NORTH SIDE RAIDERS                :      6 (  4, 0,  2),  66.7 :  +178.0
+    Level Academy                     :      4 (  4, 0,  0), 100.0 :  +218.3
+    DOM Esports                       :      4 (  4, 0,  0), 100.0 :  +306.6
+
+12) noite carioca              2685.7 :     53 (+34,=0,-19),  64.2 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Marruecos                         :      5 (  1, 0,  4),  20.0 :  -160.4
+    Team Queso                        :      5 (  1, 0,  4),  20.0 :  -132.1
+    iWorlds                           :      9 (  4, 0,  5),  44.4 :   -95.6
+    ACRE LOVERS                       :      9 (  4, 0,  5),  44.4 :   +14.2
+    >:3                               :      5 (  4, 0,  1),  80.0 :  +184.0
+    paiN                              :      4 (  4, 0,  0), 100.0 :  +522.3
+    TodasIgualesPeCausa               :      4 (  4, 0,  0), 100.0 :  +523.1
+    Ñam sports                       :      4 (  4, 0,  0), 100.0 :  +582.1
+    VongolaAkatsuki                   :      4 (  4, 0,  0), 100.0 :  +644.6
+    BATATA                            :      4 (  4, 0,  0), 100.0 :  +653.5
+
+13) ACRE LOVERS                2671.4 :     59 (+34,=0,-25),  57.6 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Reis do PL                        :     13 (  4, 0,  9),  30.8 :  -170.4
+    noite carioca                     :      9 (  5, 0,  4),  55.6 :   -14.2
+    bota limpo                        :      7 (  3, 0,  4),  42.9 :    +1.1
+    Big Studios                       :     13 (  6, 0,  7),  46.2 :   +38.6
+    Nobruzes                          :      5 (  4, 0,  1),  80.0 :  +181.3
+    paiN                              :      4 (  4, 0,  0), 100.0 :  +508.1
+    100 Ela                           :      4 (  4, 0,  0), 100.0 :  +746.5
+    BrawlBros💪🎭                 :      4 (  4, 0,  0), 100.0 :  +837.8
+
+14) bota limpo                 2670.4 :     33 (+19,=0,-14),  57.6 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      5 (  1, 0,  4),  20.0 :  -356.1
+    FUT Esports                       :      5 (  1, 0,  4),  20.0 :  -325.1
+    ACRE LOVERS                       :      7 (  4, 0,  3),  57.1 :    -1.1
+    DOM Esports                       :      8 (  5, 0,  3),  62.5 :  +269.0
+    The Last Hope 🔮                :      4 (  4, 0,  0), 100.0 :  +504.6
+    Tesla Division                    :      4 (  4, 0,  0), 100.0 :  +618.6
+
+15) Panchos                    2641.5 :     55 (+29,=0,-26),  52.7 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    SKCalalas                         :     13 (  3, 0, 10),  23.1 :  -284.2
+    Urubus do Pix 🐦‍⬛          :     13 (  5, 0,  8),  38.5 :  -118.8
+    Olimpo Squad                      :      4 (  0, 0,  4),   0.0 :   -75.6
+    Bom Dia Princesa                  :      8 (  5, 0,  3),  62.5 :   +48.3
+    DirectX                           :      5 (  4, 0,  1),  80.0 :  +401.6
+    VongolaAkatsuki                   :      4 (  4, 0,  0), 100.0 :  +600.4
+    El Rejunte                        :      4 (  4, 0,  0), 100.0 :  +764.7
+    Phantom Knights                   :      4 (  4, 0,  0), 100.0 : +1055.6
+
+16) Big Studios                2632.8 :    148 (+87,=0,-61),  58.8 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      4 (  0, 0,  4),   0.0 :  -393.6
+    Reis do PL                        :      5 (  1, 0,  4),  20.0 :  -209.0
+    Team Queso                        :     13 (  3, 0, 10),  23.1 :  -184.9
+    Urubus do Pix 🐦‍⬛          :      4 (  0, 0,  4),   0.0 :  -127.5
+    Olimpo Squad                      :     22 (  8, 0, 14),  36.4 :   -84.4
+    ACRE LOVERS                       :     13 (  7, 0,  6),  53.8 :   -38.6
+    Level Esports                     :      7 (  3, 0,  4),  42.9 :   +30.5
+    Macaquitos F/A                    :      6 (  4, 0,  2),  66.7 :  +127.8
+    Level Academy                     :      4 (  4, 0,  0), 100.0 :  +143.2
+    Balinhas                          :     14 ( 12, 0,  2),  85.7 :  +160.5
+    Los flaites                       :      8 (  5, 0,  3),  62.5 :  +167.3
+    Nova Vestroia                     :      5 (  4, 0,  1),  80.0 :  +172.8
+    Sublime                           :      4 (  4, 0,  0), 100.0 :  +174.5
+    Revenge Gaming                    :      5 (  4, 0,  1),  80.0 :  +216.2
+    DOM Esports                       :      5 (  4, 0,  1),  80.0 :  +231.5
+    GoD TeaM                          :      6 (  4, 0,  2),  66.7 :  +232.0
+    Perde baixo                       :      5 (  4, 0,  1),  80.0 :  +305.4
+    NextLevel1                        :      5 (  4, 0,  1),  80.0 :  +336.3
+    Underdogs                         :      5 (  4, 0,  1),  80.0 :  +402.0
+    Aposentados ™                   :      4 (  4, 0,  0), 100.0 :  +697.4
+    Grasosos                          :      4 (  4, 0,  0), 100.0 :  +786.6
+
+17) Demons Gaming              2613.5 :     26 (+17,=0,-9),  65.4 %
+
+    vs.                               :  games (  +, =, -),   (%) :    Diff
+    Marruecos                         :      4 (  0, 0, 4),   0.0 :  -232.6
+    Team Queso                        :      5 (  1, 0, 4),  20.0 :  -204.3
+    F/A Ponnys                        :      4 (  4, 0, 0), 100.0 :  +264.4
+    🇵🇪PERUVIAN STARS🏆        :      5 (  4, 0, 1),  80.0 :  +325.4
+    BROKEN ONE                        :      4 (  4, 0, 0), 100.0 :  +423.2
+    3DBR Sports Ultra                 :      4 (  4, 0, 0), 100.0 :  +441.1
+
+18) Fire Jokers Gaming         2605.4 :      4 (+0,=0,-4),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Spacestation Gaming               :      4 ( 0, 0, 4),   0.0 :  -421.0
+
+19) Elite Brawlstars 🌎      2603.1 :      5 (+1,=0,-4),  20.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Marruecos                         :      5 ( 1, 0, 4),  20.0 :  -242.9
+
+20) Level Esports              2602.4 :    130 (+63,=0,-67),  48.5 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      5 (  1, 0,  4),  20.0 :  -424.1
+    FUT Esports                       :      6 (  0, 0,  6),   0.0 :  -393.1
+    Marruecos                         :     10 (  2, 0,  8),  20.0 :  -243.7
+    Reis do PL                        :      4 (  0, 0,  4),   0.0 :  -239.5
+    Team Queso                        :     14 (  6, 0,  8),  42.9 :  -215.4
+    iWorlds                           :      8 (  3, 0,  5),  37.5 :  -178.9
+    Urubus do Pix 🐦‍⬛          :      8 (  4, 0,  4),  50.0 :  -158.0
+    One Chance 🌎                   :      5 (  1, 0,  4),  20.0 :  -105.5
+    Big Studios                       :      7 (  4, 0,  3),  57.1 :   -30.5
+    Macaquitos F/A                    :     13 (  5, 0,  8),  38.5 :   +97.3
+    >:3                               :      5 (  4, 0,  1),  80.0 :  +100.8
+    Level Academy                     :      9 (  5, 0,  4),  55.6 :  +112.8
+    Balinhas                          :      7 (  3, 0,  4),  42.9 :  +130.0
+    Revenge Gaming                    :      9 (  8, 0,  1),  88.9 :  +185.7
+    DOM Esports                       :      5 (  4, 0,  1),  80.0 :  +201.0
+    DirectX                           :      4 (  4, 0,  0), 100.0 :  +362.5
+    LPC F/A                           :      7 (  5, 0,  2),  71.4 :  +460.2
+    Phantom Knights                   :      4 (  4, 0,  0), 100.0 : +1016.5
+
+21) Bom Dia Princesa           2593.3 :     21 (+15,=0,-6),  71.4 %
+
+    vs.                               :  games (  +, =, -),   (%) :    Diff
+    Panchos                           :      8 (  3, 0, 5),  37.5 :   -48.3
+    Los Flex                          :      5 (  4, 0, 1),  80.0 :  +223.5
+    Titans E-Sports                   :      4 (  4, 0, 0), 100.0 :  +460.7
+    Aposentados ™                   :      4 (  4, 0, 0), 100.0 :  +657.8
+
+22) Raza eSports               2557.1 :     17 (+9,=0,-8),  52.9 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    SKCalalas                         :      4 ( 0, 0, 4),   0.0 :  -368.6
+    One Chance 🌎                   :      5 ( 1, 0, 4),  20.0 :  -150.8
+    🇵🇪PERUVIAN STARS🏆        :      4 ( 4, 0, 0), 100.0 :  +269.0
+    Tesla Division                    :      4 ( 4, 0, 0), 100.0 :  +505.3
+
+23) NORTH SIDE RAIDERS         2529.9 :     30 (+9,=0,-21),  30.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    FUT Esports                       :      4 ( 0, 0,  4),   0.0 :  -465.6
+    Team Queso                        :      8 ( 0, 0,  8),   0.0 :  -287.9
+    Olimpo Squad                      :      8 ( 3, 0,  5),  37.5 :  -187.3
+    One Chance 🌎                   :      6 ( 2, 0,  4),  33.3 :  -178.0
+    Mini XB                           :      4 ( 4, 0,  0), 100.0 :  +516.5
+
+24) Twig Real                  2518.3 :      8 (+4,=0,-4),  50.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    FUT Esports                       :      4 ( 0, 0, 4),   0.0 :  -477.2
+    VongolaAkatsuki                   :      4 ( 4, 0, 0), 100.0 :  +477.2
+
+25) Macaquitos F/A             2505.0 :     78 (+45,=0,-33),  57.7 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      7 (  2, 0,  5),  28.6 :  -521.4
+    Olimpo Squad                      :      4 (  0, 0,  4),   0.0 :  -212.1
+    Big Studios                       :      6 (  2, 0,  4),  33.3 :  -127.8
+    Level Esports                     :     13 (  8, 0,  5),  61.5 :   -97.3
+    Level Academy                     :      8 (  5, 0,  3),  62.5 :   +15.4
+    Nova Vestroia                     :      6 (  2, 0,  4),  33.3 :   +45.0
+    Revenge Gaming                    :      7 (  3, 0,  4),  42.9 :   +88.4
+    CFZ                               :      7 (  4, 0,  3),  57.1 :  +316.6
+    The Last Hope 🔮                :      3 (  3, 0,  0), 100.0 :  +339.3
+    BATATA                            :      5 (  4, 0,  1),  80.0 :  +472.9
+    El Rejunte                        :      4 (  4, 0,  0), 100.0 :  +628.2
+    BrawlBros💪🎭                 :      4 (  4, 0,  0), 100.0 :  +671.4
+    Nativos                           :      4 (  4, 0,  0), 100.0 :  +897.9
+
+26) >:3                        2501.6 :     56 (+24,=0,-32),  42.9 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      7 (  2, 0,  5),  28.6 :  -524.8
+    SKCalalas                         :      4 (  0, 0,  4),   0.0 :  -424.1
+    Team Queso                        :      8 (  0, 0,  8),   0.0 :  -316.1
+    noite carioca                     :      5 (  1, 0,  4),  20.0 :  -184.0
+    Level Esports                     :      5 (  1, 0,  4),  20.0 :  -100.8
+    Balinhas                          :      8 (  3, 0,  5),  37.5 :   +29.2
+    DOM Esports                       :      4 (  4, 0,  0), 100.0 :  +100.3
+    F/A Ponnys                        :      7 (  5, 0,  2),  71.4 :  +152.6
+    Titans E-Sports                   :      4 (  4, 0,  0), 100.0 :  +369.1
+    Hady                              :      4 (  4, 0,  0), 100.0 :  +455.1
+
+27) Nobruzes                   2490.2 :     32 (+18,=0,-14),  56.3 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      8 (  0, 0,  8),   0.0 :  -536.2
+    ACRE LOVERS                       :      5 (  1, 0,  4),  20.0 :  -181.3
+    Underrated Ones                   :      4 (  4, 0,  0), 100.0 :  +203.9
+    Lost Time                         :      7 (  5, 0,  2),  71.4 :  +292.2
+    Tesla Division                    :      8 (  8, 0,  0), 100.0 :  +438.4
+
+28) Level Academy              2489.6 :     44 (+23,=0,-21),  52.3 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    One Chance 🌎                   :      4 (  0, 0,  4),   0.0 :  -218.3
+    Big Studios                       :      4 (  0, 0,  4),   0.0 :  -143.2
+    Level Esports                     :      9 (  4, 0,  5),  44.4 :  -112.8
+    Macaquitos F/A                    :      8 (  3, 0,  5),  37.5 :   -15.4
+    Los flaites                       :      5 (  4, 0,  1),  80.0 :   +24.1
+    Los Monos                         :      6 (  4, 0,  2),  66.7 :  +197.2
+    Lost Time                         :      4 (  4, 0,  0), 100.0 :  +291.7
+    CFZ                               :      4 (  4, 0,  0), 100.0 :  +301.2
+
+29) Balinhas                   2472.4 :     61 (+30,=0,-31),  49.2 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Team Queso                        :      7 (  1, 0,  6),  14.3 :  -345.4
+    Big Studios                       :     14 (  2, 0, 12),  14.3 :  -160.5
+    Level Esports                     :      7 (  4, 0,  3),  57.1 :  -130.0
+    >:3                               :      8 (  5, 0,  3),  62.5 :   -29.2
+    Sublime                           :      6 (  2, 0,  4),  33.3 :   +14.1
+    Los Monos                         :      4 (  4, 0,  0), 100.0 :  +180.0
+    CFZ                               :      6 (  4, 0,  2),  66.7 :  +283.9
+    TodasIgualesPeCausa               :      5 (  4, 0,  1),  80.0 :  +309.9
+    El Rejunte                        :      4 (  4, 0,  0), 100.0 :  +595.5
+
+30) Los flaites                2465.6 :     36 (+17,=0,-19),  47.2 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      4 (  0, 0,  4),   0.0 :  -560.9
+    Marruecos                         :      5 (  1, 0,  4),  20.0 :  -380.5
+    Big Studios                       :      8 (  3, 0,  5),  37.5 :  -167.3
+    Level Academy                     :      5 (  1, 0,  4),  20.0 :   -24.1
+    Los Monos                         :      5 (  4, 0,  1),  80.0 :  +173.2
+    CYY66                             :      5 (  4, 0,  1),  80.0 :  +301.6
+    BrawlBros💪🎭                 :      4 (  4, 0,  0), 100.0 :  +631.9
+
+31) Nova Vestroia              2460.0 :     40 (+21,=0,-19),  52.5 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Team Queso                        :      5 (  1, 0,  4),  20.0 :  -357.7
+    Urubus do Pix 🐦‍⬛          :      4 (  0, 0,  4),   0.0 :  -300.3
+    Big Studios                       :      5 (  1, 0,  4),  20.0 :  -172.8
+    Macaquitos F/A                    :      6 (  4, 0,  2),  66.7 :   -45.0
+    Sublime                           :      8 (  3, 0,  5),  37.5 :    +1.7
+    Razorbacks                        :      4 (  4, 0,  0), 100.0 :  +421.0
+    100 Ela                           :      4 (  4, 0,  0), 100.0 :  +535.1
+    LA FÚRIA BS                      :      4 (  4, 0,  0), 100.0 :  +696.6
+
+32) Sublime                    2458.3 :     44 (+23,=0,-21),  52.3 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Reis do PL                        :      4 (  0, 0,  4),   0.0 :  -383.5
+    Big Studios                       :      4 (  0, 0,  4),   0.0 :  -174.5
+    Balinhas                          :      6 (  4, 0,  2),  66.7 :   -14.1
+    Nova Vestroia                     :      8 (  5, 0,  3),  62.5 :    -1.7
+    DOM Esports                       :      6 (  4, 0,  2),  66.7 :   +57.0
+    GoD TeaM                          :      8 (  5, 0,  3),  62.5 :   +57.5
+    Lost Time                         :      8 (  5, 0,  3),  62.5 :  +260.4
+
+33) Revenge Gaming             2416.6 :     63 (+24,=0,-39),  38.1 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    SKCalalas                         :      4 (  0, 0,  4),   0.0 :  -509.1
+    Marruecos                         :      4 (  0, 0,  4),   0.0 :  -429.4
+    Reis do PL                        :      4 (  0, 0,  4),   0.0 :  -425.2
+    Team Queso                        :      4 (  0, 0,  4),   0.0 :  -401.1
+    Urubus do Pix 🐦‍⬛          :      6 (  2, 0,  4),  33.3 :  -343.7
+    Big Studios                       :      5 (  1, 0,  4),  20.0 :  -216.2
+    Level Esports                     :      9 (  1, 0,  8),  11.1 :  -185.7
+    Macaquitos F/A                    :      7 (  4, 0,  3),  57.1 :   -88.4
+    DOM Esports                       :      4 (  0, 0,  4),   0.0 :   +15.3
+    DirectX                           :      4 (  4, 0,  0), 100.0 :  +176.7
+    LPC F/A                           :      4 (  4, 0,  0), 100.0 :  +274.5
+    Mini XB                           :      4 (  4, 0,  0), 100.0 :  +403.2
+    Team Return🌀                   :      4 (  4, 0,  0), 100.0 :  +421.0
+
+34) DOM Esports                2401.4 :     59 (+21,=0,-38),  35.6 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      4 (  0, 0,  4),   0.0 :  -625.1
+    Team Queso                        :      4 (  0, 0,  4),   0.0 :  -416.4
+    One Chance 🌎                   :      4 (  0, 0,  4),   0.0 :  -306.6
+    bota limpo                        :      8 (  3, 0,  5),  37.5 :  -269.0
+    Big Studios                       :      5 (  1, 0,  4),  20.0 :  -231.5
+    Level Esports                     :      5 (  1, 0,  4),  20.0 :  -201.0
+    >:3                               :      4 (  0, 0,  4),   0.0 :  -100.3
+    Sublime                           :      6 (  2, 0,  4),  33.3 :   -57.0
+    Revenge Gaming                    :      4 (  4, 0,  0), 100.0 :   -15.3
+    Los Monos                         :      6 (  2, 0,  4),  33.3 :  +109.0
+    🇵🇪PERUVIAN STARS🏆        :      5 (  4, 0,  1),  80.0 :  +113.3
+    Escandalosos                      :      4 (  4, 0,  0), 100.0 :  +249.4
+
+35) GoD TeaM                   2400.8 :     26 (+14,=0,-12),  53.8 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Big Studios                       :      6 (  2, 0,  4),  33.3 :  -232.0
+    Sublime                           :      8 (  3, 0,  5),  37.5 :   -57.5
+    BROKEN ONE                        :      7 (  5, 0,  2),  71.4 :  +210.5
+    Legendary Fox                     :      5 (  4, 0,  1),  80.0 :  +244.9
+
+36) SP team                    2390.5 :     18 (+9,=0,-9),  50.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Reis do PL                        :      5 ( 1, 0, 4),  20.0 :  -451.3
+    Urubus do Pix 🐦‍⬛          :      4 ( 0, 0, 4),   0.0 :  -369.8
+    RM                                :      5 ( 4, 0, 1),  80.0 :  +294.3
+    Soka Fofo                         :      4 ( 4, 0, 0), 100.0 :  +905.2
+
+37) Los Flex                   2369.7 :     10 (+5,=0,-5),  50.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Bom Dia Princesa                  :      5 ( 1, 0, 4),  20.0 :  -223.5
+    Team Fluid                        :      5 ( 4, 0, 1),  80.0 :  +223.5
+
+38) F/A Ponnys                 2349.1 :     15 (+6,=0,-9),  40.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Demons Gaming                     :      4 ( 0, 0, 4),   0.0 :  -264.4
+    >:3                               :      7 ( 2, 0, 5),  28.6 :  -152.6
+    Ñam sports                       :      4 ( 4, 0, 0), 100.0 :  +245.6
+
+39) Perde baixo                2327.5 :     13 (+1,=0,-12),   7.7 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    SKCalalas                         :      8 ( 0, 0,  8),   0.0 :  -598.2
+    Big Studios                       :      5 ( 1, 0,  4),  20.0 :  -305.4
+
+40) NextLevel1                 2296.5 :     13 (+6,=0,-7),  46.2 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Big Studios                       :      5 ( 1, 0, 4),  20.0 :  -336.3
+    3DBR Sports Ultra                 :      8 ( 5, 0, 3),  62.5 :  +124.1
+
+41) Los Monos                  2292.4 :     43 (+23,=0,-20),  53.5 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Level Academy                     :      6 (  2, 0,  4),  33.3 :  -197.2
+    Balinhas                          :      4 (  0, 0,  4),   0.0 :  -180.0
+    Los flaites                       :      5 (  1, 0,  4),  20.0 :  -173.2
+    DOM Esports                       :      6 (  4, 0,  2),  66.7 :  -109.0
+    3DBR Sports Ultra                 :      8 (  4, 0,  4),  50.0 :  +120.0
+    Ñam sports                       :      6 (  4, 0,  2),  66.7 :  +188.9
+    Hibou Argento                     :      4 (  4, 0,  0), 100.0 :  +250.6
+    Grasosos                          :      4 (  4, 0,  0), 100.0 :  +446.2
+
+42) 🇵🇪PERUVIAN STARS🏆 2288.1 :     30 (+11,=0,-19),  36.7 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Urubus do Pix 🐦‍⬛          :      4 (  0, 0,  4),   0.0 :  -472.3
+    Demons Gaming                     :      5 (  1, 0,  4),  20.0 :  -325.4
+    Raza eSports                      :      4 (  0, 0,  4),   0.0 :  -269.0
+    DOM Esports                       :      5 (  1, 0,  4),  20.0 :  -113.3
+    Lost Time                         :      8 (  5, 0,  3),  62.5 :   +90.1
+    3DBR Sports Ultra                 :      4 (  4, 0,  0), 100.0 :  +115.7
+
+43) Underrated Ones            2286.3 :     16 (+8,=0,-8),  50.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Olimpo Squad                      :      4 ( 0, 0, 4),   0.0 :  -430.9
+    Nobruzes                          :      4 ( 0, 0, 4),   0.0 :  -203.9
+    VongolaAkatsuki                   :      4 ( 4, 0, 0), 100.0 :  +245.2
+    Aposentados ™                   :      4 ( 4, 0, 0), 100.0 :  +350.9
+
+44) DirectX                    2239.9 :     62 (+32,=0,-30),  51.6 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Marruecos                         :      5 (  1, 0,  4),  20.0 :  -606.1
+    Arranca Diu                       :      4 (  0, 0,  4),   0.0 :  -557.3
+    Panchos                           :      5 (  1, 0,  4),  20.0 :  -401.6
+    Level Esports                     :      4 (  0, 0,  4),   0.0 :  -362.5
+    Revenge Gaming                    :      4 (  0, 0,  4),   0.0 :  -176.7
+    CYY66                             :      7 (  2, 0,  5),  28.6 :   +76.0
+    paiN                              :      4 (  4, 0,  0), 100.0 :   +76.5
+    Team Fluid                        :      5 (  4, 0,  1),  80.0 :   +93.8
+    TRW | Team rAwR                   :      5 (  4, 0,  1),  80.0 :  +201.1
+    Newbas                            :     10 (  8, 0,  2),  80.0 :  +256.7
+    Time 7                            :      4 (  4, 0,  0), 100.0 :  +311.2
+    Gamba BS                          :      5 (  4, 0,  1),  80.0 :  +402.1
+
+45) Underdogs                  2230.9 :     43 (+18,=0,-25),  41.9 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    SKCalalas                         :      8 (  0, 0,  8),   0.0 :  -694.8
+    Olimpo Squad                      :      8 (  0, 0,  8),   0.0 :  -486.3
+    Big Studios                       :      5 (  1, 0,  4),  20.0 :  -402.0
+    paiN                              :      5 (  1, 0,  4),  20.0 :   +67.5
+    Texas burguer                     :      4 (  4, 0,  0), 100.0 :  +193.2
+    Golden Vortex                     :      4 (  4, 0,  0), 100.0 :  +197.6
+    Fortune Tigers                    :      5 (  4, 0,  1),  80.0 :  +226.7
+    LA FÚRIA BS                      :      4 (  4, 0,  0), 100.0 :  +467.4
+
+46) LOS CRIAS TEAM             2225.0 :      6 (+4,=0,-2),  66.7 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Ñam sports                       :      6 ( 4, 0, 2),  66.7 :  +121.5
+
+47) Cerrau                     2198.2 :      9 (+4,=0,-5),  44.4 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Urubus do Pix 🐦‍⬛          :      4 ( 0, 0, 4),   0.0 :  -562.2
+    RDL | WANGESTU                    :      5 ( 4, 0, 1),  80.0 :  +210.7
+
+48) Lost Time                  2198.0 :     76 (+36,=0,-40),  47.4 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Urubus do Pix 🐦‍⬛          :      4 (  0, 0,  4),   0.0 :  -562.4
+    Nobruzes                          :      7 (  2, 0,  5),  28.6 :  -292.2
+    Level Academy                     :      4 (  0, 0,  4),   0.0 :  -291.7
+    Sublime                           :      8 (  3, 0,  5),  37.5 :  -260.4
+    🇵🇪PERUVIAN STARS🏆        :      8 (  3, 0,  5),  37.5 :   -90.1
+    Legends Stars                     :      5 (  4, 0,  1),  80.0 :   +32.9
+    TodasIgualesPeCausa               :      8 (  3, 0,  5),  37.5 :   +35.4
+    Titans E-Sports                   :      8 (  5, 0,  3),  62.5 :   +65.4
+    NVD                               :      5 (  4, 0,  1),  80.0 :  +153.7
+    Golden Vortex                     :      5 (  4, 0,  1),  80.0 :  +164.7
+    Merlenses                         :      7 (  4, 0,  3),  57.1 :  +183.2
+    Tres tristes tigres               :      7 (  4, 0,  3),  57.1 :  +219.9
+
+49) BROKEN ONE                 2190.3 :     34 (+17,=0,-17),  50.0 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Demons Gaming                     :      4 (  0, 0,  4),   0.0 :  -423.2
+    GoD TeaM                          :      7 (  2, 0,  5),  28.6 :  -210.5
+    Team Fluid                        :      7 (  3, 0,  4),  42.9 :   +44.1
+    RM                                :      6 (  4, 0,  2),  66.7 :   +94.0
+    Mini XB                           :     10 (  8, 0,  2),  80.0 :  +176.9
+
+50) CFZ                        2188.4 :     63 (+24,=0,-39),  38.1 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    FUT Esports                       :      4 (  0, 0,  4),   0.0 :  -807.0
+    Reis do PL                        :      4 (  0, 0,  4),   0.0 :  -653.4
+    Team Queso                        :      4 (  0, 0,  4),   0.0 :  -629.3
+    Urubus do Pix 🐦‍⬛          :      4 (  0, 0,  4),   0.0 :  -571.9
+    Macaquitos F/A                    :      7 (  3, 0,  4),  42.9 :  -316.6
+    Level Academy                     :      4 (  0, 0,  4),   0.0 :  -301.2
+    Balinhas                          :      6 (  2, 0,  4),  33.3 :  -283.9
+    Os do Job                         :      7 (  5, 0,  2),  71.4 :  +112.4
+    Hibou Argento                     :      6 (  4, 0,  2),  66.7 :  +146.7
+    Texas burguer                     :      9 (  5, 0,  4),  55.6 :  +150.7
+    Fortune Tigers                    :      8 (  5, 0,  3),  62.5 :  +184.3
+
+51) 3DBR Sports Ultra          2172.4 :     34 (+13,=0,-21),  38.2 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Demons Gaming                     :      4 (  0, 0,  4),   0.0 :  -441.1
+    NextLevel1                        :      8 (  3, 0,  5),  37.5 :  -124.1
+    Los Monos                         :      8 (  4, 0,  4),  50.0 :  -120.0
+    🇵🇪PERUVIAN STARS🏆        :      4 (  0, 0,  4),   0.0 :  -115.7
+    Escandalosos                      :      6 (  2, 0,  4),  33.3 :   +20.4
+    Merlenses                         :      4 (  4, 0,  0), 100.0 :  +157.6
+
+52) Aurora Gaming              2170.9 :      8 (+0,=0,-8),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Olimpo Squad                      :      8 ( 0, 0, 8),   0.0 :  -546.3
+
+53) The Last Hope 🔮         2165.7 :     12 (+4,=0,-8),  33.3 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    bota limpo                        :      4 ( 0, 0, 4),   0.0 :  -504.6
+    Macaquitos F/A                    :      3 ( 0, 0, 3),   0.0 :  -339.3
+    BATATA                            :      5 ( 4, 0, 1),  80.0 :  +133.6
+
+54) Legends Stars              2165.1 :     18 (+5,=0,-13),  27.8 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    SKCalalas                         :      4 ( 0, 0,  4),   0.0 :  -760.6
+    Olimpo Squad                      :      4 ( 0, 0,  4),   0.0 :  -552.1
+    Lost Time                         :      5 ( 1, 0,  4),  20.0 :   -32.9
+    TodasIgualesPeCausa               :      5 ( 4, 0,  1),  80.0 :    +2.5
+
+55) CYY66                      2163.9 :     36 (+18,=0,-18),  50.0 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Reis do PL                        :      5 (  1, 0,  4),  20.0 :  -677.9
+    Los flaites                       :      5 (  1, 0,  4),  20.0 :  -301.6
+    DirectX                           :      7 (  5, 0,  2),  71.4 :   -76.0
+    Mini XB                           :      7 (  3, 0,  4),  42.9 :  +150.5
+    Aposentados ™                   :      7 (  4, 0,  3),  57.1 :  +228.5
+    Time 7                            :      5 (  4, 0,  1),  80.0 :  +235.2
+
+56) paiN                       2163.4 :     38 (+12,=0,-26),  31.6 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    FUT Esports                       :      4 (  0, 0,  4),   0.0 :  -832.1
+    Urubus do Pix 🐦‍⬛          :      4 (  0, 0,  4),   0.0 :  -597.0
+    noite carioca                     :      4 (  0, 0,  4),   0.0 :  -522.3
+    ACRE LOVERS                       :      4 (  0, 0,  4),   0.0 :  -508.1
+    DirectX                           :      4 (  0, 0,  4),   0.0 :   -76.5
+    Underdogs                         :      5 (  4, 0,  1),  80.0 :   -67.5
+    Escandalosos                      :      6 (  4, 0,  2),  66.7 :   +11.4
+    Golden Vortex                     :      7 (  4, 0,  3),  57.1 :  +130.1
+
+57) TodasIgualesPeCausa        2162.5 :     22 (+7,=0,-15),  31.8 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    noite carioca                     :      4 ( 0, 0,  4),   0.0 :  -523.1
+    Balinhas                          :      5 ( 1, 0,  4),  20.0 :  -309.9
+    Lost Time                         :      8 ( 5, 0,  3),  62.5 :   -35.4
+    Legends Stars                     :      5 ( 1, 0,  4),  20.0 :    -2.5
+
+58) Legendary Fox              2155.9 :     11 (+5,=0,-6),  45.5 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    GoD TeaM                          :      5 ( 1, 0, 4),  20.0 :  -244.9
+    Golden Vortex                     :      6 ( 4, 0, 2),  66.7 :  +122.6
+
+59) Escandalosos               2152.0 :     21 (+10,=0,-11),  47.6 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    DOM Esports                       :      4 (  0, 0,  4),   0.0 :  -249.4
+    3DBR Sports Ultra                 :      6 (  4, 0,  2),  66.7 :   -20.4
+    paiN                              :      6 (  2, 0,  4),  33.3 :   -11.4
+    Fortune Tigers                    :      5 (  4, 0,  1),  80.0 :  +147.8
+
+60) Team Fluid                 2146.2 :     17 (+6,=0,-11),  35.3 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Los Flex                          :      5 ( 1, 0,  4),  20.0 :  -223.5
+    DirectX                           :      5 ( 1, 0,  4),  20.0 :   -93.8
+    BROKEN ONE                        :      7 ( 4, 0,  3),  57.1 :   -44.1
+
+61) LPC F/A                    2142.2 :     22 (+6,=0,-16),  27.3 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Spacestation Gaming               :      4 ( 0, 0,  4),   0.0 :  -884.3
+    Level Esports                     :      7 ( 2, 0,  5),  28.6 :  -460.2
+    Revenge Gaming                    :      4 ( 0, 0,  4),   0.0 :  -274.5
+    Fortune Tigers                    :      7 ( 4, 0,  3),  57.1 :  +138.0
+
+62) Titans E-Sports            2132.6 :     36 (+17,=0,-19),  47.2 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Bom Dia Princesa                  :      4 (  0, 0,  4),   0.0 :  -460.7
+    >:3                               :      4 (  0, 0,  4),   0.0 :  -369.1
+    Lost Time                         :      8 (  3, 0,  5),  37.5 :   -65.4
+    VongolaAkatsuki                   :      8 (  5, 0,  3),  62.5 :   +91.5
+    Mini XB                           :      5 (  4, 0,  1),  80.0 :  +119.1
+    GOLDEN FALCONS                    :      7 (  5, 0,  2),  71.4 :  +124.7
+
+63) Warriors Team              2112.1 :     22 (+9,=0,-13),  40.9 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    SKCalalas                         :      4 ( 0, 0,  4),   0.0 :  -813.6
+    Team Queso                        :      4 ( 0, 0,  4),   0.0 :  -705.7
+    Texas burguer                     :      8 ( 5, 0,  3),  62.5 :   +74.4
+    Newbas                            :      6 ( 4, 0,  2),  66.7 :  +128.8
+
+64) Ñam sports                2103.5 :     40 (+20,=0,-20),  50.0 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    noite carioca                     :      4 (  0, 0,  4),   0.0 :  -582.1
+    F/A Ponnys                        :      4 (  0, 0,  4),   0.0 :  -245.6
+    Los Monos                         :      6 (  2, 0,  4),  33.3 :  -188.9
+    LOS CRIAS TEAM                    :      6 (  2, 0,  4),  33.3 :  -121.5
+    Texas burguer                     :      7 (  4, 0,  3),  57.1 :   +65.8
+    Gamba BS                          :      4 (  4, 0,  0), 100.0 :  +265.7
+    BrawlBros💪🎭                 :      5 (  4, 0,  1),  80.0 :  +269.9
+    Os Pianistas                      :      4 (  4, 0,  0), 100.0 :  +423.7
+
+65) RM                         2096.3 :     11 (+3,=0,-8),  27.3 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    SP team                           :      5 ( 1, 0, 4),  20.0 :  -294.3
+    BROKEN ONE                        :      6 ( 2, 0, 4),  33.3 :   -94.0
+
+66) Os do Job                  2076.0 :     11 (+6,=0,-5),  54.5 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    CFZ                               :      7 ( 2, 0, 5),  28.6 :  -112.4
+    THE NEWBAS                        :      4 ( 4, 0, 0), 100.0 :  +378.2
+
+67) Tesla Division             2051.8 :     42 (+16,=0,-26),  38.1 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    FUT Esports                       :      4 (  0, 0,  4),   0.0 :  -943.7
+    bota limpo                        :      4 (  0, 0,  4),   0.0 :  -618.6
+    Raza eSports                      :      4 (  0, 0,  4),   0.0 :  -505.3
+    Nobruzes                          :      8 (  0, 0,  8),   0.0 :  -438.4
+    GOLDEN FALCONS                    :      6 (  4, 0,  2),  66.7 :   +44.0
+    Aposentados ™                   :     11 (  8, 0,  3),  72.7 :  +116.3
+    THE NEWBAS                        :      5 (  4, 0,  1),  80.0 :  +354.0
+
+68) Hady                       2046.5 :     32 (+18,=0,-14),  56.3 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    >:3                               :      4 (  0, 0,  4),   0.0 :  -455.1
+    NVD                               :      7 (  3, 0,  4),  42.9 :    +2.3
+    Golden Vortex                     :      7 (  3, 0,  4),  42.9 :   +13.2
+    Aposentados ™                   :      6 (  4, 0,  2),  66.7 :  +111.1
+    Time 7                            :      4 (  4, 0,  0), 100.0 :  +117.8
+    Soka Fofo                         :      4 (  4, 0,  0), 100.0 :  +561.2
+
+69) NVD                        2044.3 :     16 (+5,=0,-11),  31.3 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Arranca Diu                       :      4 ( 0, 0,  4),   0.0 :  -753.0
+    Lost Time                         :      5 ( 1, 0,  4),  20.0 :  -153.7
+    Hady                              :      7 ( 4, 0,  3),  57.1 :    -2.3
+
+70) Hibou Argento              2041.8 :     22 (+8,=0,-14),  36.4 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Marruecos                         :      5 ( 1, 0,  4),  20.0 :  -804.3
+    Los Monos                         :      4 ( 0, 0,  4),   0.0 :  -250.6
+    CFZ                               :      6 ( 2, 0,  4),  33.3 :  -146.7
+    BrawlBros💪🎭                 :      7 ( 5, 0,  2),  71.4 :  +208.1
+
+71) VongolaAkatsuki            2041.1 :     43 (+19,=0,-24),  44.2 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    noite carioca                     :      4 (  0, 0,  4),   0.0 :  -644.6
+    Panchos                           :      4 (  0, 0,  4),   0.0 :  -600.4
+    Twig Real                         :      4 (  0, 0,  4),   0.0 :  -477.2
+    Underrated Ones                   :      4 (  0, 0,  4),   0.0 :  -245.2
+    Titans E-Sports                   :      8 (  3, 0,  5),  37.5 :   -91.5
+    Tres tristes tigres               :      5 (  4, 0,  1),  80.0 :   +63.0
+    Trio Parada Dura                  :      6 (  4, 0,  2),  66.7 :   +97.4
+    Nativos                           :      4 (  4, 0,  0), 100.0 :  +434.0
+    Soka Fofo                         :      4 (  4, 0,  0), 100.0 :  +555.8
+
+72) Razorbacks                 2039.0 :      4 (+0,=0,-4),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Nova Vestroia                     :      4 ( 0, 0, 4),   0.0 :  -421.0
+
+73) TRW | Team rAwR            2038.8 :     11 (+5,=0,-6),  45.5 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    DirectX                           :      5 ( 1, 0, 4),  20.0 :  -201.1
+    Trio Parada Dura                  :      6 ( 4, 0, 2),  66.7 :   +95.2
+
+74) Texas burguer              2037.7 :     38 (+14,=0,-24),  36.8 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    SKCalalas                         :      4 (  0, 0,  4),   0.0 :  -888.0
+    Underdogs                         :      4 (  0, 0,  4),   0.0 :  -193.2
+    CFZ                               :      9 (  4, 0,  5),  44.4 :  -150.7
+    Warriors Team                     :      8 (  3, 0,  5),  37.5 :   -74.4
+    Ñam sports                       :      7 (  3, 0,  4),  42.9 :   -65.8
+    El Rejunte                        :      6 (  4, 0,  2),  66.7 :  +160.9
+
+75) Golden Vortex              2033.3 :     29 (+10,=0,-19),  34.5 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Underdogs                         :      4 (  0, 0,  4),   0.0 :  -197.6
+    Lost Time                         :      5 (  1, 0,  4),  20.0 :  -164.7
+    paiN                              :      7 (  3, 0,  4),  42.9 :  -130.1
+    Legendary Fox                     :      6 (  2, 0,  4),  33.3 :  -122.6
+    Hady                              :      7 (  4, 0,  3),  57.1 :   -13.2
+
+76) BATATA                     2032.2 :     14 (+2,=0,-12),  14.3 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    noite carioca                     :      4 ( 0, 0,  4),   0.0 :  -653.5
+    Macaquitos F/A                    :      5 ( 1, 0,  4),  20.0 :  -472.9
+    The Last Hope 🔮                :      5 ( 1, 0,  4),  20.0 :  -133.6
+
+77) Merlenses                  2014.8 :     15 (+3,=0,-12),  20.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    SKCalalas                         :      4 ( 0, 0,  4),   0.0 :  -910.9
+    Lost Time                         :      7 ( 3, 0,  4),  42.9 :  -183.2
+    3DBR Sports Ultra                 :      4 ( 0, 0,  4),   0.0 :  -157.6
+
+78) Mini XB                    2013.4 :     30 (+7,=0,-23),  23.3 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    NORTH SIDE RAIDERS                :      4 ( 0, 0,  4),   0.0 :  -516.5
+    Revenge Gaming                    :      4 ( 0, 0,  4),   0.0 :  -403.2
+    BROKEN ONE                        :     10 ( 2, 0,  8),  20.0 :  -176.9
+    CYY66                             :      7 ( 4, 0,  3),  57.1 :  -150.5
+    Titans E-Sports                   :      5 ( 1, 0,  4),  20.0 :  -119.1
+
+79) GOLDEN FALCONS             2007.8 :     23 (+8,=0,-15),  34.8 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Team Queso                        :      4 ( 0, 0,  4),   0.0 :  -810.0
+    Titans E-Sports                   :      7 ( 2, 0,  5),  28.6 :  -124.7
+    Tesla Division                    :      6 ( 2, 0,  4),  33.3 :   -44.0
+    Fortune Tigers                    :      6 ( 4, 0,  2),  66.7 :    +3.6
+
+80) Fortune Tigers             2004.2 :     39 (+14,=0,-25),  35.9 %
+
+    vs.                               :  games (  +, =,  -),   (%) :    Diff
+    Underdogs                         :      5 (  1, 0,  4),  20.0 :  -226.7
+    CFZ                               :      8 (  3, 0,  5),  37.5 :  -184.3
+    Escandalosos                      :      5 (  1, 0,  4),  20.0 :  -147.8
+    LPC F/A                           :      7 (  3, 0,  4),  42.9 :  -138.0
+    GOLDEN FALCONS                    :      6 (  2, 0,  4),  33.3 :    -3.6
+    RDL | WANGESTU                    :      8 (  4, 0,  4),  50.0 :   +16.7
+
+81) Team Return🌀            1995.7 :      4 (+0,=0,-4),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Revenge Gaming                    :      4 ( 0, 0, 4),   0.0 :  -421.0
+
+82) RDL | WANGESTU             1987.5 :     17 (+5,=0,-12),  29.4 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Team Queso                        :      4 ( 0, 0,  4),   0.0 :  -830.3
+    Cerrau                            :      5 ( 1, 0,  4),  20.0 :  -210.7
+    Fortune Tigers                    :      8 ( 4, 0,  4),  50.0 :   -16.7
+
+83) Newbas                     1983.3 :     22 (+8,=0,-14),  36.4 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    DirectX                           :     10 ( 2, 0,  8),  20.0 :  -256.7
+    Warriors Team                     :      6 ( 2, 0,  4),  33.3 :  -128.8
+    Gamba BS                          :      6 ( 4, 0,  2),  66.7 :  +145.4
+
+84) Tres tristes tigres        1978.1 :     20 (+8,=0,-12),  40.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Lost Time                         :      7 ( 3, 0,  4),  42.9 :  -219.9
+    VongolaAkatsuki                   :      5 ( 1, 0,  4),  20.0 :   -63.0
+    Trio Parada Dura                  :      8 ( 4, 0,  4),  50.0 :   +34.4
+
+85) Trio Parada Dura           1943.7 :     20 (+8,=0,-12),  40.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    VongolaAkatsuki                   :      6 ( 2, 0,  4),  33.3 :   -97.4
+    TRW | Team rAwR                   :      6 ( 2, 0,  4),  33.3 :   -95.2
+    Tres tristes tigres               :      8 ( 4, 0,  4),  50.0 :   -34.4
+
+86) Aposentados ™            1935.5 :     40 (+8,=0,-32),  20.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Olimpo Squad                      :      4 ( 0, 0,  4),   0.0 :  -781.7
+    Big Studios                       :      4 ( 0, 0,  4),   0.0 :  -697.4
+    Bom Dia Princesa                  :      4 ( 0, 0,  4),   0.0 :  -657.8
+    Underrated Ones                   :      4 ( 0, 0,  4),   0.0 :  -350.9
+    CYY66                             :      7 ( 3, 0,  4),  42.9 :  -228.5
+    Tesla Division                    :     11 ( 3, 0,  8),  27.3 :  -116.3
+    Hady                              :      6 ( 2, 0,  4),  33.3 :  -111.1
+
+87) Time 7                     1928.8 :     19 (+3,=0,-16),  15.8 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Reis do PL                        :      6 ( 2, 0,  4),  33.3 :  -913.1
+    DirectX                           :      4 ( 0, 0,  4),   0.0 :  -311.2
+    CYY66                             :      5 ( 1, 0,  4),  20.0 :  -235.2
+    Hady                              :      4 ( 0, 0,  4),   0.0 :  -117.8
+
+88) 100 Ela                    1924.9 :     14 (+4,=0,-10),  28.6 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    ACRE LOVERS                       :      4 ( 0, 0,  4),   0.0 :  -746.5
+    Nova Vestroia                     :      4 ( 0, 0,  4),   0.0 :  -535.1
+    BrawlBros💪🎭                 :      6 ( 4, 0,  2),  66.7 :   +91.3
+
+89) El Rejunte                 1876.9 :     18 (+2,=0,-16),  11.1 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Panchos                           :      4 ( 0, 0,  4),   0.0 :  -764.7
+    Macaquitos F/A                    :      4 ( 0, 0,  4),   0.0 :  -628.2
+    Balinhas                          :      4 ( 0, 0,  4),   0.0 :  -595.5
+    Texas burguer                     :      6 ( 2, 0,  4),  33.3 :  -160.9
+
+90) Grasosos                   1846.2 :      8 (+0,=0,-8),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Big Studios                       :      4 ( 0, 0, 4),   0.0 :  -786.6
+    Los Monos                         :      4 ( 0, 0, 4),   0.0 :  -446.2
+
+91) Gamba BS                   1837.8 :     15 (+3,=0,-12),  20.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    DirectX                           :      5 ( 1, 0,  4),  20.0 :  -402.1
+    Ñam sports                       :      4 ( 0, 0,  4),   0.0 :  -265.7
+    Newbas                            :      6 ( 2, 0,  4),  33.3 :  -145.4
+
+92) BrawlBros💪🎭          1833.6 :     35 (+9,=0,-26),  25.7 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    ACRE LOVERS                       :      4 ( 0, 0,  4),   0.0 :  -837.8
+    Macaquitos F/A                    :      4 ( 0, 0,  4),   0.0 :  -671.4
+    Los flaites                       :      4 ( 0, 0,  4),   0.0 :  -631.9
+    Ñam sports                       :      5 ( 1, 0,  4),  20.0 :  -269.9
+    Hibou Argento                     :      7 ( 2, 0,  5),  28.6 :  -208.1
+    100 Ela                           :      6 ( 2, 0,  4),  33.3 :   -91.3
+    Phantom Knights                   :      5 ( 4, 0,  1),  80.0 :  +247.7
+
+93) LA FÚRIA BS               1763.5 :     12 (+0,=0,-12),   0.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    FUT Esports                       :      4 ( 0, 0,  4),   0.0 : -1232.0
+    Nova Vestroia                     :      4 ( 0, 0,  4),   0.0 :  -696.6
+    Underdogs                         :      4 ( 0, 0,  4),   0.0 :  -467.4
+
+94) THE NEWBAS                 1697.8 :      9 (+1,=0,-8),  11.1 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Os do Job                         :      4 ( 0, 0, 4),   0.0 :  -378.2
+    Tesla Division                    :      5 ( 1, 0, 4),  20.0 :  -354.0
+
+95) Os Pianistas               1679.8 :      8 (+0,=0,-8),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Marruecos                         :      4 ( 0, 0, 4),   0.0 : -1166.3
+    Ñam sports                       :      4 ( 0, 0, 4),   0.0 :  -423.7
+
+96) Nativos                    1607.1 :      8 (+0,=0,-8),   0.0 %
+
+    vs.                               :  games ( +, =, -),   (%) :    Diff
+    Macaquitos F/A                    :      4 ( 0, 0, 4),   0.0 :  -897.9
+    VongolaAkatsuki                   :      4 ( 0, 0, 4),   0.0 :  -434.0
+
+97) Phantom Knights            1585.9 :     13 (+1,=0,-12),   7.7 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    Panchos                           :      4 ( 0, 0,  4),   0.0 : -1055.6
+    Level Esports                     :      4 ( 0, 0,  4),   0.0 : -1016.5
+    BrawlBros💪🎭                 :      5 ( 1, 0,  4),  20.0 :  -247.7
+
+98) Soka Fofo                  1485.3 :     12 (+0,=0,-12),   0.0 %
+
+    vs.                               :  games ( +, =,  -),   (%) :    Diff
+    SP team                           :      4 ( 0, 0,  4),   0.0 :  -905.2
+    Hady                              :      4 ( 0, 0,  4),   0.0 :  -561.2
+    VongolaAkatsuki                   :      4 ( 0, 0,  4),   0.0 :  -555.8
+

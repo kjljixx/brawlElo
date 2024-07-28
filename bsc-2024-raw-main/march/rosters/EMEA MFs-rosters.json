@@ -1,0 +1,85 @@
+[
+    {
+        "id": "c451626c-e563-11ee-82d7-0242ac190003",
+        "name": "Oceanus Gaming",
+        "seed": 1,
+        "players": [
+            "OCG|Angelboy",
+            "OCG|Cube",
+            "OCG|Nob"
+        ]
+    },
+    {
+        "id": "c455ecb0-e563-11ee-93a3-0242ac190003",
+        "name": "FUT Esports",
+        "seed": 8,
+        "players": [
+            "FUT|Drage",
+            "FUT|OG",
+            "FUT|Filippo"
+        ]
+    },
+    {
+        "id": "c4582a48-e563-11ee-879f-0242ac190003",
+        "name": "ZETA DIVISION",
+        "seed": 4,
+        "players": [
+            "ZETA|GeRo",
+            "ZETA|Nowy297",
+            "ZETA|MeOw"
+        ]
+    },
+    {
+        "id": "c454f166-e563-11ee-917e-0242ac190003",
+        "name": "HMBLE",
+        "seed": 5,
+        "players": [
+            "HMB|Symantec",
+            "HMB|BosS",
+            "HMB|Canaan",
+            "HMB|Lukii"
+        ]
+    },
+    {
+        "id": "c45918ae-e563-11ee-94c5-0242ac190003",
+        "name": "Eclipsar Esport",
+        "seed": 2,
+        "players": [
+            "ECP|GuGu",
+            "ECP|OPE",
+            "ECP|Mric"
+        ]
+    },
+    {
+        "id": "c45735a2-e563-11ee-a29d-0242ac190003",
+        "name": "BC* Gaming",
+        "seed": 7,
+        "players": [
+            "BC*|Mewtu",
+            "BC*|Salty",
+            "BC*|Tomzy"
+        ]
+    },
+    {
+        "id": "c453f2ac-e563-11ee-ac2c-0242ac190003",
+        "name": "Reply Totem",
+        "seed": 3,
+        "players": [
+            "TTM|Role",
+            "TTM|iKaoss",
+            "TTM|Maru",
+            "TTM|Maury"
+        ]
+    },
+    {
+        "id": "c452e876-e563-11ee-93eb-0242ac190003",
+        "name": "SK Gaming",
+        "seed": 6,
+        "players": [
+            "SK|Joker",
+            "SK|LeNain",
+            "SK|Yoshi825",
+            "SK|PGuijarro"
+        ]
+    }
+]

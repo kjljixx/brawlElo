@@ -1,0 +1,917 @@
+[
+  {
+    "bracket": 0,
+    "round": 1,
+    "set": 1,
+    "gameMode": "Heist",
+    "name": "Kaboom Canyon",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000018.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "set": 2,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "set": 3,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "set": 1,
+    "gameMode": "Brawl Ball",
+    "name": "Center Stage",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000132.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "set": 2,
+    "gameMode": "Knockout",
+    "name": "Goldarm Gulch",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000367.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "set": 3,
+    "gameMode": "Hot Zone",
+    "name": "Parallel Plays",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000293.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Hard Rock Mine",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000007.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "set": 2,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "set": 3,
+    "gameMode": "Brawl Ball",
+    "name": "Sneaky Fields",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000050.png"
+  },
+  {
+    "bracket": 0,
+    "round": 4,
+    "set": 1,
+    "gameMode": "Bounty",
+    "name": "Canal Grande",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000054.png"
+  },
+  {
+    "bracket": 0,
+    "round": 4,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 0,
+    "round": 4,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Hot Potato",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000053.png"
+  },
+  {
+    "bracket": 0,
+    "round": 5,
+    "set": 1,
+    "gameMode": "Knockout",
+    "name": "New Horizons",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000703.png"
+  },
+  {
+    "bracket": 0,
+    "round": 5,
+    "set": 2,
+    "gameMode": "Brawl Ball",
+    "name": "Beach Ball",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000143.png"
+  },
+  {
+    "bracket": 0,
+    "round": 5,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 0,
+    "round": 6,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Last Stop",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000636.png"
+  },
+  {
+    "bracket": 0,
+    "round": 6,
+    "set": 2,
+    "gameMode": "Bounty",
+    "name": "Shooting Star",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000005.png"
+  },
+  {
+    "bracket": 0,
+    "round": 6,
+    "set": 3,
+    "gameMode": "Hot Zone",
+    "name": "Dueling Beetles",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000306.png"
+  },
+  {
+    "bracket": 0,
+    "round": 7,
+    "set": 1,
+    "gameMode": "Brawl Ball",
+    "name": "Sneaky Fields",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000050.png"
+  },
+  {
+    "bracket": 0,
+    "round": 7,
+    "set": 2,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 0,
+    "round": 7,
+    "set": 3,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 0,
+    "round": 8,
+    "set": 1,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 0,
+    "round": 8,
+    "set": 2,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 0,
+    "round": 8,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Hot Potato",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000053.png"
+  },
+  {
+    "bracket": 0,
+    "round": 9,
+    "set": 1,
+    "gameMode": "Bounty",
+    "name": "Canal Grande",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000054.png"
+  },
+  {
+    "bracket": 0,
+    "round": 9,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Parallel Plays",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000293.png"
+  },
+  {
+    "bracket": 0,
+    "round": 9,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 1,
+    "round": 1,
+    "set": 1,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 1,
+    "round": 1,
+    "set": 2,
+    "gameMode": "Brawl Ball",
+    "name": "Center Stage",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000132.png"
+  },
+  {
+    "bracket": 1,
+    "round": 1,
+    "set": 3,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 1,
+    "round": 2,
+    "set": 1,
+    "gameMode": "Bounty",
+    "name": "Canal Grande",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000054.png"
+  },
+  {
+    "bracket": 1,
+    "round": 2,
+    "set": 2,
+    "gameMode": "Heist",
+    "name": "Hot Potato",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000053.png"
+  },
+  {
+    "bracket": 1,
+    "round": 2,
+    "set": 3,
+    "gameMode": "Gem Grab",
+    "name": "Hard Rock Mine",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000007.png"
+  },
+  {
+    "bracket": 1,
+    "round": 3,
+    "set": 1,
+    "gameMode": "Brawl Ball",
+    "name": "Beach Ball",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000143.png"
+  },
+  {
+    "bracket": 1,
+    "round": 3,
+    "set": 2,
+    "gameMode": "Gem Grab",
+    "name": "Last Stop",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000636.png"
+  },
+  {
+    "bracket": 1,
+    "round": 3,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 1,
+    "round": 4,
+    "set": 1,
+    "gameMode": "Knockout",
+    "name": "Goldarm Gulch",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000367.png"
+  },
+  {
+    "bracket": 1,
+    "round": 4,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Dueling Beetles",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000306.png"
+  },
+  {
+    "bracket": 1,
+    "round": 4,
+    "set": 3,
+    "gameMode": "Bounty",
+    "name": "Shooting Star",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000005.png"
+  },
+  {
+    "bracket": 1,
+    "round": 5,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 1,
+    "round": 5,
+    "set": 2,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 1,
+    "round": 5,
+    "set": 3,
+    "gameMode": "Knockout",
+    "name": "New Horizons",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000703.png"
+  },
+  {
+    "bracket": 1,
+    "round": 6,
+    "set": 1,
+    "gameMode": "Hot Zone",
+    "name": "Parallel Plays",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000293.png"
+  },
+  {
+    "bracket": 1,
+    "round": 6,
+    "set": 2,
+    "gameMode": "Heist",
+    "name": "Kaboom Canyon",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000018.png"
+  },
+  {
+    "bracket": 1,
+    "round": 6,
+    "set": 3,
+    "gameMode": "Brawl Ball",
+    "name": "Sneaky Fields",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000050.png"
+  },
+  {
+    "bracket": 1,
+    "round": 7,
+    "set": 1,
+    "gameMode": "Bounty",
+    "name": "Shooting Star",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000005.png"
+  },
+  {
+    "bracket": 1,
+    "round": 7,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Dueling Beetles",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000306.png"
+  },
+  {
+    "bracket": 1,
+    "round": 7,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 1,
+    "round": 8,
+    "set": 1,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 1,
+    "round": 8,
+    "set": 2,
+    "gameMode": "Gem Grab",
+    "name": "Last Stop",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000636.png"
+  },
+  {
+    "bracket": 1,
+    "round": 8,
+    "set": 3,
+    "gameMode": "Brawl Ball",
+    "name": "Center Stage",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000132.png"
+  },
+  {
+    "bracket": 1,
+    "round": 9,
+    "set": 1,
+    "gameMode": "Heist",
+    "name": "Hot Potato",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000053.png"
+  },
+  {
+    "bracket": 1,
+    "round": 9,
+    "set": 2,
+    "gameMode": "Knockout",
+    "name": "Goldarm Gulch",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000367.png"
+  },
+  {
+    "bracket": 1,
+    "round": 9,
+    "set": 3,
+    "gameMode": "Hot Zone",
+    "name": "Parallel Plays",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000293.png"
+  },
+  {
+    "bracket": 1,
+    "round": 10,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 1,
+    "round": 10,
+    "set": 2,
+    "gameMode": "Brawl Ball",
+    "name": "Sneaky Fields",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000050.png"
+  },
+  {
+    "bracket": 1,
+    "round": 10,
+    "set": 3,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 1,
+    "round": 11,
+    "set": 1,
+    "gameMode": "Brawl Ball",
+    "name": "Beach Ball",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000143.png"
+  },
+  {
+    "bracket": 1,
+    "round": 11,
+    "set": 2,
+    "gameMode": "Heist",
+    "name": "Kaboom Canyon",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000018.png"
+  },
+  {
+    "bracket": 1,
+    "round": 11,
+    "set": 3,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 1,
+    "round": 12,
+    "set": 1,
+    "gameMode": "Knockout",
+    "name": "New Horizons",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000703.png"
+  },
+  {
+    "bracket": 1,
+    "round": 12,
+    "set": 2,
+    "gameMode": "Bounty",
+    "name": "Canal Grande",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000054.png"
+  },
+  {
+    "bracket": 1,
+    "round": 12,
+    "set": 3,
+    "gameMode": "Gem Grab",
+    "name": "Hard Rock Mine",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000007.png"
+  },
+  {
+    "bracket": 1,
+    "round": 13,
+    "set": 1,
+    "gameMode": "Hot Zone",
+    "name": "Dueling Beetles",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000306.png"
+  },
+  {
+    "bracket": 1,
+    "round": 13,
+    "set": 2,
+    "gameMode": "Knockout",
+    "name": "Goldarm Gulch",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000367.png"
+  },
+  {
+    "bracket": 1,
+    "round": 13,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 1,
+    "round": 14,
+    "set": 1,
+    "gameMode": "Brawl Ball",
+    "name": "Center Stage",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000132.png"
+  },
+  {
+    "bracket": 1,
+    "round": 14,
+    "set": 2,
+    "gameMode": "Gem Grab",
+    "name": "Last Stop",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000636.png"
+  },
+  {
+    "bracket": 1,
+    "round": 14,
+    "set": 3,
+    "gameMode": "Bounty",
+    "name": "Shooting Star",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000005.png"
+  },
+  {
+    "bracket": 1,
+    "round": 15,
+    "set": 1,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 1,
+    "round": 15,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 1,
+    "round": 15,
+    "set": 3,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 1,
+    "round": 16,
+    "set": 1,
+    "gameMode": "Heist",
+    "name": "Kaboom Canyon",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000018.png"
+  },
+  {
+    "bracket": 1,
+    "round": 16,
+    "set": 2,
+    "gameMode": "Brawl Ball",
+    "name": "Beach Ball",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000143.png"
+  },
+  {
+    "bracket": 1,
+    "round": 16,
+    "set": 3,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 1,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Last Stop",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000636.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 1,
+    "set": 2,
+    "gameMode": "Heist",
+    "name": "Kaboom Canyon",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000018.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 1,
+    "set": 3,
+    "gameMode": "Brawl Ball",
+    "name": "Beach Ball",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000143.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 1,
+    "set": 4,
+    "gameMode": "Bounty",
+    "name": "Canal Grande",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000054.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 1,
+    "set": 5,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 2,
+    "set": 1,
+    "gameMode": "Brawl Ball",
+    "name": "Center Stage",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000132.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 2,
+    "set": 2,
+    "gameMode": "Heist",
+    "name": "Hot Potato",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000053.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 2,
+    "set": 3,
+    "gameMode": "Knockout",
+    "name": "New Horizons",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000703.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 2,
+    "set": 4,
+    "gameMode": "Hot Zone",
+    "name": "Parallel Plays",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000293.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 2,
+    "set": 5,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 3,
+    "set": 1,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 3,
+    "set": 2,
+    "gameMode": "Brawl Ball",
+    "name": "Sneaky Fields",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000050.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 3,
+    "set": 3,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 3,
+    "set": 4,
+    "gameMode": "Gem Grab",
+    "name": "Hard Rock Mine",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000007.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 3,
+    "set": 5,
+    "gameMode": "Knockout",
+    "name": "Goldarm Gulch",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000367.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 4,
+    "set": 1,
+    "gameMode": "Bounty",
+    "name": "Shooting Star",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000005.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 4,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Dueling Beetles",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000306.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 4,
+    "set": 3,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 4,
+    "set": 4,
+    "gameMode": "Knockout",
+    "name": "New Horizons",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000703.png"
+  },
+  {
+    "bracket": 0,
+    "round": 1,
+    "match": 4,
+    "set": 5,
+    "gameMode": "Heist",
+    "name": "Hot Potato",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000053.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 5,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Hard Rock Mine",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000007.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 5,
+    "set": 2,
+    "gameMode": "Knockout",
+    "name": "Goldarm Gulch",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000367.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 5,
+    "set": 3,
+    "gameMode": "Brawl Ball",
+    "name": "Sneaky Fields",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000050.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 5,
+    "set": 4,
+    "gameMode": "Hot Zone",
+    "name": "Open Business",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000292.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 5,
+    "set": 5,
+    "gameMode": "Heist",
+    "name": "Safe Zone",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000019.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 6,
+    "set": 1,
+    "gameMode": "Gem Grab",
+    "name": "Last Stop",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000636.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 6,
+    "set": 2,
+    "gameMode": "Hot Zone",
+    "name": "Parallel Plays",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000293.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 6,
+    "set": 3,
+    "gameMode": "Brawl Ball",
+    "name": "Center Stage",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000132.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 6,
+    "set": 4,
+    "gameMode": "Bounty",
+    "name": "Hideout",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000022.png"
+  },
+  {
+    "bracket": 0,
+    "round": 2,
+    "match": 6,
+    "set": 5,
+    "gameMode": "Knockout",
+    "name": "Flaring Phoenix",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000440.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "match": 7,
+    "set": 1,
+    "gameMode": "Heist",
+    "name": "Kaboom Canyon",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000018.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "match": 7,
+    "set": 2,
+    "gameMode": "Brawl Ball",
+    "name": "Beach Ball",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000143.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "match": 7,
+    "set": 3,
+    "gameMode": "Gem Grab",
+    "name": "Gem Fort",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000010.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "match": 7,
+    "set": 4,
+    "gameMode": "Bounty",
+    "name": "Canal Grande",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000054.png"
+  },
+  {
+    "bracket": 0,
+    "round": 3,
+    "match": 7,
+    "set": 5,
+    "gameMode": "Hot Zone",
+    "name": "Dueling Beetles",
+    "imageUrl": "https://cdn-old.brawlify.com/map/15000306.png"
+  }
+]

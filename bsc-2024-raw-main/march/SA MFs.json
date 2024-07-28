@@ -1,0 +1,553 @@
+{
+    "participant": [
+        {
+            "id": "161f8754-e564-11ee-9c96-0242ac130002",
+            "tournament_id": 0,
+            "name": "CVD F/A",
+            "players": ["RNG|Cauebr","RNG|Doritos","RNG|VTzim"],
+            "img": ""
+        },
+        {
+            "id": "161d719e-e564-11ee-9f2d-0242ac130002",
+            "tournament_id": 0,
+            "name": "Panchos",
+            "players": ["PCH|Tano","PCH|NoOne","PCH|Lukas","PCH|AleSSJ"],
+            "img": ""
+        },
+        {
+            "id": "161e84ee-e564-11ee-889c-0242ac130002",
+            "tournament_id": 0,
+            "name": "Urubus do Pix 🐦‍⬛",
+            "players": ["UDP|PiBuFera","UDP|Jubileubr","UDP|Wesley"],
+            "img": ""
+        },
+        {
+            "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+            "tournament_id": 0,
+            "name": "Fofoletes F/A",
+            "players": ["FOF|Mohtep","FOF|Pekka","FOF|Rol","FOF|Tufa"],
+            "img": ""
+        },
+        {
+            "id": "161a0414-e564-11ee-8ced-0242ac130002",
+            "tournament_id": 0,
+            "name": "Team Queso",
+            "players": ["TQ|Jxcr","TQ|Bryan","TQ|Rhz","SKC | Joaking"],
+            "img": ""
+        },
+        {
+            "id": "161873e2-e564-11ee-911d-0242ac130002",
+            "tournament_id": 0,
+            "name": "Adalmantas 357",
+            "players": ["ADL|Studio","ADL|REI DO FUT","ADL|Fv7","ADL|gudi"],
+            "img": ""
+        },
+        {
+            "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+            "tournament_id": 0,
+            "name": "Calabresos F/A",
+            "players": ["CB|KaioDog","CB|Alche","CB|Edinho","CB|FireCrow"],
+            "img": ""
+        },
+        {
+            "id": "161b4c5c-e564-11ee-b517-0242ac130002",
+            "tournament_id": 0,
+            "name": "Marruecos",
+            "players": ["MRC|Alonso","MRC|Loko","MRC|Kristian"],
+            "img": ""
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "SA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                "name": "CVD F/A",
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "161d719e-e564-11ee-9f2d-0242ac130002",
+                "name": "Panchos",
+                "score": 0,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161d719e-e564-11ee-9f2d-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161d719e-e564-11ee-9f2d-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161d719e-e564-11ee-9f2d-0242ac130002",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161e84ee-e564-11ee-889c-0242ac130002",
+                "name": "Urubus do Pix 🐦‍⬛",
+                "score": 1,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                "name": "Fofoletes F/A",
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161e84ee-e564-11ee-889c-0242ac130002",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161e84ee-e564-11ee-889c-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161e84ee-e564-11ee-889c-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "opponent1": {
+                        "id": "161e84ee-e564-11ee-889c-0242ac130002",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                "name": "Team Queso",
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "161873e2-e564-11ee-911d-0242ac130002",
+                "name": "Adalmantas 357",
+                "score": 0,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161873e2-e564-11ee-911d-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161873e2-e564-11ee-911d-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161873e2-e564-11ee-911d-0242ac130002",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                "name": "Calabresos F/A",
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "161b4c5c-e564-11ee-b517-0242ac130002",
+                "name": "Marruecos",
+                "score": 0,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161b4c5c-e564-11ee-b517-0242ac130002",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161b4c5c-e564-11ee-b517-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161b4c5c-e564-11ee-b517-0242ac130002",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                "name": "CVD F/A",
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                "name": "Fofoletes F/A",
+                "score": 1,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                "name": "Team Queso",
+                "score": 1,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                "name": "Calabresos F/A",
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "opponent1": {
+                        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                "name": "CVD F/A",
+                "score": 0,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                "name": "Calabresos F/A",
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "opponent1": {
+                        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    ]
+}

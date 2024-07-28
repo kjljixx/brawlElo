@@ -1,0 +1,86 @@
+[
+    {
+        "id": "f04b6a2a-e563-11ee-bba6-0242ac190003",
+        "name": "Tribe Gaming",
+        "seed": 1,
+        "players": [
+            "TRB|Zoulan",
+            "TRB|Tyrant",
+            "Code : Cori",
+            "TRB|Ezlivi"
+        ]
+    },
+    {
+        "id": "f04d705e-e563-11ee-800f-0242ac190003",
+        "name": "Real dudes 🦋",
+        "seed": 8,
+        "players": [
+            "LS|Nala",
+            "LS|Joah",
+            "LS|Nobody"
+        ]
+    },
+    {
+        "id": "f0478af4-e563-11ee-bd2c-0242ac190003",
+        "name": "Spacestation Gaming",
+        "seed": 4,
+        "players": [
+            "SSG|tostadas",
+            "SSG|R B M",
+            "SSG|tuni",
+            "SSG|Fade"
+        ]
+    },
+    {
+        "id": "f0489818-e563-11ee-bf0f-0242ac190003",
+        "name": "Juan Carlos Team",
+        "seed": 5,
+        "players": [
+            "JCT|Juan Carlos",
+            "JCT|PaiN",
+            "JCT|secondbest"
+        ]
+    },
+    {
+        "id": "f045fe5a-e563-11ee-b2af-0242ac190003",
+        "name": "Remaining 7 Esports",
+        "seed": 2,
+        "players": [
+            "R7|Zeus",
+            "R7|Luffy",
+            "R7|Killer17",
+            "R7|Peterjeck"
+        ]
+    },
+    {
+        "id": "f04c710e-e563-11ee-a9a4-0242ac190003",
+        "name": "Real Ones",
+        "seed": 7,
+        "players": [
+            "Real|genie",
+            "Real|Razuen",
+            "Real|Nathan",
+            "Real|square"
+        ]
+    },
+    {
+        "id": "f0499538-e563-11ee-8986-0242ac190003",
+        "name": "West Coast FA",
+        "seed": 3,
+        "players": [
+            "WC|Alec26",
+            "WC|Shine",
+            "WC|Chepo"
+        ]
+    },
+    {
+        "id": "f04a8132-e563-11ee-aeb1-0242ac190003",
+        "name": "Luminosity",
+        "seed": 6,
+        "players": [
+            "LG|Patchy",
+            "LG|charlz",
+            "LG|Chino"
+        ]
+    }
+]

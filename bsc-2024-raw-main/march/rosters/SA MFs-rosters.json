@@ -1,0 +1,87 @@
+[
+    {
+        "id": "161f8754-e564-11ee-9c96-0242ac130002",
+        "name": "CVD F/A",
+        "seed": 1,
+        "players": [
+            "RNG|Cauebr",
+            "RNG|Doritos",
+            "RNG|VTzim"
+        ]
+    },
+    {
+        "id": "161d719e-e564-11ee-9f2d-0242ac130002",
+        "name": "Panchos",
+        "seed": 8,
+        "players": [
+            "PCH|Tano",
+            "PCH|NoOne",
+            "PCH|Lukas",
+            "PCH|AleSSJ"
+        ]
+    },
+    {
+        "id": "161e84ee-e564-11ee-889c-0242ac130002",
+        "name": "Urubus do Pix 🐦‍⬛",
+        "seed": 4,
+        "players": [
+            "UDP|PiBuFera",
+            "UDP|Jubileubr",
+            "UDP|Wesley"
+        ]
+    },
+    {
+        "id": "16209b12-e564-11ee-9f9f-0242ac130002",
+        "name": "Fofoletes F/A",
+        "seed": 5,
+        "players": [
+            "FOF|Mohtep",
+            "FOF|Pekka",
+            "FOF|Rol",
+            "FOF|Tufa"
+        ]
+    },
+    {
+        "id": "161a0414-e564-11ee-8ced-0242ac130002",
+        "name": "Team Queso",
+        "seed": 2,
+        "players": [
+            "TQ|Jxcr",
+            "TQ|Bryan",
+            "TQ|Rhz",
+            "SKC | Joaking"
+        ]
+    },
+    {
+        "id": "161873e2-e564-11ee-911d-0242ac130002",
+        "name": "Adalmantas 357",
+        "seed": 7,
+        "players": [
+            "ADL|Studio",
+            "ADL|REI DO FUT",
+            "ADL|Fv7",
+            "ADL|gudi"
+        ]
+    },
+    {
+        "id": "161c5caa-e564-11ee-b6b3-0242ac130002",
+        "name": "Calabresos F/A",
+        "seed": 3,
+        "players": [
+            "CB|KaioDog",
+            "CB|Alche",
+            "CB|Edinho",
+            "CB|FireCrow"
+        ]
+    },
+    {
+        "id": "161b4c5c-e564-11ee-b517-0242ac130002",
+        "name": "Marruecos",
+        "seed": 6,
+        "players": [
+            "MRC|Alonso",
+            "MRC|Loko",
+            "MRC|Kristian"
+        ]
+    }
+]

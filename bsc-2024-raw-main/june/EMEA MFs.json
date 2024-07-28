@@ -1,0 +1,764 @@
+{
+    "participant": [
+        {
+            "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+            "tournament_id": 0,
+            "name": "SK Gaming",
+            "players": [
+                "SK|Joker",
+                "SK|LeNain",
+                "SK|Yoshi825",
+                "SK|PGuijarro"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/SK Gaming.png"
+        },
+        {
+            "id": "6d267992-2680-11ef-b86e-0242ac130004",
+            "tournament_id": 0,
+            "name": "FUT Esports",
+            "players": [
+                "FUT|OG",
+                "FUT|Rama",
+                "FUT|Gas",
+                "FUT|Enraged"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/FUT Esports.webp"
+        },
+        {
+            "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+            "tournament_id": 0,
+            "name": "Eclipsar Esport",
+            "players": [
+                "ECP|GuGu",
+                "ECP|OPE",
+                "ECP|Mebius"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/Eclipsar Esport.png"
+        },
+        {
+            "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+            "tournament_id": 0,
+            "name": "ZETA DIVISION",
+            "players": [
+                "ZETA|GeRo",
+                "ZETA|Nowy297",
+                "ZETA|MeOw"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/ZETA DIVISION.png"
+        },
+        {
+            "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+            "tournament_id": 0,
+            "name": "HMBLE",
+            "players": [
+                "HMB|Symantec",
+                "HMB|BosS",
+                "HMB|Canaan",
+                "HMB|Lukii"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/HMBLE.png"
+        },
+        {
+            "id": "6d286d74-2680-11ef-8598-0242ac130004",
+            "tournament_id": 0,
+            "name": "Pirates",
+            "players": [
+                "PRT|Salty",
+                "PRT|Tomzy",
+                "PRT|Filippo"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/Pirates.png"
+        },
+        {
+            "id": "6d291ada-2680-11ef-8766-0242ac130004",
+            "tournament_id": 0,
+            "name": "Team Ogurchiki",
+            "players": [
+                "OGC|Angelboy",
+                "OGC|Nob",
+                "OGC|Drage"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/Team Ogurchiki.png"
+        },
+        {
+            "id": "6d27bf00-2680-11ef-b903-0242ac130004",
+            "tournament_id": 0,
+            "name": "Pale Fox Esports",
+            "players": [
+                "PFE|Pine",
+                "PFE | A 🧡",
+                "PFE | TheMeg 🧡"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2024-raw/main/logos/Pale Fox Esports.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "EMEA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                "name": "SK Gaming",
+                "seed": 1,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "6d267992-2680-11ef-b86e-0242ac130004",
+                "name": "FUT Esports",
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000010.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d267992-2680-11ef-b86e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Flaring Phoenix",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000440.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d267992-2680-11ef-b86e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000132.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d267992-2680-11ef-b86e-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+                "name": "Eclipsar Esport",
+                "seed": 4,
+                "score": 2,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                "name": "ZETA DIVISION",
+                "seed": 5,
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000306.png",
+                    "opponent1": {
+                        "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000007.png",
+                    "opponent1": {
+                        "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000367.png",
+                    "opponent1": {
+                        "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Beach Ball",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000143.png",
+                    "opponent1": {
+                        "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000018.png",
+                    "opponent1": {
+                        "id": "6d2bedd2-2680-11ef-b584-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                "name": "HMBLE",
+                "seed": 2,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "6d286d74-2680-11ef-8598-0242ac130004",
+                "name": "Pirates",
+                "seed": 7,
+                "score": 1,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000022.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d286d74-2680-11ef-8598-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000292.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d286d74-2680-11ef-8598-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000636.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d286d74-2680-11ef-8598-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000703.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d286d74-2680-11ef-8598-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                "name": "Team Ogurchiki",
+                "seed": 3,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "6d27bf00-2680-11ef-b903-0242ac130004",
+                "name": "Pale Fox Esports",
+                "seed": 6,
+                "score": 1,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000019.png",
+                    "opponent1": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d27bf00-2680-11ef-b903-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000005.png",
+                    "opponent1": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d27bf00-2680-11ef-b903-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Parallel Plays",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000293.png",
+                    "opponent1": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d27bf00-2680-11ef-b903-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000010.png",
+                    "opponent1": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d27bf00-2680-11ef-b903-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                "name": "SK Gaming",
+                "seed": 1,
+                "score": 1,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                "name": "ZETA DIVISION",
+                "seed": 5,
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Beach Ball",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000143.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000053.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000022.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000306.png",
+                    "opponent1": {
+                        "id": "6d29d2ae-2680-11ef-8cae-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                "name": "HMBLE",
+                "seed": 2,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                "name": "Team Ogurchiki",
+                "seed": 3,
+                "score": 2,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000367.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000132.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000018.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000054.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000292.png",
+                    "opponent1": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d291ada-2680-11ef-8766-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                "name": "ZETA DIVISION",
+                "seed": 5,
+                "score": 2,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                "name": "HMBLE",
+                "seed": 2,
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000636.png",
+                    "opponent1": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "New Horizons",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000703.png",
+                    "opponent1": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000050.png",
+                    "opponent1": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000019.png",
+                    "opponent1": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn-old.brawlify.com/map/15000005.png",
+                    "opponent1": {
+                        "id": "6d2b40f8-2680-11ef-95a3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d2a8ab4-2680-11ef-8fb1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    ]
+}

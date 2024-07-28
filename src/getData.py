@@ -1,5 +1,6 @@
-import json
 from getTeamAliases import getTeamAliases
+import json
+import sys
 
 def getData(dataFileName, teamsFileName, results = {}):
   with open(dataFileName, 'r', encoding='utf-8') as file:
@@ -44,4 +45,4 @@ def getData(dataFileName, teamsFileName, results = {}):
   # return results
 
 if __name__ == "__main__":
-    print(getData("matches.json", "teams.json"))
+    print(getData(sys.argv[1], sys.argv[2]))

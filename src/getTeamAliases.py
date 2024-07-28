@@ -1,4 +1,5 @@
 import json
+import sys
 
 def getTeamAliases(dataFileName):
   with open(dataFileName, 'r', encoding='utf-8') as file:
@@ -14,4 +15,4 @@ def getTeamAliases(dataFileName):
   return teamAliases
 
 if __name__ == "__main__":
-    print(getTeamAliases("teams.json", "teamsToAvoid.json"))
+    print(getTeamAliases(sys.argv[1]))

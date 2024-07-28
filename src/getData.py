@@ -1,11 +1,11 @@
 import json
 from getTeamAliases import getTeamAliases
 
-def getData(dataFileName, teamsFileName, teamsToAvoidFileName, results = {}):
+def getData(dataFileName, teamsFileName, results = {}):
   with open(dataFileName, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-  teamAliases = getTeamAliases(teamsFileName, teamsToAvoidFileName)
+  teamAliases = getTeamAliases(teamsFileName)
 
   matches = data["match"]
 

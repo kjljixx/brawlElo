@@ -1,28 +1,21 @@
 
    # PLAYER                        : RATING    POINTS  PLAYED    (%)
-   1 Spacestation Gaming           : 3026.4     150.0     198   75.8%
-   2 FUT Esports                   : 2995.5     129.0     185   69.7%
-   3 SKCalalas                     : 2925.7     100.0     145   69.0%
-   4 Marruecos                     : 2846.1      96.0     170   56.5%
-   5 Reis do PL                    : 2841.9      94.0     159   59.1%
-   6 Team Queso                    : 2817.8     110.0     179   61.5%
-   7 iWorlds                       : 2781.3      29.0      66   43.9%
-   8 Urubus do Pix 🐦‍⬛      : 2760.3      67.0     110   60.9%
-   9 Olimpo Squad                  : 2717.2      77.0     140   55.0%
-  10 One Chance 🌎               : 2707.9      40.0      82   48.8%
-  11 noite carioca                 : 2685.7      34.0      53   64.2%
-  12 ACRE LOVERS                   : 2671.4      34.0      59   57.6%
-  13 Panchos                       : 2641.5      29.0      55   52.7%
-  14 Big Studios                   : 2632.8      87.0     148   58.8%
-  15 Level Esports                 : 2602.4      63.0     130   48.5%
-  16 Macaquitos F/A                : 2505.0      45.0      78   57.7%
-  17 >:3                           : 2501.6      24.0      56   42.9%
-  18 Balinhas                      : 2472.4      30.0      61   49.2%
-  19 Revenge Gaming                : 2416.6      24.0      63   38.1%
-  20 DOM Esports                   : 2401.4      21.0      59   35.6%
-  21 DirectX                       : 2239.9      32.0      62   51.6%
-  22 Lost Time                     : 2198.0      36.0      76   47.4%
-  23 CFZ                           : 2188.4      24.0      63   38.1%
+   1 CASA BRAWL                    : 3663.1      32.0      42   76.2%
+   2 LOUD                          : 3551.3      39.0      58   67.2%
+   3 KaioPerro🐕‍🦺          : 3502.9      28.0      41   68.3%
+   4 Olimpo Squad                  : 3457.5      29.0      52   55.8%
+   5 Zurita Gang                   : 3432.1      29.0      42   69.0%
+   6 Legión Otaku                 : 3408.0      29.0      45   64.4%
+   7 Ninguém Segura☝🏻🤫    : 3266.4      30.0      54   55.6%
+   8 iWorlds                       : 3196.2      14.0      31   45.2%
+   9 3DBR ONE                      : 3138.5      32.0      57   56.1%
+  10 ACRE HATERS🦖               : 3111.3      30.0      51   58.8%
+  11 2026                          : 3094.7      21.0      33   63.6%
+  12 Carteira de trabalho          : 3065.1      20.0      40   50.0%
+  13 Patitos🦆                   : 3054.1      25.0      36   69.4%
+  14 Os Bolinhas                   : 3054.1      13.0      31   41.9%
+  15 HiddenX                       : 2980.6      17.0      35   48.6%
+  16 Vou ate anotar                : 2948.5      14.0      33   42.4%
 
 White advantage = 0.00
 Draw rate (equal opponents) = 50.00 %

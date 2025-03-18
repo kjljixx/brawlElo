@@ -5,7 +5,7 @@ The data found in this repository (in the folder bs-2024-raw-main) is taken from
 
 I kind of expect there to be bugs, so please make an issue on GitHub if you happen to find one.
 
-This was created as an extension of my [EMEA rankings](https://www.reddit.com/r/BrawlStarsEsports/comments/1edort7/emea_elo_rankings/) and [NA rankings](https://www.reddit.com/r/BrawlStarsEsports/comments/1edrhqw/na_elo_rankings/) reddit posts.
+This was originally created as an extension of my [EMEA rankings](https://www.reddit.com/r/BrawlStarsEsports/comments/1edort7/emea_elo_rankings/) and [NA rankings](https://www.reddit.com/r/BrawlStarsEsports/comments/1edrhqw/na_elo_rankings/) reddit posts.
 
 BrawlElo is available under the MIT License.
 

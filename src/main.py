@@ -5,7 +5,10 @@ import sys
 regionAbbrev = sys.argv[1]
 matchFiles = [f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/february/{regionAbbrev.upper()} MQs1.json",
-              f"../bsc-2025-raw/february/{regionAbbrev.upper()} MQs2.json"]
+              f"../bsc-2025-raw/february/{regionAbbrev.upper()} MQs2.json",
+              f"../bsc-2025-raw/march/{regionAbbrev.upper()} MFs.json",
+              f"../bsc-2025-raw/march/{regionAbbrev.upper()} MQs1.json",
+              f"../bsc-2025-raw/march/{regionAbbrev.upper()} MQs2.json"]
 results = getAllData(matchFiles, f"../bsc-2025-raw/leaderboards/2025-{regionAbbrev.lower()}-leaderboard.json")
 
 outputFileName = f"../output/{regionAbbrev.lower()}/{regionAbbrev.lower()}-data.pgn"

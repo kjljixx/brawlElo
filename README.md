@@ -1,7 +1,7 @@
 # BrawlElo
 BrawlElo is a Brawl Stars ESports data analysis/statistics tool to analyze the strength of different teams. It is essentially a wrapper around [Ordo](https://github.com/michiguel/Ordo).
 
-The data found in this repository (in the folder bs-2024-raw-main) is taken from [here](https://github.com/idouab/bsc-2024-raw).
+The data found in this repository (in the folder bsc-2025-raw) is taken from [here](https://github.com/idouab/bsc-2025-raw).
 
 I kind of expect there to be bugs, so please make an issue on GitHub if you happen to find one.
 

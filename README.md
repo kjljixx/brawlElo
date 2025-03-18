@@ -13,12 +13,7 @@ BrawlElo is available under the MIT License.
 Download [Ordo 1.0](https://github.com/michiguel/Ordo/releases/tag/1.0) (for windows: download `ordo-1.0-win.zip`, extract from the zip file, then drag `ordo-win64.exe` into the folder which this `README.md` is in)
 Go to the `src` directory, then run `python main.py (region acronym)`
 
-# You may wonder ...
-
-## Why are the rankings different from the ones in the reddit posts?
-I manually went onto liquipedia and got match results which I thought were relevant. I obviously did not collect all match results, while this code utilizes the full results. This may lead to ranking differences.
-
-## Why are the elo ratings much higher than the ones in the reddit posts?
+# About the Elo System
 In the elo system, what's important is not the actual ratings, but the difference between the ratings. For example, if you only have 3 teams in your system which have elo ratings of 500, 700, and 900, it would be theoretically sound to also say they have elo ratings of 2400, 2600, and 2800.
 
 Ordo automatically shifts elo ratings such that the average elo of all of the teams is 2300. Because this code uses the full match data from Monthly Qualifiers and Monthly Finals, there are more teams which are relatively bad, and so the top teams' elo is shifted upwards to keep the average elo 2300.

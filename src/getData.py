@@ -26,6 +26,10 @@ def getData(dataFileName, teamsFileName, results = {}):
       currResults[0] += game["opponent1"]["score"]
       currResults[1] += game["opponent2"]["score"] 
 
+    if not "name" in match["opponent1"].keys():
+      continue
+    if not "name" in match["opponent2"].keys():
+      continue
     opp1 = match["opponent1"]["name"]
     opp2 = match["opponent2"]["name"]
     if not opp1 in teamAliases.keys():

@@ -8,16 +8,16 @@ matchFiles = [f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/february/{regionAbbrev.upper()} MQs2.json",
               f"../bsc-2025-raw/march/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/march/{regionAbbrev.upper()} MQs1.json",
-              f"../bsc-2025-raw/march/{regionAbbrev.upper()} MQs2.json"
+              f"../bsc-2025-raw/march/{regionAbbrev.upper()} MQs2.json",
               f"../bsc-2025-raw/april/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/april/{regionAbbrev.upper()} MQs1.json",
               f"../bsc-2025-raw/april/{regionAbbrev.upper()} MQs2.json"
               f"../bsc-2025-raw/june/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/june/{regionAbbrev.upper()} MQs1.json",
-              f"../bsc-2025-raw/june/{regionAbbrev.upper()} MQs2.json"
+              f"../bsc-2025-raw/june/{regionAbbrev.upper()} MQs2.json",
               f"../bsc-2025-raw/july/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/july/{regionAbbrev.upper()} MQs1.json",
-              f"../bsc-2025-raw/july/{regionAbbrev.upper()} MQs2.json"
+              f"../bsc-2025-raw/july/{regionAbbrev.upper()} MQs2.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json"]

@@ -57,7 +57,7 @@ Head to head statistics:
      Blue Lock 357                :     12 (  6, 0,  6),  50.0 :  +165.3
      iWorlds                      :      7 (  6, 0,  1),  85.7 :  +259.0
      lele day                     :     12 ( 12, 0,  0), 100.0 :  +276.1
-     Patitos🦆                  :      6 (  6, 0,  0), 100.0 :  +534.8
+     Não treinamos               :      6 (  6, 0,  0), 100.0 :  +534.8
      Tribe 6ix One                :      6 (  6, 0,  0), 100.0 :  +606.1
 
   7) LOUD                  3583.5 :    107 (+72,=0,-35),  67.3 %
@@ -102,7 +102,7 @@ Head to head statistics:
      Inimigos do CLT F/A          :      6 (  6, 0,  0), 100.0 :  +318.2
      Nobruzes F/A                 :      8 (  6, 0,  2),  75.0 :  +325.4
      Revenge 2.0                  :      6 (  6, 0,  0), 100.0 :  +375.2
-     Patitos🦆                  :      6 (  6, 0,  0), 100.0 :  +488.6
+     Não treinamos               :      6 (  6, 0,  0), 100.0 :  +488.6
 
  11) Reis da PL 👑       3535.8 :      4 (+0,=0,-4),   0.0 %
 
@@ -257,7 +257,7 @@ Head to head statistics:
      ACRE HATERS🦖              :     13 (  5, 0,  8),  38.5 :  -136.9
      Carteira de trabalho         :     10 (  3, 0,  7),  30.0 :   -40.0
      Vessete                      :      8 (  5, 0,  3),  62.5 :   +42.7
-     BAP Alianza                  :      4 (  4, 0,  0), 100.0 :  +421.0
+     BAP Alianzaa                 :      4 (  4, 0,  0), 100.0 :  +421.0
      RNG PY                       :      4 (  4, 0,  0), 100.0 : +2118.9
 
  27) 2026                  3171.2 :     55 (+34,=0,-21),  61.8 %
@@ -286,7 +286,7 @@ Head to head statistics:
      vs.                          :  games (  +, =,  -),   (%) :    Diff
      CASA BRAWL                   :      6 (  0, 0,  6),   0.0 :  -448.2
      Legión Otaku                :      7 (  1, 0,  6),  14.3 :  -415.9
-     Patitos🦆                  :     12 (  6, 0,  6),  50.0 :   +97.6
+     Não treinamos               :     12 (  6, 0,  6),  50.0 :   +97.6
      Tribe 6ix One                :      6 (  6, 0,  0), 100.0 :  +168.9
 
  30) Vessete               3129.0 :     17 (+11,=0,-6),  64.7 %
@@ -342,11 +342,11 @@ Head to head statistics:
      vs.                          :  games (  +, =,  -),   (%) :    Diff
      Vou ate anotar               :     14 (  6, 0,  8),  42.9 :   -48.2
      Bengala 🌭                 :      9 (  4, 0,  5),  44.4 :   -39.1
-     tropa do fafa                :      5 (  4, 0,  1),  80.0 :  +233.6
+     Clube das Winx               :      5 (  4, 0,  1),  80.0 :  +233.6
      LOS MACACOS                  :      5 (  4, 0,  1),  80.0 :  +242.9
      M2H                          :      4 (  4, 0,  0), 100.0 : +2338.5
 
- 38) Patitos🦆           3051.3 :     80 (+45,=0,-35),  56.2 %
+ 38) Não treinamos        3051.3 :     80 (+45,=0,-35),  56.2 %
 
      vs.                          :  games (  +, =,  -),   (%) :    Diff
      Zurita Gang                  :      6 (  0, 0,  6),   0.0 :  -534.8
@@ -420,7 +420,7 @@ Head to head statistics:
 
      vs.                          :  games (  +, =,  -),   (%) :    Diff
      F4TALITY                     :      9 (  2, 0,  7),  22.2 :  -230.0
-     Patitos🦆                  :     11 (  5, 0,  6),  45.5 :  -106.7
+     Não treinamos               :     11 (  5, 0,  6),  45.5 :  -106.7
      Tribe 6ix One                :      6 (  2, 0,  4),  33.3 :   -35.4
      The final bs                 :      7 (  5, 0,  2),  71.4 :  +226.6
      Aeternum                     :      5 (  4, 0,  1),  80.0 :  +242.9
@@ -432,7 +432,7 @@ Head to head statistics:
      vs.                          :  games (  +, =,  -),   (%) :    Diff
      Legión Otaku                :      7 (  1, 0,  6),  14.3 :  -630.8
      2026                         :      4 (  0, 0,  4),   0.0 :  -237.3
-     Patitos🦆                  :      9 (  3, 0,  6),  33.3 :  -117.4
+     Não treinamos               :      9 (  3, 0,  6),  33.3 :  -117.4
      BK Onyx                      :      8 (  5, 0,  3),  62.5 :   +66.6
      Chipis team                  :     11 (  7, 0,  4),  63.6 :  +111.7
      Milan latam                  :      5 (  4, 0,  1),  80.0 :  +242.9
@@ -440,20 +440,20 @@ Head to head statistics:
  49) South Park BR         2929.8 :     11 (+6,=0,-5),  54.5 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
-     Patitos🦆                  :      6 ( 2, 0, 4),  33.3 :  -121.5
+     Não treinamos               :      6 ( 2, 0, 4),  33.3 :  -121.5
      Sanguchitos                  :      5 ( 4, 0, 1),  80.0 :  +242.9
 
  50) Nxr Killers           2921.7 :     14 (+6,=0,-8),  42.9 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
      Revenge 2.0                  :      5 ( 1, 0, 4),  20.0 :  -242.9
-     RMS                          :      9 ( 5, 0, 4),  55.6 :   +39.1
+     RZS                          :      9 ( 5, 0, 4),  55.6 :   +39.1
 
  51) 716 Team F/A          2912.0 :     13 (+6,=0,-7),  46.2 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
      Revenge 2.0                  :      5 ( 1, 0, 4),  20.0 :  -252.6
-     tropa do fafa                :      8 ( 5, 0, 3),  62.5 :   +93.6
+     Clube das Winx               :      8 ( 5, 0, 3),  62.5 :   +93.6
 
  52) Tribe 6ix Two         2903.9 :      4 (+0,=0,-4),   0.0 %
 
@@ -470,7 +470,7 @@ Head to head statistics:
  54) OÁSIS GANG           2890.7 :     13 (+6,=0,-7),  46.2 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
-     Patitos🦆                  :      7 ( 2, 0, 5),  28.6 :  -160.6
+     Não treinamos               :      7 ( 2, 0, 5),  28.6 :  -160.6
      Decow Stars                  :      6 ( 4, 0, 2),  66.7 :  +121.5
 
  55) Oncinhas              2887.6 :      4 (+0,=0,-4),   0.0 %
@@ -483,7 +483,7 @@ Head to head statistics:
      vs.                          :  games (  +, =,  -),   (%) :    Diff
      ABSTRACT                     :      4 (  0, 0,  4),   0.0 :  -438.7
      Revenge 2.0                  :      6 (  0, 0,  6),   0.0 :  -278.5
-     Patitos🦆                  :     12 (  4, 0,  8),  33.3 :  -165.1
+     Não treinamos               :     12 (  4, 0,  8),  33.3 :  -165.1
      GG Wellplayed                :      8 (  4, 0,  4),  50.0 :   +44.1
      SemiToyGuns                  :      4 (  4, 0,  0), 100.0 :  +151.3
      Dream team                   :      4 (  4, 0,  0), 100.0 : +2056.2
@@ -493,7 +493,7 @@ Head to head statistics:
      vs.                          :  games ( +, =, -),   (%) :    Diff
      Vessete                      :      5 ( 1, 0, 4),  20.0 :  -242.9
 
- 58) RMS                   2882.6 :     16 (+9,=0,-7),  56.2 %
+ 58) RZS                   2882.6 :     16 (+9,=0,-7),  56.2 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
      Nxr Killers                  :      9 ( 4, 0, 5),  44.4 :   -39.1
@@ -531,7 +531,7 @@ Head to head statistics:
  64) Wave                  2852.3 :     21 (+13,=0,-8),  61.9 %
 
      vs.                          :  games (  +, =, -),   (%) :    Diff
-     Patitos🦆                  :      7 (  1, 0, 6),  14.3 :  -199.0
+     Não treinamos               :      7 (  1, 0, 6),  14.3 :  -199.0
      Balinhas                     :      6 (  4, 0, 2),  66.7 :   +34.9
      The bads                     :      4 (  4, 0, 0), 100.0 :  +421.0
      Northeast Team               :      4 (  4, 0, 0), 100.0 : +2074.5
@@ -568,7 +568,7 @@ Head to head statistics:
      vs.                          :  games ( +, =, -),   (%) :    Diff
      Valhalla                     :      8 ( 5, 0, 3),  62.5 :   +89.5
 
- 70) tropa do fafa         2818.4 :     17 (+8,=0,-9),  47.1 %
+ 70) Clube das Winx        2818.4 :     17 (+8,=0,-9),  47.1 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
      Enosis eSports               :      5 ( 1, 0, 4),  20.0 :  -233.6
@@ -614,7 +614,7 @@ Head to head statistics:
      Malucos                      :      8 ( 4, 0, 4),  50.0 :  -107.2
      SemiToyGuns                  :      6 ( 2, 0, 4),  33.3 :   +21.8
 
- 78) BAP Alianza           2750.7 :      4 (+0,=0,-4),   0.0 %
+ 78) BAP Alianzaa          2750.7 :      4 (+0,=0,-4),   0.0 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
      HiddenX                      :      4 ( 0, 0, 4),   0.0 :  -421.0
@@ -666,7 +666,7 @@ Head to head statistics:
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
      CAP|CAPCON                   :      5 ( 1, 0, 4),  20.0 :  -242.9
-     RMS                          :      7 ( 2, 0, 5),  28.6 :  -160.6
+     RZS                          :      7 ( 2, 0, 5),  28.6 :  -160.6
 
  86) The final bs          2717.9 :     20 (+11,=0,-9),  55.0 %
 
@@ -731,7 +731,7 @@ Head to head statistics:
  97) Magnum gang           2630.3 :      4 (+0,=0,-4),   0.0 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
-     Patitos🦆                  :      4 ( 0, 0, 4),   0.0 :  -421.0
+     Não treinamos               :      4 ( 0, 0, 4),   0.0 :  -421.0
 
  98) STORM                 2627.7 :      6 (+2,=0,-4),  33.3 %
 
@@ -864,7 +864,7 @@ Head to head statistics:
 121) PEPAPINES FC          2397.4 :      4 (+0,=0,-4),   0.0 %
 
      vs.                          :  games ( +, =, -),   (%) :    Diff
-     tropa do fafa                :      4 ( 0, 0, 4),   0.0 :  -421.0
+     Clube das Winx               :      4 ( 0, 0, 4),   0.0 :  -421.0
 
 122) SPK                   2382.4 :      5 (+1,=0,-4),  20.0 %
 

@@ -1,1292 +1,1302 @@
 Head to head statistics:
 
-  1) SK Gaming            3324.4 :     99 (+69,=0,-30),  69.7 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      6 (  6, 0,  0), 100.0 :    +2.5
-     Eclipsar Esport            :     20 ( 12, 0,  8),  60.0 :   +80.5
-     F/A UK                     :     12 (  5, 0,  7),  41.7 :  +110.2
-     Papara SuperMassive        :     10 (  7, 0,  3),  70.0 :  +112.7
-     FUT Esports                :     13 (  8, 0,  5),  61.5 :  +120.8
-     Millesime MG               :      6 (  6, 0,  0), 100.0 :  +193.2
-     LLC Esport                 :     20 ( 13, 0,  7),  65.0 :  +222.4
-     PUZO                       :      6 (  6, 0,  0), 100.0 :  +238.9
-     TOP eSports                :      6 (  6, 0,  0), 100.0 :  +580.6
-
-  2) HMBLE                3321.9 :     68 (+50,=0,-18),  73.5 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :      6 (  0, 0,  6),   0.0 :    -2.5
-     Eclipsar Esport            :     14 (  8, 0,  6),  57.1 :   +78.0
-     F/A UK                     :      7 (  6, 0,  1),  85.7 :  +107.7
-     Team Heretics              :      9 (  6, 0,  3),  66.7 :  +155.1
-     Reverso Gaming             :      6 (  6, 0,  0), 100.0 :  +178.6
-     Skepsis Gaming             :      7 (  6, 0,  1),  85.7 :  +262.6
-     GLORE.FIFINE               :      7 (  6, 0,  1),  85.7 :  +343.9
-     ChessSigmas                :      6 (  6, 0,  0), 100.0 :  +387.5
-     NaN Academy                :      6 (  6, 0,  0), 100.0 :  +711.4
-
-  3) Czech Rivals         3282.2 :      4 (+4,=0,-0), 100.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     COURAGE ONE                :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-  4) Eclipsar Esport      3243.8 :    106 (+60,=0,-46),  56.6 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :     20 (  8, 0, 12),  40.0 :   -80.5
-     HMBLE                      :     14 (  6, 0,  8),  42.9 :   -78.0
-     F/A UK                     :      9 (  6, 0,  3),  66.7 :   +29.7
-     Reply Totem                :     32 ( 18, 0, 14),  56.2 :   +62.6
-     Reverso Gaming             :     10 (  6, 0,  4),  60.0 :  +100.6
-     Smirk Cats                 :     12 (  8, 0,  4),  66.7 :  +194.7
-     Läskit                    :      5 (  4, 0,  1),  80.0 :  +242.9
-     🍆🍑                   :      4 (  4, 0,  0), 100.0 :  +416.4
-
-  5) F/A UK               3214.1 :     93 (+54,=0,-39),  58.1 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :     12 (  7, 0,  5),  58.3 :  -110.2
-     HMBLE                      :      7 (  1, 0,  6),  14.3 :  -107.7
-     Eclipsar Esport            :      9 (  3, 0,  6),  33.3 :   -29.7
-     FUT Esports                :     20 ( 10, 0, 10),  50.0 :   +10.6
-     Team Heretics              :      9 (  6, 0,  3),  66.7 :   +47.4
-     Millesime MG               :     10 (  7, 0,  3),  70.0 :   +82.9
-     LuxAeterna CM              :      8 (  2, 0,  6),  25.0 :  +137.7
-     LuxAeterna eSports         :      6 (  6, 0,  0), 100.0 :  +231.5
-     Invictus Mente             :      6 (  6, 0,  0), 100.0 :  +463.0
-     F/A Tequila                :      6 (  6, 0,  0), 100.0 :  +642.5
-
-  6) Papara SuperMassive  3211.7 :     52 (+28,=0,-24),  53.8 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :     10 (  3, 0,  7),  30.0 :  -112.7
-     FUT Esports                :     23 ( 12, 0, 11),  52.2 :    +8.1
-     Reverso Gaming             :      7 (  1, 0,  6),  14.3 :   +68.5
-     XPERION NXT                :      6 (  6, 0,  0), 100.0 :  +117.3
-     Am o fantezie              :      6 (  6, 0,  0), 100.0 :  +215.8
-
-  7) FUT Esports          3203.6 :    102 (+57,=0,-45),  55.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :     13 (  5, 0,  8),  38.5 :  -120.8
-     F/A UK                     :     20 ( 10, 0, 10),  50.0 :   -10.6
-     Papara SuperMassive        :     23 ( 11, 0, 12),  47.8 :    -8.1
-     Millesime MG               :     13 (  6, 0,  7),  46.2 :   +72.3
-     XPERION NXT                :      7 (  6, 0,  1),  85.7 :  +109.2
-     LuxAeterna CM              :      7 (  6, 0,  1),  85.7 :  +127.2
-     Skepsis Gaming             :     13 (  7, 0,  6),  53.8 :  +144.3
-     TOP eSports                :      6 (  6, 0,  0), 100.0 :  +459.8
-
-  8) Inner Circle         3191.1 :     40 (+25,=0,-15),  62.5 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Team Heretics              :     24 ( 12, 0, 12),  50.0 :   +24.3
-     F/A Borti                  :      9 (  7, 0,  2),  77.8 :  +194.4
-     GLORE.FIFINE               :      7 (  6, 0,  1),  85.7 :  +213.1
-
-  9) Reply Totem          3181.3 :     89 (+56,=0,-33),  62.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Eclipsar Esport            :     32 ( 14, 0, 18),  43.8 :   -62.6
-     Team Heretics              :     10 (  4, 0,  6),  40.0 :   +14.5
-     LLC Esport                 :     11 (  7, 0,  4),  63.6 :   +79.2
-     Saint Velocity             :     10 (  7, 0,  3),  70.0 :  +239.1
-     ChessSigmas                :      7 (  6, 0,  1),  85.7 :  +246.9
-     lads                       :      7 (  6, 0,  1),  85.7 :  +292.8
-     TOP eSports                :      6 (  6, 0,  0), 100.0 :  +437.5
-     MLI                        :      6 (  6, 0,  0), 100.0 :  +668.9
-
- 10) Team Heretics        3166.8 :     95 (+54,=0,-41),  56.8 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      9 (  3, 0,  6),  33.3 :  -155.1
-     F/A UK                     :      9 (  3, 0,  6),  33.3 :   -47.4
-     Inner Circle               :     24 ( 12, 0, 12),  50.0 :   -24.3
-     Reply Totem                :     10 (  6, 0,  4),  60.0 :   -14.5
-     XPERION NXT                :     13 (  6, 0,  7),  46.2 :   +72.4
-     F/A Poland                 :     10 (  6, 0,  4),  60.0 :  +171.5
-     LUX NNS                    :      6 (  6, 0,  0), 100.0 :  +225.5
-     lads                       :      8 (  6, 0,  2),  75.0 :  +278.3
-     TOP | Esports              :      6 (  6, 0,  0), 100.0 :  +298.8
-
- 11) Reverso Gaming       3143.2 :     69 (+40,=0,-29),  58.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      6 (  0, 0,  6),   0.0 :  -178.6
-     Eclipsar Esport            :     10 (  4, 0,  6),  40.0 :  -100.6
-     Papara SuperMassive        :      7 (  6, 0,  1),  85.7 :   -68.5
-     Millesime MG               :     12 (  7, 0,  5),  58.3 :   +12.0
-     XPERION NXT                :      8 (  3, 0,  5),  37.5 :   +48.9
-     F/A Poland                 :      7 (  6, 0,  1),  85.7 :  +147.9
-     Eternal                    :      4 (  0, 0,  4),   0.0 :  +195.7
-     Saint Velocity             :      7 (  6, 0,  1),  85.7 :  +201.1
-     SCO-AST                    :      4 (  4, 0,  0), 100.0 :  +421.0
-     🔥TGT DINASTY🔥        :      4 (  4, 0,  0), 100.0 : +2320.0
-
- 12) Millesime MG         3131.2 :     77 (+44,=0,-33),  57.1 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :      6 (  0, 0,  6),   0.0 :  -193.2
-     F/A UK                     :     10 (  3, 0,  7),  30.0 :   -82.9
-     FUT Esports                :     13 (  7, 0,  6),  53.8 :   -72.3
-     Reverso Gaming             :     12 (  5, 0,  7),  41.7 :   -12.0
-     PUZO                       :      8 (  6, 0,  2),  75.0 :   +45.7
-     Skepsis Gaming             :      9 (  7, 0,  2),  77.8 :   +72.0
-     Proseding                  :      9 (  7, 0,  2),  77.8 :  +394.7
-     F/A Tequila                :      5 (  5, 0,  0), 100.0 :  +559.6
-     Kit Too Far                :      5 (  4, 0,  1),  80.0 :  +571.4
-
- 13) LLC Esport           3102.0 :    111 (+61,=0,-50),  55.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :     20 (  7, 0, 13),  35.0 :  -222.4
-     Reply Totem                :     11 (  4, 0,  7),  36.4 :   -79.2
-     XPERION NXT                :     12 (  5, 0,  7),  41.7 :    +7.7
-     LuxAeterna CM              :      7 (  6, 0,  1),  85.7 :   +25.6
-     Mecenates                  :      7 (  4, 0,  3),  57.1 :   +45.0
-     Am o fantezie              :     12 (  7, 0,  5),  58.3 :  +106.1
-     LuxAeterna eSports         :     14 (  8, 0,  6),  57.1 :  +119.4
-     GLORE.FIFINE               :     11 (  7, 0,  4),  63.6 :  +124.1
-     F/A Cute Kitties           :     10 (  6, 0,  4),  60.0 :  +160.3
-     Bautistas                  :      3 (  3, 0,  0), 100.0 :  +658.7
-     BRN                        :      4 (  4, 0,  0), 100.0 : +2699.8
-
- 14) XPERION NXT          3094.4 :     84 (+47,=0,-37),  56.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Papara SuperMassive        :      6 (  0, 0,  6),   0.0 :  -117.3
-     FUT Esports                :      7 (  1, 0,  6),  14.3 :  -109.2
-     Team Heretics              :     13 (  7, 0,  6),  53.8 :   -72.4
-     Reverso Gaming             :      8 (  5, 0,  3),  62.5 :   -48.9
-     LLC Esport                 :     12 (  7, 0,  5),  58.3 :    -7.7
-     PUZO                       :      5 (  1, 0,  4),  20.0 :    +8.9
-     Skepsis Gaming             :     14 (  8, 0,  6),  57.1 :   +35.1
-     Universum Gaming           :      7 (  6, 0,  1),  85.7 :  +323.2
-     Mad Chameleons             :      4 (  4, 0,  0), 100.0 :  +458.2
-     DragosBlackPig             :      4 (  4, 0,  0), 100.0 : +1889.6
-     Black Falcons              :      4 (  4, 0,  0), 100.0 : +2056.4
-
- 15) PUZO                 3085.5 :     34 (+20,=0,-14),  58.8 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :      6 (  0, 0,  6),   0.0 :  -238.9
-     Millesime MG               :      8 (  2, 0,  6),  25.0 :   -45.7
-     XPERION NXT                :      5 (  4, 0,  1),  80.0 :    -8.9
-     F/A Cute Kitties           :      7 (  6, 0,  1),  85.7 :  +143.8
-     Relax                      :      4 (  4, 0,  0), 100.0 :  +421.0
-     YXZ                        :      4 (  4, 0,  0), 100.0 :  +421.0
-
- 16) LuxAeterna CM        3076.4 :     42 (+26,=0,-16),  61.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     F/A UK                     :      8 (  6, 0,  2),  75.0 :  -137.7
-     FUT Esports                :      7 (  1, 0,  6),  14.3 :  -127.2
-     LLC Esport                 :      7 (  1, 0,  6),  14.3 :   -25.6
-     vMoove                     :      6 (  4, 0,  2),  66.7 :  +300.7
-     We will prove              :      4 (  4, 0,  0), 100.0 :  +324.5
-     F/a ris                    :      6 (  6, 0,  0), 100.0 :  +395.5
-     Mk gaming                  :      4 (  4, 0,  0), 100.0 : +1142.5
-
- 17) Skepsis Gaming       3059.2 :     77 (+39,=0,-38),  50.6 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      7 (  1, 0,  6),  14.3 :  -262.6
-     FUT Esports                :     13 (  6, 0,  7),  46.2 :  -144.3
-     Millesime MG               :      9 (  2, 0,  7),  22.2 :   -72.0
-     XPERION NXT                :     14 (  6, 0,  8),  42.9 :   -35.1
-     Smirk Cats                 :     11 (  6, 0,  5),  54.5 :   +10.1
-     Aogiri Esport              :      9 (  6, 0,  3),  66.7 :  +150.9
-     I San Marinesi             :      7 (  6, 0,  1),  85.7 :  +244.1
-     F/a ris                    :      7 (  6, 0,  1),  85.7 :  +378.3
-
- 18) Mecenates            3057.0 :     11 (+7,=0,-4),  63.6 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LLC Esport                 :      7 ( 3, 0, 4),  42.9 :   -45.0
-     4FUN                       :      4 ( 4, 0, 0), 100.0 :  +756.0
-
- 19) Smirk Cats           3049.1 :     30 (+15,=0,-15),  50.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Eclipsar Esport            :     12 (  4, 0,  8),  33.3 :  -194.7
-     Skepsis Gaming             :     11 (  5, 0,  6),  45.5 :   -10.1
-     MLI                        :      7 (  6, 0,  1),  85.7 :  +536.7
-
- 20) Läskit              3000.9 :      5 (+1,=0,-4),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Eclipsar Esport            :      5 ( 1, 0, 4),  20.0 :  -242.9
-
- 21) F/A Borti            2996.7 :     39 (+23,=0,-16),  59.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Inner Circle               :      9 (  2, 0,  7),  22.2 :  -194.4
-     F/A Poland                 :     11 (  5, 0,  6),  45.5 :    +1.4
-     Hizza Put                  :      6 (  4, 0,  2),  66.7 :  +121.5
-     F/A Mala Vita              :      5 (  4, 0,  1),  80.0 :  +242.9
-     Drunk Beavers              :      4 (  4, 0,  0), 100.0 :  +256.1
-     LuxAeterna EE              :      4 (  4, 0,  0), 100.0 : +1913.4
-
- 22) Am o fantezie        2995.9 :     32 (+17,=0,-15),  53.1 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Papara SuperMassive        :      6 (  0, 0,  6),   0.0 :  -215.8
-     LLC Esport                 :     12 (  5, 0,  7),  41.7 :  -106.1
-     🍆🍑                   :      6 (  4, 0,  2),  66.7 :  +168.4
-     Infinity Poisons           :      4 (  4, 0,  0), 100.0 :  +352.2
-     Jiv4iki🩸                :      4 (  4, 0,  0), 100.0 :  +357.6
-
- 23) F/A Poland           2995.3 :     53 (+27,=0,-26),  50.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Team Heretics              :     10 (  4, 0,  6),  40.0 :  -171.5
-     Reverso Gaming             :      7 (  1, 0,  6),  14.3 :  -147.9
-     F/A Borti                  :     11 (  6, 0,  5),  54.5 :    -1.4
-     GLORE.FIFINE               :     10 (  3, 0,  7),  30.0 :   +17.3
-     Black and White            :      9 (  7, 0,  2),  77.8 :  +176.4
-     TOP eSports                :      6 (  6, 0,  0), 100.0 :  +251.5
-
- 24) LuxAeterna eSports   2982.7 :     41 (+21,=0,-20),  51.2 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     F/A UK                     :      6 (  0, 0,  6),   0.0 :  -231.5
-     LLC Esport                 :     14 (  6, 0,  8),  42.9 :  -119.4
-     Eternal                    :      4 (  4, 0,  0), 100.0 :   +35.2
-     Crow Nest Esports          :      6 (  4, 0,  2),  66.7 :  +121.5
-     Proseding                  :     11 (  7, 0,  4),  63.6 :  +246.1
-
- 25) GLORE.FIFINE         2978.0 :     59 (+32,=0,-27),  54.2 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      7 (  1, 0,  6),  14.3 :  -343.9
-     Inner Circle               :      7 (  1, 0,  6),  14.3 :  -213.1
-     LLC Esport                 :     11 (  4, 0,  7),  36.4 :  -124.1
-     F/A Poland                 :     10 (  7, 0,  3),  70.0 :   -17.3
-     Universum Gaming           :     11 (  7, 0,  4),  63.6 :  +206.8
-     The Unicorns 🦄          :      4 (  4, 0,  0), 100.0 :  +421.0
-     RVP Gaming                 :      5 (  4, 0,  1),  80.0 :  +508.2
-     HPN                        :      4 (  4, 0,  0), 100.0 : +2319.8
-
- 26) Eternal              2947.5 :     22 (+13,=0,-9),  59.1 %
-
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Reverso Gaming             :      4 (  4, 0, 0), 100.0 :  -195.7
-     LuxAeterna eSports         :      4 (  0, 0, 4),   0.0 :   -35.2
-     Paradis Esports            :      6 (  4, 0, 2),  66.7 :  +121.5
-     Ei                         :      8 (  5, 0, 3),  62.5 :  +218.4
-
- 27) Saint Velocity       2942.1 :     32 (+15,=0,-17),  46.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Reply Totem                :     10 (  3, 0,  7),  30.0 :  -239.1
-     Reverso Gaming             :      7 (  1, 0,  6),  14.3 :  -201.1
-     LUX NNS                    :      7 (  3, 0,  4),  42.9 :    +0.9
-     DPC | Secret 🌱          :      4 (  4, 0,  0), 100.0 :  +489.7
-     Eternal Emptiness          :      4 (  4, 0,  0), 100.0 : +2320.0
-
- 28) F/A Cute Kitties     2941.7 :     17 (+5,=0,-12),  29.4 %
-
-     vs.                        :  games ( +, =,  -),   (%) :    Diff
-     LLC Esport                 :     10 ( 4, 0,  6),  40.0 :  -160.3
-     PUZO                       :      7 ( 1, 0,  6),  14.3 :  -143.8
-
- 29) LUX NNS              2941.2 :     27 (+14,=0,-13),  51.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Team Heretics              :      6 (  0, 0,  6),   0.0 :  -225.5
-     Saint Velocity             :      7 (  4, 0,  3),  57.1 :    -0.9
-     Pitchdome                  :      4 (  0, 0,  4),   0.0 :   +29.8
-     I San Marinesi             :      4 (  4, 0,  0), 100.0 :  +126.1
-     Universum Gaming           :      6 (  6, 0,  0), 100.0 :  +170.0
-
- 30) ChessSigmas          2934.4 :     35 (+16,=0,-19),  45.7 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      6 (  0, 0,  6),   0.0 :  -387.5
-     Reply Totem                :      7 (  1, 0,  6),  14.3 :  -246.9
-     Aogiri Esport              :     12 (  7, 0,  5),  58.3 :   +26.0
-     Black and White            :      5 (  4, 0,  1),  80.0 :  +115.5
-     Chewing Gum                :      5 (  4, 0,  1),  80.0 :  +316.1
-
- 31) Pitchdome            2911.4 :      9 (+5,=0,-4),  55.6 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LUX NNS                    :      4 ( 4, 0, 0), 100.0 :   -29.8
-     I San Marinesi             :      5 ( 1, 0, 4),  20.0 :   +96.3
-
- 32) Aogiri Esport        2908.3 :     42 (+24,=0,-18),  57.1 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Skepsis Gaming             :      9 (  3, 0,  6),  33.3 :  -150.9
-     ChessSigmas                :     12 (  5, 0,  7),  41.7 :   -26.0
-     Spectrxs                   :      7 (  4, 0,  3),  57.1 :   +50.4
-     F/A Hakunamatata           :      6 (  4, 0,  2),  66.7 :   +92.1
-     TEAM KODAK                 :      4 (  4, 0,  0), 100.0 :  +957.4
-     Eepy Cars                  :      4 (  4, 0,  0), 100.0 : +2250.2
-
- 33) lads                 2888.4 :     41 (+22,=0,-19),  53.7 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Reply Totem                :      7 (  1, 0,  6),  14.3 :  -292.8
-     Team Heretics              :      8 (  2, 0,  6),  25.0 :  -278.3
-     Black and White            :      9 (  6, 0,  3),  66.7 :   +69.6
-     Drunk Beavers              :      8 (  5, 0,  3),  62.5 :  +147.9
-     Team Alpha                 :      5 (  4, 0,  1),  80.0 :  +409.4
-     RD|Team                    :      4 (  4, 0,  0), 100.0 :  +421.0
-
- 34) Hizza Put            2875.2 :      6 (+2,=0,-4),  33.3 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Borti                  :      6 ( 2, 0, 4),  33.3 :  -121.5
-
- 35) Sentinels Classic    2874.7 :     15 (+10,=0,-5),  66.7 %
-
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Black and White            :      6 (  2, 0, 4),  33.3 :   +55.9
-     Ei                         :      4 (  4, 0, 0), 100.0 :  +145.7
-     Gigampfii                  :      5 (  4, 0, 1),  80.0 :  +190.5
-
- 36) TOP | Esports        2868.0 :     14 (+6,=0,-8),  42.9 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Team Heretics              :      6 ( 0, 0, 6),   0.0 :  -298.8
-     Universum Gaming           :      8 ( 6, 0, 2),  75.0 :   +96.8
-
- 37) Crow Nest Esports    2861.2 :     18 (+10,=0,-8),  55.6 %
-
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     LuxAeterna eSports         :      6 (  2, 0, 4),  33.3 :  -121.5
-     COURAGE ONE                :      8 (  4, 0, 4),  50.0 :    +0.0
-     Shoguns 🌊               :      4 (  4, 0, 0), 100.0 :  +421.0
-
- 38) COURAGE ONE          2861.2 :     16 (+8,=0,-8),  50.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Czech Rivals               :      4 ( 0, 0, 4),   0.0 :  -421.0
-     Crow Nest Esports          :      8 ( 4, 0, 4),  50.0 :    -0.0
-     Klunk                      :      4 ( 4, 0, 0), 100.0 :  +421.0
-
- 39) Spectrxs             2857.9 :     17 (+11,=0,-6),  64.7 %
-
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Aogiri Esport              :      7 (  3, 0, 4),  42.9 :   -50.4
-     Golden Pilots              :      5 (  4, 0, 1),  80.0 :  +242.9
-     Mr🐐🐐                 :      5 (  4, 0, 1),  80.0 :  +242.9
-
- 40) Just Gitgud          2841.2 :     21 (+14,=0,-7),  66.7 %
-
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     vMoove                     :      8 (  5, 0, 3),  62.5 :   +65.5
-     Gigampfii                  :      6 (  4, 0, 2),  66.7 :  +157.0
-     GBB Esports                :      7 (  5, 0, 2),  71.4 :  +160.6
-
- 41) 🍆🍑             2827.5 :     14 (+6,=0,-8),  42.9 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Eclipsar Esport            :      4 ( 0, 0, 4),   0.0 :  -416.4
-     Am o fantezie              :      6 ( 2, 0, 4),  33.3 :  -168.4
-     DDL Esports                :      4 ( 4, 0, 0), 100.0 :  +421.0
-
- 42) Paradis Esports      2826.0 :      6 (+2,=0,-4),  33.3 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Eternal                    :      6 ( 2, 0, 4),  33.3 :  -121.5
-
- 43) Black and White      2818.9 :     40 (+19,=0,-21),  47.5 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     F/A Poland                 :      9 (  2, 0,  7),  22.2 :  -176.4
-     ChessSigmas                :      5 (  1, 0,  4),  20.0 :  -115.5
-     lads                       :      9 (  3, 0,  6),  33.3 :   -69.6
-     Sentinels Classic          :      6 (  4, 0,  2),  66.7 :   -55.9
-     AVE Redemption             :      7 (  5, 0,  2),  71.4 :  +137.0
-     BulgarianPros              :      4 (  4, 0,  0), 100.0 :  +733.5
-
- 44) F/A Hakunamatata     2816.2 :     10 (+6,=0,-4),  60.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Aogiri Esport              :      6 ( 2, 0, 4),  33.3 :   -92.1
-     BSE                        :      4 ( 4, 0, 0), 100.0 :  +490.8
-
- 45) I San Marinesi       2815.1 :     26 (+13,=0,-13),  50.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Skepsis Gaming             :      7 (  1, 0,  6),  14.3 :  -244.1
-     LUX NNS                    :      4 (  0, 0,  4),   0.0 :  -126.1
-     Pitchdome                  :      5 (  4, 0,  1),  80.0 :   -96.3
-     DansLeBueno                :      6 (  4, 0,  2),  66.7 :  +232.2
-     MSC|é-sports™️        :      4 (  4, 0,  0), 100.0 :  +458.3
-
- 46) Quantum  Enforcers   2795.6 :      5 (+4,=0,-1),  80.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     StormBreakers              :      5 ( 4, 0, 1),  80.0 :  +242.9
-
- 47) Delulu               2795.6 :      5 (+4,=0,-1),  80.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     ChillWibess                :      5 ( 4, 0, 1),  80.0 :  +242.9
-
- 48) vMoove               2775.7 :     32 (+18,=0,-14),  56.2 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     LuxAeterna CM              :      6 (  2, 0,  4),  33.3 :  -300.7
-     Just Gitgud                :      8 (  3, 0,  5),  37.5 :   -65.5
-     K1                         :      8 (  5, 0,  3),  62.5 :  +115.5
-     Sentinels                  :      5 (  4, 0,  1),  80.0 :  +263.2
-     Zero eSports               :      5 (  4, 0,  1),  80.0 :  +371.0
-
- 49) Universum Gaming     2771.2 :     71 (+39,=0,-32),  54.9 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     XPERION NXT                :      7 (  1, 0,  6),  14.3 :  -323.2
-     GLORE.FIFINE               :     11 (  4, 0,  7),  36.4 :  -206.8
-     LUX NNS                    :      6 (  0, 0,  6),   0.0 :  -170.0
-     TOP | Esports              :      8 (  2, 0,  6),  25.0 :   -96.8
-     ZeroQuality                :      8 (  5, 0,  3),  62.5 :   +71.8
-     NaN Academy                :      9 (  7, 0,  2),  77.8 :  +160.8
-     F/A Tequila                :      5 (  4, 0,  1),  80.0 :  +199.6
-     Druiven gamg               :      5 (  4, 0,  1),  80.0 :  +242.9
-     Tralupas                   :      4 (  4, 0,  0), 100.0 :  +421.0
-     Saltys                     :      4 (  4, 0,  0), 100.0 :  +581.4
-     SJS                        :      4 (  4, 0,  0), 100.0 : +1991.6
-
- 50) DARK EAGLES          2771.1 :      7 (+5,=0,-2),  71.4 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     BC* Academy                :      7 ( 5, 0, 2),  71.4 :  +160.6
-
- 51) Hellsing             2764.1 :     20 (+15,=0,-5),  75.0 %
-
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Invictus Mente             :      7 (  3, 0, 4),  42.9 :   +13.0
-     F/A RAYO ESFERA            :      5 (  4, 0, 1),  80.0 :  +242.9
-     Italy food                 :      4 (  4, 0, 0), 100.0 :  +356.5
-     Aerion Academy             :      4 (  4, 0, 0), 100.0 :  +549.3
-
- 52) F/A Mala Vita        2753.7 :      5 (+1,=0,-4),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Borti                  :      5 ( 1, 0, 4),  20.0 :  -242.9
-
- 53) We will prove        2751.9 :      9 (+4,=0,-5),  44.4 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LuxAeterna CM              :      4 ( 0, 0, 4),   0.0 :  -324.5
-     TC|Esport                  :      5 ( 4, 0, 1),  80.0 :  +141.4
-
- 54) Invictus Mente       2751.2 :     25 (+13,=0,-12),  52.0 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     F/A UK                     :      6 (  0, 0,  6),   0.0 :  -463.0
-     Hellsing                   :      7 (  4, 0,  3),  57.1 :   -13.0
-     Baskota                    :      7 (  5, 0,  2),  71.4 :  +160.6
-     DPC | Secret 🌱          :      5 (  4, 0,  1),  80.0 :  +298.7
-
- 55) TOP eSports          2743.8 :     64 (+29,=0,-35),  45.3 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     SK Gaming                  :      6 (  0, 0,  6),   0.0 :  -580.6
-     FUT Esports                :      6 (  0, 0,  6),   0.0 :  -459.8
-     Reply Totem                :      6 (  0, 0,  6),   0.0 :  -437.5
-     F/A Poland                 :      6 (  0, 0,  6),   0.0 :  -251.5
-     Proseding                  :      9 (  6, 0,  3),  66.7 :    +7.3
-     Infinity Poisons           :      7 (  4, 0,  3),  57.1 :  +100.0
-     Jiv4iki🩸                :      7 (  5, 0,  2),  71.4 :  +105.4
-     Kit Too Far                :      7 (  6, 0,  1),  85.7 :  +183.9
-     Liverpool                  :      5 (  4, 0,  1),  80.0 :  +242.9
-     CalmShadow                 :      5 (  4, 0,  1),  80.0 :  +242.9
-
- 56) The Diggers          2741.8 :     12 (+8,=0,-4),  66.7 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     MKN                        :      6 ( 4, 0, 2),  66.7 :  +121.5
-     Hard Work Gaming           :      6 ( 4, 0, 2),  66.7 :  +121.5
-
- 57) Drunk Beavers        2740.6 :     24 (+11,=0,-13),  45.8 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     F/A Borti                  :      4 (  0, 0,  4),   0.0 :  -256.1
-     lads                       :      8 (  3, 0,  5),  37.5 :  -147.9
-     Baguette                   :      7 (  4, 0,  3),  57.1 :   +20.1
-     Shadow Dominion            :      5 (  4, 0,  1),  80.0 :  +275.4
-
- 58) Proseding            2736.5 :     56 (+30,=0,-26),  53.6 %
-
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Millesime MG               :      9 (  2, 0,  7),  22.2 :  -394.7
-     LuxAeterna eSports         :     11 (  4, 0,  7),  36.4 :  -246.1
-     TOP eSports                :      9 (  3, 0,  6),  33.3 :    -7.3
-     TOP|Academy                :      5 (  4, 0,  1),  80.0 :  +175.4
-     Sentinels                  :      5 (  4, 0,  1),  80.0 :  +224.0
-     Fani Boguckiego            :      8 (  5, 0,  3),  62.5 :  +258.5
-     SSA | Esports              :      5 (  4, 0,  1),  80.0 :  +381.6
-     Zündstoffkommando         :      4 (  4, 0,  0), 100.0 : +2037.8
-
- 59) Ei                   2729.1 :     12 (+3,=0,-9),  25.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Eternal                    :      8 ( 3, 0, 5),  37.5 :  -218.4
-     Sentinels Classic          :      4 ( 0, 0, 4),   0.0 :  -145.7
-
- 60) SCO-AST              2722.2 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Reverso Gaming             :      4 ( 0, 0, 4),   0.0 :  -421.0
-
- 61) Zennox Gaming        2721.0 :      8 (+8,=0,-0), 100.0 %
+  1) Ping Abusers           3220.1 :     14 (+12,=0,-2),  85.7 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     Las Cabras                   :      4 (  4, 0, 0), 100.0 :  +202.1
+     LUX NNS                      :      5 (  4, 0, 1),  80.0 :  +305.4
+     vMoove                       :      5 (  4, 0, 1),  80.0 :  +484.9
+
+  2) Remicas Hairline       3214.8 :     17 (+16,=0,-1),  94.1 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     丸                          :      4 (  4, 0, 0), 100.0 :  +273.3
+     Invictus Mente               :      5 (  4, 0, 1),  80.0 :  +502.8
+     Narmaldaki E-sports          :      4 (  4, 0, 0), 100.0 :  +823.6
+     STW                          :      4 (  4, 0, 0), 100.0 : +1505.5
+
+  3) HMBLE                  3196.4 :     68 (+50,=0,-18),  73.5 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :      6 (  0, 0,  6),   0.0 :    +7.6
+     Eclipsar Esport              :     14 (  8, 0,  6),  57.1 :   +76.5
+     F/A UK                       :      7 (  6, 0,  1),  85.7 :  +116.0
+     Team Heretics                :      9 (  6, 0,  3),  66.7 :  +130.9
+     Reverso Gaming               :      6 (  6, 0,  0), 100.0 :  +173.0
+     Skepsis Gaming               :      7 (  6, 0,  1),  85.7 :  +307.9
+     GLORE.FIFINE                 :      7 (  6, 0,  1),  85.7 :  +326.4
+     ChessSigmas                  :      6 (  6, 0,  0), 100.0 :  +399.0
+     NaN Academy                  :      6 (  6, 0,  0), 100.0 :  +661.5
+
+  4) SK Gaming              3188.8 :     99 (+69,=0,-30),  69.7 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      6 (  6, 0,  0), 100.0 :    -7.6
+     Eclipsar Esport              :     20 ( 12, 0,  8),  60.0 :   +68.8
+     F/A UK                       :     12 (  5, 0,  7),  41.7 :  +108.3
+     Papara SuperMassive          :     10 (  7, 0,  3),  70.0 :  +118.5
+     FUT Esports                  :     13 (  8, 0,  5),  61.5 :  +140.0
+     Millesime MG                 :      6 (  6, 0,  0), 100.0 :  +196.8
+     LLC Esport                   :     20 ( 13, 0,  7),  65.0 :  +219.7
+     PUZO                         :      6 (  6, 0,  0), 100.0 :  +254.3
+     TOP eSports                  :      6 (  6, 0,  0), 100.0 :  +578.7
+
+  5) Mini Kozaki            3124.4 :      8 (+8,=0,-0), 100.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     CocoSacaelPaint              :      4 ( 4, 0, 0), 100.0 :  +540.4
+     HPN                          :      4 ( 4, 0, 0), 100.0 :  +552.4
+
+  6) Eclipsar Esport        3120.0 :    106 (+60,=0,-46),  56.6 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :     14 (  6, 0,  8),  42.9 :   -76.5
+     SK Gaming                    :     20 (  8, 0, 12),  40.0 :   -68.8
+     F/A UK                       :      9 (  6, 0,  3),  66.7 :   +39.5
+     Reply Totem                  :     32 ( 18, 0, 14),  56.2 :   +45.9
+     Reverso Gaming               :     10 (  6, 0,  4),  60.0 :   +96.5
+     Smirk Cats                   :     12 (  8, 0,  4),  66.7 :  +221.0
+     Läskit                      :      5 (  4, 0,  1),  80.0 :  +242.9
+     🍆🍑                     :      4 (  4, 0,  0), 100.0 :  +415.7
+
+  7) Inner Circle           3094.9 :     40 (+25,=0,-15),  62.5 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Team Heretics                :     24 ( 12, 0, 12),  50.0 :   +29.4
+     F/A Borti                    :      9 (  7, 0,  2),  77.8 :  +168.9
+     GLORE.FIFINE                 :      7 (  6, 0,  1),  85.7 :  +224.9
+
+  8) F/A UK                 3080.5 :     93 (+54,=0,-39),  58.1 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      7 (  1, 0,  6),  14.3 :  -116.0
+     SK Gaming                    :     12 (  7, 0,  5),  58.3 :  -108.3
+     Eclipsar Esport              :      9 (  3, 0,  6),  33.3 :   -39.5
+     Team Heretics                :      9 (  6, 0,  3),  66.7 :   +14.9
+     FUT Esports                  :     20 ( 10, 0, 10),  50.0 :   +31.7
+     Millesime MG                 :     10 (  7, 0,  3),  70.0 :   +88.5
+     LuxAeterna CM                :      8 (  2, 0,  6),  25.0 :  +132.3
+     LuxAeterna eSports           :      6 (  6, 0,  0), 100.0 :  +267.8
+     Invictus Mente               :      6 (  6, 0,  0), 100.0 :  +368.5
+     F/A Tequila                  :      6 (  6, 0,  0), 100.0 :  +671.2
+
+  9) Reply Totem            3074.1 :     89 (+56,=0,-33),  62.9 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Eclipsar Esport              :     32 ( 14, 0, 18),  43.8 :   -45.9
+     Team Heretics                :     10 (  4, 0,  6),  40.0 :    +8.5
+     LLC Esport                   :     11 (  7, 0,  4),  63.6 :  +105.0
+     Saint Velocity               :     10 (  7, 0,  3),  70.0 :  +151.5
+     lads                         :      7 (  6, 0,  1),  85.7 :  +230.8
+     ChessSigmas                  :      7 (  6, 0,  1),  85.7 :  +276.7
+     TOP eSports                  :      6 (  6, 0,  0), 100.0 :  +464.0
+     MLI                          :      6 (  6, 0,  0), 100.0 :  +712.0
+
+ 10) Papara SuperMassive    3070.3 :     52 (+28,=0,-24),  53.8 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :     10 (  3, 0,  7),  30.0 :  -118.5
+     FUT Esports                  :     23 ( 12, 0, 11),  52.2 :   +21.5
+     Reverso Gaming               :      7 (  1, 0,  6),  14.3 :   +46.9
+     XPERION NXT                  :      6 (  6, 0,  0), 100.0 :  +104.5
+     Am o fantezie                :      6 (  6, 0,  0), 100.0 :  +207.0
+
+ 11) Team Heretics          3065.5 :     95 (+54,=0,-41),  56.8 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      9 (  3, 0,  6),  33.3 :  -130.9
+     Inner Circle                 :     24 ( 12, 0, 12),  50.0 :   -29.4
+     F/A UK                       :      9 (  3, 0,  6),  33.3 :   -14.9
+     Reply Totem                  :     10 (  6, 0,  4),  60.0 :    -8.5
+     XPERION NXT                  :     13 (  6, 0,  7),  46.2 :   +99.8
+     LUX NNS                      :      6 (  6, 0,  0), 100.0 :  +150.9
+     F/A Poland                   :     10 (  6, 0,  4),  60.0 :  +172.2
+     lads                         :      8 (  6, 0,  2),  75.0 :  +222.2
+     TOP | Esports                :      6 (  6, 0,  0), 100.0 :  +259.0
+
+ 12) FUT Esports            3048.8 :    112 (+63,=0,-49),  56.2 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :     13 (  5, 0,  8),  38.5 :  -140.0
+     F/A UK                       :     20 ( 10, 0, 10),  50.0 :   -31.7
+     Papara SuperMassive          :     23 ( 11, 0, 12),  47.8 :   -21.5
+     Millesime MG                 :     13 (  6, 0,  7),  46.2 :   +56.8
+     XPERION NXT                  :      7 (  6, 0,  1),  85.7 :   +83.0
+     LuxAeterna CM                :      7 (  6, 0,  1),  85.7 :  +100.7
+     Skepsis Gaming               :     13 (  7, 0,  6),  53.8 :  +160.3
+     Sigma Boys                   :     10 (  6, 0,  4),  60.0 :  +233.0
+     TOP eSports                  :      6 (  6, 0,  0), 100.0 :  +438.7
+
+ 13) Reverso Gaming         3023.4 :     61 (+32,=0,-29),  52.5 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      6 (  0, 0,  6),   0.0 :  -173.0
+     Eclipsar Esport              :     10 (  4, 0,  6),  40.0 :   -96.5
+     Papara SuperMassive          :      7 (  6, 0,  1),  85.7 :   -46.9
+     Millesime MG                 :     12 (  7, 0,  5),  58.3 :   +31.4
+     XPERION NXT                  :      8 (  3, 0,  5),  37.5 :   +57.7
+     Saint Velocity               :      7 (  6, 0,  1),  85.7 :  +100.8
+     F/A Poland                   :      7 (  6, 0,  1),  85.7 :  +130.1
+     Eternal                      :      4 (  0, 0,  4),   0.0 :  +262.2
+
+ 14) Las Cabras             3018.0 :      8 (+4,=0,-4),  50.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ping Abusers                 :      4 ( 0, 0, 4),   0.0 :  -202.1
+     Sigma Boys                   :      4 ( 4, 0, 0), 100.0 :  +202.1
+
+ 15) DPB|Esport             3016.2 :     16 (+13,=0,-3),  81.2 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     Saint Velocity               :      8 (  5, 0, 3),  62.5 :   +93.6
+     TS|Too Serious               :      4 (  4, 0, 0), 100.0 :  +788.9
+     Asenka Esports               :      4 (  4, 0, 0), 100.0 : +2414.7
+
+ 16) F/A Sucuk              3009.3 :      8 (+8,=0,-0), 100.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ei                           :      4 ( 4, 0, 0), 100.0 :  +513.6
+     F/A Randoms                  :      4 ( 4, 0, 0), 100.0 :  +586.1
+
+ 17) Millesime MG           2992.0 :     81 (+48,=0,-33),  59.3 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :      6 (  0, 0,  6),   0.0 :  -196.8
+     F/A UK                       :     10 (  3, 0,  7),  30.0 :   -88.5
+     FUT Esports                  :     13 (  7, 0,  6),  53.8 :   -56.8
+     Reverso Gaming               :     12 (  5, 0,  7),  41.7 :   -31.4
+     PUZO                         :      8 (  6, 0,  2),  75.0 :   +57.6
+     Skepsis Gaming               :      9 (  7, 0,  2),  77.8 :  +103.5
+     Proseding                    :      9 (  7, 0,  2),  77.8 :  +389.5
+     Muertazos BS                 :      4 (  4, 0,  0), 100.0 :  +423.6
+     Kit Too Far                  :      5 (  4, 0,  1),  80.0 :  +541.5
+     F/A Tequila                  :      5 (  5, 0,  0), 100.0 :  +582.8
+
+ 18) LLC Esport             2969.1 :    108 (+58,=0,-50),  53.7 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :     20 (  7, 0, 13),  35.0 :  -219.7
+     Reply Totem                  :     11 (  4, 0,  7),  36.4 :  -105.0
+     XPERION NXT                  :     12 (  5, 0,  7),  41.7 :    +3.3
+     LuxAeterna CM                :      7 (  6, 0,  1),  85.7 :   +20.9
+     Mecenates                    :      7 (  4, 0,  3),  57.1 :   +46.5
+     GLORE.FIFINE                 :     11 (  7, 0,  4),  63.6 :   +99.0
+     Am o fantezie                :     12 (  7, 0,  5),  58.3 :  +105.7
+     LuxAeterna eSports           :     14 (  8, 0,  6),  57.1 :  +156.4
+     F/A Cute Kitties             :     10 (  6, 0,  4),  60.0 :  +168.0
+     BRN                          :      4 (  4, 0,  0), 100.0 :  +421.0
+
+ 19) XPERION NXT            2965.8 :     84 (+47,=0,-37),  56.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Papara SuperMassive          :      6 (  0, 0,  6),   0.0 :  -104.5
+     Team Heretics                :     13 (  7, 0,  6),  53.8 :   -99.8
+     FUT Esports                  :      7 (  1, 0,  6),  14.3 :   -83.0
+     Reverso Gaming               :      8 (  5, 0,  3),  62.5 :   -57.7
+     LLC Esport                   :     12 (  7, 0,  5),  58.3 :    -3.3
+     PUZO                         :      5 (  1, 0,  4),  20.0 :   +31.3
+     Skepsis Gaming               :     14 (  8, 0,  6),  57.1 :   +77.2
+     Universum Gaming             :      7 (  6, 0,  1),  85.7 :  +238.2
+     Black Falcons                :      4 (  4, 0,  0), 100.0 :  +421.0
+     Mad Chameleons               :      4 (  4, 0,  0), 100.0 :  +421.9
+     DragosBlackPig               :      4 (  4, 0,  0), 100.0 :  +448.4
+
+ 20) Izana is bad           2963.2 :     14 (+9,=0,-5),  64.3 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     PUZO                         :      8 ( 5, 0, 3),  62.5 :   +28.7
+     ZeroQuality                  :      6 ( 4, 0, 2),  66.7 :  +220.6
+
+ 21) LuxAeterna CM          2948.1 :     42 (+26,=0,-16),  61.9 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     F/A UK                       :      8 (  6, 0,  2),  75.0 :  -132.3
+     FUT Esports                  :      7 (  1, 0,  6),  14.3 :  -100.7
+     LLC Esport                   :      7 (  1, 0,  6),  14.3 :   -20.9
+     vMoove                       :      6 (  4, 0,  2),  66.7 :  +213.0
+     We will prove                :      4 (  4, 0,  0), 100.0 :  +363.4
+     F/a ris                      :      6 (  6, 0,  0), 100.0 :  +403.1
+     Mk gaming                    :      4 (  4, 0,  0), 100.0 : +1191.5
+
+ 22) 丸                    2941.5 :     12 (+5,=0,-7),  41.7 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Remicas Hairline             :      4 ( 0, 0, 4),   0.0 :  -273.3
+     LUX NNS                      :      8 ( 5, 0, 3),  62.5 :   +26.8
+
+ 23) PUZO                   2934.4 :     38 (+19,=0,-19),  50.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :      6 (  0, 0,  6),   0.0 :  -254.3
+     Millesime MG                 :      8 (  2, 0,  6),  25.0 :   -57.6
+     XPERION NXT                  :      5 (  4, 0,  1),  80.0 :   -31.3
+     Izana is bad                 :      8 (  3, 0,  5),  37.5 :   -28.7
+     F/A Cute Kitties             :      7 (  6, 0,  1),  85.7 :  +133.4
+     Relax                        :      4 (  4, 0,  0), 100.0 :  +508.2
+
+ 24) F/A Borti              2926.1 :     34 (+19,=0,-15),  55.9 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Inner Circle                 :      9 (  2, 0,  7),  22.2 :  -168.9
+     F/A Poland                   :     11 (  5, 0,  6),  45.5 :   +32.7
+     Hizza Put                    :      6 (  4, 0,  2),  66.7 :  +121.5
+     Drunk Beavers                :      4 (  4, 0,  0), 100.0 :  +134.9
+     LuxAeterna EE                :      4 (  4, 0,  0), 100.0 :  +489.1
+
+ 25) Czech Rivals           2924.9 :      4 (+4,=0,-0), 100.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     COURAGE ONE                  :      4 ( 4, 0, 0), 100.0 :  +421.0
+
+ 26) Saint Velocity         2922.6 :     44 (+22,=0,-22),  50.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Reply Totem                  :     10 (  3, 0,  7),  30.0 :  -151.5
+     Reverso Gaming               :      7 (  1, 0,  6),  14.3 :  -100.8
+     DPB|Esport                   :      8 (  3, 0,  5),  37.5 :   -93.6
+     LUX NNS                      :      7 (  3, 0,  4),  42.9 :    +7.9
+     Skepsis Gaming               :      4 (  4, 0,  0), 100.0 :   +34.0
+     DPC | Secret 🌱            :      4 (  4, 0,  0), 100.0 :  +504.6
+     Eternal Emptiness            :      4 (  4, 0,  0), 100.0 : +1637.5
+
+ 27) Mecenates              2922.6 :     11 (+7,=0,-4),  63.6 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LLC Esport                   :      7 ( 3, 0, 4),  42.9 :   -46.5
+     4FUN                         :      4 ( 4, 0, 0), 100.0 :  +814.0
+
+ 28) LUX NNS                2914.7 :     47 (+27,=0,-20),  57.4 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Ping Abusers                 :      5 (  1, 0,  4),  20.0 :  -305.4
+     Team Heretics                :      6 (  0, 0,  6),   0.0 :  -150.9
+     丸                          :      8 (  3, 0,  5),  37.5 :   -26.8
+     Saint Velocity               :      7 (  4, 0,  3),  57.1 :    -7.9
+     Universum Gaming             :      6 (  6, 0,  0), 100.0 :  +187.1
+     Hellsing                     :      7 (  5, 0,  2),  71.4 :  +206.6
+     I San Marinesi               :      4 (  4, 0,  0), 100.0 :  +357.1
+     WTW                          :      4 (  4, 0,  0), 100.0 :  +421.0
+
+ 29) Smirk Cats             2899.0 :     30 (+15,=0,-15),  50.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Eclipsar Esport              :     12 (  4, 0,  8),  33.3 :  -221.0
+     Skepsis Gaming               :     11 (  5, 0,  6),  45.5 :   +10.4
+     MLI                          :      7 (  6, 0,  1),  85.7 :  +536.8
+
+ 30) F/A Poland             2893.3 :     53 (+27,=0,-26),  50.9 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Team Heretics                :     10 (  4, 0,  6),  40.0 :  -172.2
+     Reverso Gaming               :      7 (  1, 0,  6),  14.3 :  -130.1
+     F/A Borti                    :     11 (  6, 0,  5),  54.5 :   -32.7
+     GLORE.FIFINE                 :     10 (  3, 0,  7),  30.0 :   +23.2
+     Black and White              :      9 (  7, 0,  2),  77.8 :  +186.9
+     TOP eSports                  :      6 (  6, 0,  0), 100.0 :  +283.2
+
+ 31) Skepsis Gaming         2888.6 :     81 (+39,=0,-42),  48.1 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      7 (  1, 0,  6),  14.3 :  -307.9
+     FUT Esports                  :     13 (  6, 0,  7),  46.2 :  -160.3
+     Millesime MG                 :      9 (  2, 0,  7),  22.2 :  -103.5
+     XPERION NXT                  :     14 (  6, 0,  8),  42.9 :   -77.2
+     Saint Velocity               :      4 (  0, 0,  4),   0.0 :   -34.0
+     Smirk Cats                   :     11 (  6, 0,  5),  54.5 :   -10.4
+     Aogiri Esport                :      9 (  6, 0,  3),  66.7 :  +139.4
+     I San Marinesi               :      7 (  6, 0,  1),  85.7 :  +331.0
+     F/a ris                      :      7 (  6, 0,  1),  85.7 :  +343.5
+
+ 32) Läskit                2877.0 :      9 (+5,=0,-4),  55.6 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Eclipsar Esport              :      5 ( 1, 0, 4),  20.0 :  -242.9
+     Missing Summer               :      4 ( 4, 0, 0), 100.0 :  +421.0
+
+ 33) GLORE.FIFINE           2870.1 :     69 (+35,=0,-34),  50.7 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      7 (  1, 0,  6),  14.3 :  -326.4
+     Inner Circle                 :      7 (  1, 0,  6),  14.3 :  -224.9
+     LLC Esport                   :     11 (  4, 0,  7),  36.4 :   -99.0
+     F/A Poland                   :     10 (  7, 0,  3),  70.0 :   -23.2
+     Sigma Boys                   :     14 (  7, 0,  7),  50.0 :   +54.2
+     Universum Gaming             :     11 (  7, 0,  4),  63.6 :  +142.5
+     HPN                          :      4 (  4, 0,  0), 100.0 :  +298.0
+     RVP Gaming                   :      5 (  4, 0,  1),  80.0 :  +563.7
+
+ 34) Am o fantezie          2863.3 :     32 (+17,=0,-15),  53.1 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Papara SuperMassive          :      6 (  0, 0,  6),   0.0 :  -207.0
+     LLC Esport                   :     12 (  5, 0,  7),  41.7 :  -105.7
+     🍆🍑                     :      6 (  4, 0,  2),  66.7 :  +159.1
+     Infinity Poisons             :      4 (  4, 0,  0), 100.0 :  +353.1
+     Jiv4iki🩸                  :      4 (  4, 0,  0), 100.0 :  +359.0
+
+ 35) lads                   2843.3 :     40 (+22,=0,-18),  55.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Reply Totem                  :      7 (  1, 0,  6),  14.3 :  -230.8
+     Team Heretics                :      8 (  2, 0,  6),  25.0 :  -222.2
+     Drunk Beavers                :      8 (  5, 0,  3),  62.5 :   +52.1
+     Black and White              :      9 (  6, 0,  3),  66.7 :  +136.9
+     RD|Team                      :      4 (  4, 0,  0), 100.0 :  +421.0
+     YTM Esports                  :      4 (  4, 0,  0), 100.0 :  +753.1
+
+ 36) Sigma Boys             2815.8 :     45 (+22,=0,-23),  48.9 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     FUT Esports                  :     10 (  4, 0,  6),  40.0 :  -233.0
+     Las Cabras                   :      4 (  0, 0,  4),   0.0 :  -202.1
+     GLORE.FIFINE                 :     14 (  7, 0,  7),  50.0 :   -54.2
+     Drunk Beavers                :      5 (  1, 0,  4),  20.0 :   +24.7
+     F/a ris                      :      5 (  4, 0,  1),  80.0 :  +270.8
+     Kit Too Far                  :      7 (  6, 0,  1),  85.7 :  +365.3
+
+ 37) LuxAeterna eSports     2812.6 :     45 (+25,=0,-20),  55.6 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     F/A UK                       :      6 (  0, 0,  6),   0.0 :  -267.8
+     LLC Esport                   :     14 (  6, 0,  8),  42.9 :  -156.4
+     Eternal                      :      4 (  4, 0,  0), 100.0 :   +51.4
+     Proseding                    :     11 (  7, 0,  4),  63.6 :  +210.1
+     Crow Nest Esports            :      6 (  4, 0,  2),  66.7 :  +308.7
+     TSN Esports                  :      4 (  4, 0,  0), 100.0 :  +421.0
+
+ 38) TOP | Esports          2806.5 :     14 (+6,=0,-8),  42.9 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Team Heretics                :      6 ( 0, 0, 6),   0.0 :  -259.0
+     Universum Gaming             :      8 ( 6, 0, 2),  75.0 :   +78.9
+
+ 39) Hizza Put              2804.6 :      6 (+2,=0,-4),  33.3 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     F/A Borti                    :      6 ( 2, 0, 4),  33.3 :  -121.5
+
+ 40) F/A Cute Kitties       2801.1 :     17 (+5,=0,-12),  29.4 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     LLC Esport                   :     10 ( 4, 0,  6),  40.0 :  -168.0
+     PUZO                         :      7 ( 1, 0,  6),  14.3 :  -133.4
+
+ 41) ChessSigmas            2797.4 :     42 (+20,=0,-22),  47.6 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      6 (  0, 0,  6),   0.0 :  -399.0
+     Reply Totem                  :      7 (  1, 0,  6),  14.3 :  -276.7
+     Aogiri Esport                :     12 (  7, 0,  5),  58.3 :   +48.2
+     UNV Academy                  :      7 (  4, 0,  3),  57.1 :   +50.4
+     Black and White              :      5 (  4, 0,  1),  80.0 :   +91.0
+     Chewing Gum                  :      5 (  4, 0,  1),  80.0 :  +315.2
+
+ 42) Drunk Beavers          2791.2 :     17 (+7,=0,-10),  41.2 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     F/A Borti                    :      4 ( 0, 0,  4),   0.0 :  -134.9
+     lads                         :      8 ( 3, 0,  5),  37.5 :   -52.1
+     Sigma Boys                   :      5 ( 4, 0,  1),  80.0 :   -24.7
+
+ 43) Just Gitgud            2780.2 :     14 (+9,=0,-5),  64.3 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     vMoove                       :      8 ( 5, 0, 3),  62.5 :   +45.0
+     Gigampfii                    :      6 ( 4, 0, 2),  66.7 :  +190.8
+
+ 44) Eternal                2761.3 :     16 (+9,=0,-7),  56.2 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Reverso Gaming               :      4 ( 4, 0, 0), 100.0 :  -262.2
+     LuxAeterna eSports           :      4 ( 0, 0, 4),   0.0 :   -51.4
+     Ei                           :      8 ( 5, 0, 3),  62.5 :  +265.6
+
+ 45) Chaotic Esport         2750.3 :      5 (+4,=0,-1),  80.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     RKK|Gaming EU                :      5 ( 4, 0, 1),  80.0 :  +242.9
+
+ 46) Aogiri Esport          2749.2 :     55 (+33,=0,-22),  60.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Skepsis Gaming               :      9 (  3, 0,  6),  33.3 :  -139.4
+     ChessSigmas                  :     12 (  5, 0,  7),  41.7 :   -48.2
+     Spectrxs                     :      7 (  4, 0,  3),  57.1 :   +50.4
+     F/A Hakunamatata             :      6 (  4, 0,  2),  66.7 :   +89.3
+     Heretics fan's               :      9 (  5, 0,  4),  55.6 :  +149.7
+     Eepy Cars                    :      4 (  4, 0,  0), 100.0 :  +183.1
+     TEAM KODAK                   :      4 (  4, 0,  0), 100.0 :  +421.0
+     PIF                          :      4 (  4, 0,  0), 100.0 :  +568.0
+
+ 47) UNV Academy            2747.0 :      7 (+3,=0,-4),  42.9 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     ChessSigmas                  :      7 ( 3, 0, 4),  42.9 :   -50.4
+
+ 48) ZeroQuality            2742.6 :     29 (+17,=0,-12),  58.6 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Izana is bad                 :      6 (  2, 0,  4),  33.3 :  -220.6
+     Universum Gaming             :      8 (  3, 0,  5),  37.5 :   +15.0
+     F/A 200IQ                    :      6 (  4, 0,  2),  66.7 :  +121.5
+     Mad Chameleons               :      5 (  4, 0,  1),  80.0 :  +198.7
+     SSA | Esports                :      4 (  4, 0,  0), 100.0 :  +452.7
+
+ 49) Sentinels Classic      2739.8 :     15 (+10,=0,-5),  66.7 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     Black and White              :      6 (  2, 0, 4),  33.3 :   +33.3
+     Gigampfii                    :      5 (  4, 0, 1),  80.0 :  +150.4
+     Ei                           :      4 (  4, 0, 0), 100.0 :  +244.1
+
+ 50) vMoove                 2735.2 :     37 (+19,=0,-18),  51.4 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Ping Abusers                 :      5 (  1, 0,  4),  20.0 :  -484.9
+     LuxAeterna CM                :      6 (  2, 0,  4),  33.3 :  -213.0
+     Just Gitgud                  :      8 (  3, 0,  5),  37.5 :   -45.0
+     K1                           :      8 (  5, 0,  3),  62.5 :  +143.0
+     Zero eSports                 :      5 (  4, 0,  1),  80.0 :  +242.9
+     Sentinels                    :      5 (  4, 0,  1),  80.0 :  +316.8
+
+ 51) NTSX                   2729.2 :     20 (+14,=0,-6),  70.0 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     Black and White              :      9 (  5, 0, 4),  55.6 :   +22.7
+     OCTANE ESPORTS               :      7 (  5, 0, 2),  71.4 :  +187.0
+     MSN Esport                   :      4 (  4, 0, 0), 100.0 : +1047.0
+
+ 52) Universum Gaming       2727.6 :     66 (+35,=0,-31),  53.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     XPERION NXT                  :      7 (  1, 0,  6),  14.3 :  -238.2
+     LUX NNS                      :      6 (  0, 0,  6),   0.0 :  -187.1
+     GLORE.FIFINE                 :     11 (  4, 0,  7),  36.4 :  -142.5
+     TOP | Esports                :      8 (  2, 0,  6),  25.0 :   -78.9
+     ZeroQuality                  :      8 (  5, 0,  3),  62.5 :   -15.0
+     SJS                          :      4 (  4, 0,  0), 100.0 :  +119.9
+     NaN Academy                  :      9 (  7, 0,  2),  77.8 :  +192.7
+     F/A Tequila                  :      5 (  4, 0,  1),  80.0 :  +318.4
+     Tralupas                     :      4 (  4, 0,  0), 100.0 :  +421.0
+     Saltys                       :      4 (  4, 0,  0), 100.0 :  +421.0
+
+ 53) NoN-eSports            2721.0 :      4 (+4,=0,-0), 100.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     ZIRO ESPORTS                 :      4 ( 4, 0, 0), 100.0 :  +421.0
+
+ 54) Invictus Mente         2712.0 :     30 (+14,=0,-16),  46.7 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Remicas Hairline             :      5 (  1, 0,  4),  20.0 :  -502.8
+     F/A UK                       :      6 (  0, 0,  6),   0.0 :  -368.5
+     Hellsing                     :      7 (  4, 0,  3),  57.1 :    +3.8
+     Baskota                      :      7 (  5, 0,  2),  71.4 :  +203.0
+     DPC | Secret 🌱            :      5 (  4, 0,  1),  80.0 :  +293.9
+
+ 55) Suspect                2710.9 :     10 (+8,=0,-2),  80.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Gigampfii                    :      6 ( 4, 0, 2),  66.7 :  +121.5
+     Rebellion eSports            :      4 ( 4, 0, 0), 100.0 : +2230.8
+
+ 56) Hellsing               2708.1 :     27 (+17,=0,-10),  63.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     LUX NNS                      :      7 (  2, 0,  5),  28.6 :  -206.6
+     Invictus Mente               :      7 (  3, 0,  4),  42.9 :    -3.8
+     F/A RAYO ESFERA              :      5 (  4, 0,  1),  80.0 :  +242.9
+     PIF                          :      4 (  4, 0,  0), 100.0 :  +526.9
+     Aerion Academy               :      4 (  4, 0,  0), 100.0 :  +627.1
+
+ 57) Black and White        2706.4 :     53 (+27,=0,-26),  50.9 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     F/A Poland                   :      9 (  2, 0,  7),  22.2 :  -186.9
+     lads                         :      9 (  3, 0,  6),  33.3 :  -136.9
+     ChessSigmas                  :      5 (  1, 0,  4),  20.0 :   -91.0
+     Sentinels Classic            :      6 (  4, 0,  2),  66.7 :   -33.3
+     NTSX                         :      9 (  4, 0,  5),  44.4 :   -22.7
+     AVE Redemption               :      7 (  5, 0,  2),  71.4 :  +177.2
+     BulgarianPros                :      4 (  4, 0,  0), 100.0 :  +754.0
+     Rebellion eSports            :      4 (  4, 0,  0), 100.0 : +2226.3
+
+ 58) 🍆🍑               2704.2 :     15 (+6,=0,-9),  40.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Eclipsar Esport              :      4 ( 0, 0, 4),   0.0 :  -415.7
+     Am o fantezie                :      6 ( 2, 0, 4),  33.3 :  -159.1
+     Paradis Esports              :      5 ( 4, 0, 1),  80.0 :  +228.9
+
+ 59) Spectrxs               2698.8 :     12 (+7,=0,-5),  58.3 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Aogiri Esport                :      7 ( 3, 0, 4),  42.9 :   -50.4
+     Mr🐐🐐                   :      5 ( 4, 0, 1),  80.0 :  +242.9
+
+ 60) StormBreakers          2673.6 :      8 (+5,=0,-3),  62.5 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     CocoSacaelPaint              :      8 ( 5, 0, 3),  62.5 :   +89.5
+
+ 61) F/A Hakunamatata       2659.9 :     10 (+6,=0,-4),  60.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Aogiri Esport                :      6 ( 2, 0, 4),  33.3 :   -89.3
+     BSE                          :      4 ( 4, 0, 0), 100.0 :  +473.5
+
+ 62) DARK EAGLES            2656.1 :     16 (+13,=0,-3),  81.2 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     Paradis Esports              :      5 (  4, 0, 1),  80.0 :  +180.7
+     BC* Academy                  :      7 (  5, 0, 2),  71.4 :  +201.2
+     Russian Grandmothers         :      4 (  4, 0, 0), 100.0 :  +673.3
+
+ 63) F/A 200IQ              2621.1 :      6 (+2,=0,-4),  33.3 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     ZeroQuality                  :      6 ( 2, 0, 4),  33.3 :  -121.5
+
+ 64) TOP eSports            2610.1 :     64 (+29,=0,-35),  45.3 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     SK Gaming                    :      6 (  0, 0,  6),   0.0 :  -578.7
+     Reply Totem                  :      6 (  0, 0,  6),   0.0 :  -464.0
+     FUT Esports                  :      6 (  0, 0,  6),   0.0 :  -438.7
+     F/A Poland                   :      6 (  0, 0,  6),   0.0 :  -283.2
+     Proseding                    :      9 (  6, 0,  3),  66.7 :    +7.5
+     Infinity Poisons             :      7 (  4, 0,  3),  57.1 :   +99.8
+     Jiv4iki🩸                  :      7 (  5, 0,  2),  71.4 :  +105.8
+     Kit Too Far                  :      7 (  6, 0,  1),  85.7 :  +159.6
+     Liverpool                    :      5 (  4, 0,  1),  80.0 :  +242.9
+     CalmShadow                   :      5 (  4, 0,  1),  80.0 :  +335.6
+
+ 65) SJS                    2607.7 :     16 (+8,=0,-8),  50.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Universum Gaming             :      4 ( 0, 0, 4),   0.0 :  -119.9
+     HPN                          :      6 ( 4, 0, 2),  66.7 :   +35.7
+     Eepy Cars                    :      6 ( 4, 0, 2),  66.7 :   +41.6
+
+ 66) Proseding              2602.5 :     52 (+26,=0,-26),  50.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Millesime MG                 :      9 (  2, 0,  7),  22.2 :  -389.5
+     LuxAeterna eSports           :     11 (  4, 0,  7),  36.4 :  -210.1
+     TOP eSports                  :      9 (  3, 0,  6),  33.3 :    -7.5
+     TOP|Academy                  :      5 (  4, 0,  1),  80.0 :  +175.8
+     Sentinels                    :      5 (  4, 0,  1),  80.0 :  +184.1
+     Fani Boguckiego              :      8 (  5, 0,  3),  62.5 :  +260.5
+     SSA | Esports                :      5 (  4, 0,  1),  80.0 :  +312.6
+
+ 67) Heretics fan's         2599.5 :     17 (+7,=0,-10),  41.2 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Aogiri Esport                :      9 ( 4, 0,  5),  44.4 :  -149.7
+     HPN                          :      8 ( 3, 0,  5),  37.5 :   +27.5
+
+ 68) K1                     2592.1 :     20 (+11,=0,-9),  55.0 %
+
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     vMoove                       :      8 (  3, 0, 5),  37.5 :  -143.0
+     Mad Chameleons               :      8 (  4, 0, 4),  50.0 :   +48.3
+     Fire Seekers                 :      4 (  4, 0, 0), 100.0 :  +421.0
+
+ 69) Gigampfii              2589.4 :     17 (+5,=0,-12),  29.4 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Just Gitgud                  :      6 ( 2, 0,  4),  33.3 :  -190.8
+     Sentinels Classic            :      5 ( 1, 0,  4),  20.0 :  -150.4
+     Suspect                      :      6 ( 2, 0,  4),  33.3 :  -121.5
+
+ 70) We will prove          2584.7 :      9 (+4,=0,-5),  44.4 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LuxAeterna CM                :      4 ( 0, 0, 4),   0.0 :  -363.4
+     TC|Esport                    :      5 ( 4, 0, 1),  80.0 :  +157.5
+
+ 71) CocoSacaelPaint        2584.0 :     12 (+3,=0,-9),  25.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Mini Kozaki                  :      4 ( 0, 0, 4),   0.0 :  -540.4
+     StormBreakers                :      8 ( 3, 0, 5),  37.5 :   -89.5
+
+ 72) HPN                    2572.0 :     22 (+7,=0,-15),  31.8 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Mini Kozaki                  :      4 ( 0, 0,  4),   0.0 :  -552.4
+     GLORE.FIFINE                 :      4 ( 0, 0,  4),   0.0 :  -298.0
+     SJS                          :      6 ( 2, 0,  4),  33.3 :   -35.7
+     Heretics fan's               :      8 ( 5, 0,  3),  62.5 :   -27.5
+
+ 73) Muertazos BS           2568.4 :     12 (+5,=0,-7),  41.7 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Millesime MG                 :      4 ( 0, 0, 4),   0.0 :  -423.6
+     Baskota                      :      8 ( 5, 0, 3),  62.5 :   +59.5
+
+ 74) Eepy Cars              2566.1 :     22 (+11,=0,-11),  50.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Aogiri Esport                :      4 (  0, 0,  4),   0.0 :  -183.1
+     SJS                          :      6 (  2, 0,  4),  33.3 :   -41.6
+     OCTANE ESPORTS               :      5 (  4, 0,  1),  80.0 :   +24.0
+     HDC|eSports                  :      7 (  5, 0,  2),  71.4 :  +118.7
+
+ 75) I San Marinesi         2557.5 :     20 (+9,=0,-11),  45.0 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     LUX NNS                      :      4 ( 0, 0,  4),   0.0 :  -357.1
+     Skepsis Gaming               :      7 ( 1, 0,  6),  14.3 :  -331.0
+     REVA team                    :      5 ( 4, 0,  1),  80.0 :  +242.9
+     MSC|é-sports™️          :      4 ( 4, 0,  0), 100.0 :  +394.7
+
+ 76) BRN                    2548.1 :      4 (+0,=0,-4),   0.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LLC Esport                   :      4 ( 0, 0, 4),   0.0 :  -421.0
+
+ 77) F/a ris                2545.1 :     30 (+11,=0,-19),  36.7 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     LuxAeterna CM                :      6 (  0, 0,  6),   0.0 :  -403.1
+     Skepsis Gaming               :      7 (  1, 0,  6),  14.3 :  -343.5
+     Sigma Boys                   :      5 (  1, 0,  4),  20.0 :  -270.8
+     Chewing Gum                  :      8 (  5, 0,  3),  62.5 :   +62.9
+     Team AEG                     :      4 (  4, 0,  0), 100.0 : +1943.5
+
+ 78) Black Falcons          2544.8 :      4 (+0,=0,-4),   0.0 %
+
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     XPERION NXT                  :      4 ( 0, 0, 4),   0.0 :  -421.0
+
+ 79) Mad Chameleons         2543.9 :     17 (+5,=0,-12),  29.4 %
+
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     XPERION NXT                  :      4 ( 0, 0,  4),   0.0 :  -421.9
+     ZeroQuality                  :      5 ( 1, 0,  4),  20.0 :  -198.7
+     K1                           :      8 ( 4, 0,  4),  50.0 :   -48.3
+
+ 80) OCTANE ESPORTS         2542.1 :     23 (+12,=0,-11),  52.2 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     NTSX                         :      7 (  2, 0,  5),  28.6 :  -187.0
+     Eepy Cars                    :      5 (  1, 0,  4),  20.0 :   -24.0
+     Crow Nest Esports            :      7 (  5, 0,  2),  71.4 :   +38.2
+     YTM Esports                  :      4 (  4, 0,  0), 100.0 :  +451.9
+
+ 81) NaN Academy            2534.9 :     27 (+10,=0,-17),  37.0 %
+
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     HMBLE                        :      6 (  0, 0,  6),   0.0 :  -661.5
+     Universum Gaming             :      9 (  2, 0,  7),  22.2 :  -192.7
+     ÆPN Zerø                   :      7 (  4, 0,  3),  57.1 :   +54.9
+     Neo Titans DZ                :      5 (  4, 0,  1),  80.0 :  +160.8
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     KT | Kastraty Team         :      4 ( 4, 0, 0), 100.0 :  +421.0
-     GREEK GANG ESPORTS         :      4 ( 4, 0, 0), 100.0 : +2472.4
+ 82) AVE Redemption         2529.3 :     15 (+7,=0,-8),  46.7 %
 
- 62) Baguette             2720.4 :     12 (+7,=0,-5),  58.3 %
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Black and White              :      7 ( 2, 0, 5),  28.6 :  -177.2
+     TC|Esport                    :      8 ( 5, 0, 3),  62.5 :  +102.0
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Drunk Beavers              :      7 ( 3, 0, 4),  42.9 :   -20.1
-     F/A 200IQ                  :      5 ( 4, 0, 1),  80.0 :  +183.5
-
- 63) F/A KhaoS            2709.9 :      8 (+5,=0,-3),  62.5 %
+ 83) DragosBlackPig         2517.4 :     16 (+8,=0,-8),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     MKN                        :      8 ( 5, 0, 3),  62.5 :   +89.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     XPERION NXT                  :      4 ( 0, 0, 4),   0.0 :  -448.4
+     LuxAeterna EE                :      6 ( 4, 0, 2),  66.7 :   +80.4
+     Narmaldaki E-sports          :      6 ( 4, 0, 2),  66.7 :  +126.2
 
- 64) ZeroQuality          2699.5 :     18 (+11,=0,-7),  61.1 %
+ 84) Infinity Poisons       2510.3 :     11 (+3,=0,-8),  27.3 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Universum Gaming           :      8 (  3, 0, 5),  37.5 :   -71.8
-     F/A 200IQ                  :      6 (  4, 0, 2),  66.7 :  +162.5
-     SSA | Esports              :      4 (  4, 0, 0), 100.0 :  +344.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Am o fantezie                :      4 ( 0, 0, 4),   0.0 :  -353.1
+     TOP eSports                  :      7 ( 3, 0, 4),  42.9 :   -99.8
 
- 65) Gigampfii            2684.2 :     11 (+3,=0,-8),  27.3 %
+ 85) Baskota                2508.9 :     15 (+5,=0,-10),  33.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Sentinels Classic          :      5 ( 1, 0, 4),  20.0 :  -190.5
-     Just Gitgud                :      6 ( 2, 0, 4),  33.3 :  -157.0
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Invictus Mente               :      7 ( 2, 0,  5),  28.6 :  -203.0
+     Muertazos BS                 :      8 ( 3, 0,  5),  37.5 :   -59.5
 
- 66) AVE Redemption       2681.8 :     15 (+7,=0,-8),  46.7 %
+ 86) RKK|Gaming EU          2507.3 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Black and White            :      7 ( 2, 0, 5),  28.6 :  -137.0
-     TC|Esport                  :      8 ( 5, 0, 3),  62.5 :   +71.3
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Chaotic Esport               :      5 ( 1, 0, 4),  20.0 :  -242.9
 
- 67) F/a ris              2680.9 :     29 (+14,=0,-15),  48.3 %
+ 87) Jiv4iki🩸            2504.3 :     16 (+6,=0,-10),  37.5 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     LuxAeterna CM              :      6 (  0, 0,  6),   0.0 :  -395.5
-     Skepsis Gaming             :      7 (  1, 0,  6),  14.3 :  -378.3
-     Chewing Gum                :      8 (  5, 0,  3),  62.5 :   +62.6
-     TCK Esport 丈             :      4 (  4, 0,  0), 100.0 :  +421.0
-     Team AEG                   :      4 (  4, 0,  0), 100.0 : +2100.3
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Am o fantezie                :      4 ( 0, 0,  4),   0.0 :  -359.0
+     TOP eSports                  :      7 ( 2, 0,  5),  28.6 :  -105.8
+     F/A Randoms                  :      5 ( 4, 0,  1),  80.0 :   +81.1
 
- 68) GBB Esports          2680.7 :      7 (+2,=0,-5),  28.6 %
+ 88) Crow Nest Esports      2503.9 :     21 (+8,=0,-13),  38.1 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Just Gitgud                :      7 ( 2, 0, 5),  28.6 :  -160.6
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     LuxAeterna eSports           :      6 ( 2, 0,  4),  33.3 :  -308.7
+     OCTANE ESPORTS               :      7 ( 2, 0,  5),  28.6 :   -38.2
+     COURAGE ONE                  :      8 ( 4, 0,  4),  50.0 :    +0.0
 
- 69) Relax                2664.5 :      4 (+0,=0,-4),   0.0 %
+ 89) COURAGE ONE            2503.9 :     16 (+8,=0,-8),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     PUZO                       :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Czech Rivals                 :      4 ( 0, 0, 4),   0.0 :  -421.0
+     Crow Nest Esports            :      8 ( 4, 0, 4),  50.0 :    -0.0
+     Klunk                        :      4 ( 4, 0, 0), 100.0 :  +421.0
 
- 70) YXZ                  2664.5 :      4 (+0,=0,-4),   0.0 %
+ 90) Ei                     2495.7 :     32 (+16,=0,-16),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     PUZO                       :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     F/A Sucuk                    :      4 (  0, 0,  4),   0.0 :  -513.6
+     Eternal                      :      8 (  3, 0,  5),  37.5 :  -265.6
+     Sentinels Classic            :      4 (  0, 0,  4),   0.0 :  -244.1
+     Never surrender              :      5 (  4, 0,  1),  80.0 :  +242.9
+     Barcelona                    :      7 (  5, 0,  2),  71.4 :  +269.7
+     🔥 LATIN STARS 🔥        :      4 (  4, 0,  0), 100.0 :  +421.0
 
- 71) K1                   2660.2 :     20 (+11,=0,-9),  55.0 %
+ 91) WTW                    2493.7 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     vMoove                     :      8 (  3, 0, 5),  37.5 :  -115.5
-     Mad Chameleons             :      8 (  4, 0, 4),  50.0 :   +23.9
-     Fire Seekers               :      4 (  4, 0, 0), 100.0 :  +421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LUX NNS                      :      4 ( 0, 0, 4),   0.0 :  -421.0
 
- 72) Infinity Poisons     2643.8 :     11 (+3,=0,-8),  27.3 %
+ 92) Zero eSports           2492.2 :     11 (+5,=0,-6),  45.5 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Am o fantezie              :      4 ( 0, 0, 4),   0.0 :  -352.2
-     TOP eSports                :      7 ( 3, 0, 4),  42.9 :  -100.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     vMoove                       :      5 ( 1, 0, 4),  20.0 :  -242.9
+     Pixel Predators              :      6 ( 4, 0, 2),  66.7 :  +121.5
 
- 73) Jiv4iki🩸          2638.4 :     20 (+10,=0,-10),  50.0 %
+ 93) Chewing Gum            2482.2 :     17 (+8,=0,-9),  47.1 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Am o fantezie              :      4 (  0, 0,  4),   0.0 :  -357.6
-     TOP eSports                :      7 (  2, 0,  5),  28.6 :  -105.4
-     F/A Randoms                :      5 (  4, 0,  1),  80.0 :   +80.2
-     Shdow                      :      4 (  4, 0,  0), 100.0 :  +421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     ChessSigmas                  :      5 ( 1, 0, 4),  20.0 :  -315.2
+     F/a ris                      :      8 ( 3, 0, 5),  37.5 :   -62.9
+     Arigatouwu                   :      4 ( 4, 0, 0), 100.0 :  +421.0
 
- 74) Mad Chameleons       2636.2 :     12 (+4,=0,-8),  33.3 %
+ 94) ÆPN Zerø             2480.0 :     12 (+7,=0,-5),  58.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     XPERION NXT                :      4 ( 0, 0, 4),   0.0 :  -458.2
-     K1                         :      8 ( 4, 0, 4),  50.0 :   -23.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     NaN Academy                  :      7 ( 3, 0, 4),  42.9 :   -54.9
+     TS|Too Serious               :      5 ( 4, 0, 1),  80.0 :  +252.7
 
- 75) Hard Work Gaming     2620.4 :      6 (+2,=0,-4),  33.3 %
+ 95) Paradis Esports        2475.4 :     15 (+6,=0,-9),  40.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     The Diggers                :      6 ( 2, 0, 4),  33.3 :  -121.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     🍆🍑                     :      5 ( 1, 0, 4),  20.0 :  -228.9
+     DARK EAGLES                  :      5 ( 1, 0, 4),  20.0 :  -180.7
+     RVP Gaming                   :      5 ( 4, 0, 1),  80.0 :  +169.0
 
- 76) MKN                  2620.4 :     14 (+5,=0,-9),  35.7 %
+ 96) F/A RAYO ESFERA        2465.2 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     The Diggers                :      6 ( 2, 0, 4),  33.3 :  -121.5
-     F/A KhaoS                  :      8 ( 3, 0, 5),  37.5 :   -89.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Hellsing                     :      5 ( 1, 0, 4),  20.0 :  -242.9
 
- 77) Chewing Gum          2618.3 :     17 (+8,=0,-9),  47.1 %
+ 97) Missing Summer         2456.0 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     ChessSigmas                :      5 ( 1, 0, 4),  20.0 :  -316.1
-     F/a ris                    :      8 ( 3, 0, 5),  37.5 :   -62.6
-     Arigatouwu                 :      4 ( 4, 0, 0), 100.0 : +2319.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Läskit                      :      4 ( 0, 0, 4),   0.0 :  -421.0
 
- 78) Golden Pilots        2615.0 :     14 (+9,=0,-5),  64.3 %
+ 98) Mr🐐🐐             2455.8 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Spectrxs                   :      5 ( 1, 0, 4),  20.0 :  -242.9
-     NEBULUS                    :      5 ( 4, 0, 1),  80.0 :  +242.9
-     YoungtalentsGER            :      4 ( 4, 0, 0), 100.0 :  +421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Spectrxs                     :      5 ( 1, 0, 4),  20.0 :  -242.9
 
- 79) Mr🐐🐐           2615.0 :     10 (+5,=0,-5),  50.0 %
+ 99) BC* Academy            2454.9 :     19 (+10,=0,-9),  52.6 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Spectrxs                   :      5 ( 1, 0, 4),  20.0 :  -242.9
-     PHANTOMS                   :      5 ( 4, 0, 1),  80.0 :  +242.9
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     DARK EAGLES                  :      7 (  2, 0, 5),  28.6 :  -201.2
+     TC|Esport                    :      8 (  4, 0, 4),  50.0 :   +27.6
+     Russian Grandmothers         :      4 (  4, 0, 0), 100.0 :  +472.1
 
- 80) TC|Esport            2610.5 :     25 (+12,=0,-13),  48.0 %
+100) Kit Too Far            2450.5 :     19 (+3,=0,-16),  15.8 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     We will prove              :      5 (  1, 0,  4),  20.0 :  -141.4
-     AVE Redemption             :      8 (  3, 0,  5),  37.5 :   -71.3
-     BC* Academy                :      8 (  4, 0,  4),  50.0 :    +0.0
-     Valued Guys                :      4 (  4, 0,  0), 100.0 :  +259.8
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Millesime MG                 :      5 ( 1, 0,  4),  20.0 :  -541.5
+     Sigma Boys                   :      7 ( 1, 0,  6),  14.3 :  -365.3
+     TOP eSports                  :      7 ( 1, 0,  6),  14.3 :  -159.6
 
- 81) BC* Academy          2610.5 :     15 (+6,=0,-9),  40.0 %
+101) HDC|eSports            2447.4 :     12 (+6,=0,-6),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     DARK EAGLES                :      7 ( 2, 0, 5),  28.6 :  -160.6
-     TC|Esport                  :      8 ( 4, 0, 4),  50.0 :    -0.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Eepy Cars                    :      7 ( 2, 0, 5),  28.6 :  -118.7
+     CalmShadow                   :      5 ( 4, 0, 1),  80.0 :  +172.9
 
- 82) NaN Academy          2610.4 :     37 (+18,=0,-19),  48.6 %
+102) LuxAeterna EE          2437.0 :     19 (+10,=0,-9),  52.6 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     HMBLE                      :      6 (  0, 0,  6),   0.0 :  -711.4
-     Universum Gaming           :      9 (  2, 0,  7),  22.2 :  -160.8
-     ÆPN Zerø                 :      7 (  4, 0,  3),  57.1 :   +50.4
-     Neo Titans DZ              :      5 (  4, 0,  1),  80.0 :  +110.1
-     Free Rank 30               :      6 (  4, 0,  2),  66.7 :  +130.5
-     Golden Wolves              :      4 (  4, 0,  0), 100.0 :  +421.0
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     F/A Borti                    :      4 (  0, 0, 4),   0.0 :  -489.1
+     DragosBlackPig               :      6 (  2, 0, 4),  33.3 :   -80.4
+     🍉                         :      5 (  4, 0, 1),  80.0 :  +242.9
+     SF Esports EMEA              :      4 (  4, 0, 0), 100.0 :  +320.0
 
- 83) Baskota              2590.6 :      7 (+2,=0,-5),  28.6 %
+103) Code : Gas             2437.0 :      5 (+4,=0,-1),  80.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Invictus Mente             :      7 ( 2, 0, 5),  28.6 :  -160.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     🍉                         :      5 ( 4, 0, 1),  80.0 :  +242.9
 
- 84) DansLeBueno          2582.9 :     12 (+6,=0,-6),  50.0 %
+104) TC|Esport              2427.3 :     21 (+8,=0,-13),  38.1 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     I San Marinesi             :      6 ( 2, 0, 4),  33.3 :  -232.2
-     Valued Guys                :      6 ( 4, 0, 2),  66.7 :  +232.2
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     We will prove                :      5 ( 1, 0,  4),  20.0 :  -157.5
+     AVE Redemption               :      8 ( 3, 0,  5),  37.5 :  -102.0
+     BC* Academy                  :      8 ( 4, 0,  4),  50.0 :   -27.6
 
- 85) F/A Tequila          2571.6 :     34 (+17,=0,-17),  50.0 %
+105) TOP|Academy            2426.8 :     13 (+9,=0,-4),  69.2 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     F/A UK                     :      6 (  0, 0,  6),   0.0 :  -642.5
-     Millesime MG               :      5 (  0, 0,  5),   0.0 :  -559.6
-     Universum Gaming           :      5 (  1, 0,  4),  20.0 :  -199.6
-     F/A Sicily                 :      6 (  4, 0,  2),  66.7 :   +51.9
-     Somalian Gang              :      4 (  4, 0,  0), 100.0 :  +421.0
-     CDA Esports                :      4 (  4, 0,  0), 100.0 : +2080.0
-     Herman esport              :      4 (  4, 0,  0), 100.0 : +2240.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Proseding                    :      5 ( 1, 0, 4),  20.0 :  -175.8
+     Mortal Dance                 :      4 ( 4, 0, 0), 100.0 :  +415.4
+     SEGOVIA FC                   :      4 ( 4, 0, 0), 100.0 :  +421.0
 
- 86) TOP|Academy          2561.1 :      9 (+5,=0,-4),  55.6 %
+106) Relax                  2426.3 :      9 (+4,=0,-5),  44.4 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Proseding                  :      5 ( 1, 0, 4),  20.0 :  -175.4
-     Mortal Dance               :      4 ( 4, 0, 0), 100.0 :  +414.3
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     PUZO                         :      4 ( 0, 0, 4),   0.0 :  -508.2
+     Barcelona                    :      5 ( 4, 0, 1),  80.0 :  +200.3
 
- 87) ÆPN Zerø           2560.0 :      7 (+3,=0,-4),  42.9 %
+107) F/A Randoms            2423.2 :     14 (+5,=0,-9),  35.7 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     NaN Academy                :      7 ( 3, 0, 4),  42.9 :   -50.4
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     F/A Sucuk                    :      4 ( 0, 0, 4),   0.0 :  -586.1
+     Jiv4iki🩸                  :      5 ( 1, 0, 4),  20.0 :   -81.1
+     Fani Boguckiego              :      5 ( 4, 0, 1),  80.0 :   +81.1
 
- 88) Kit Too Far          2559.9 :     12 (+2,=0,-10),  16.7 %
+108) RD|Team                2422.3 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =,  -),   (%) :    Diff
-     Millesime MG               :      5 ( 1, 0,  4),  20.0 :  -571.4
-     TOP eSports                :      7 ( 1, 0,  6),  14.3 :  -183.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     lads                         :      4 ( 0, 0, 4),   0.0 :  -421.0
 
- 89) F/A Randoms          2558.2 :     10 (+5,=0,-5),  50.0 %
+109) Sentinels              2418.4 :     10 (+2,=0,-8),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Jiv4iki🩸                :      5 ( 1, 0, 4),  20.0 :   -80.2
-     Fani Boguckiego            :      5 ( 4, 0, 1),  80.0 :   +80.2
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     vMoove                       :      5 ( 1, 0, 4),  20.0 :  -316.8
+     Proseding                    :      5 ( 1, 0, 4),  20.0 :  -184.1
 
- 90) The Unicorns 🦄    2557.0 :      4 (+0,=0,-4),   0.0 %
+110) DPC | Secret 🌱      2418.0 :     13 (+5,=0,-8),  38.5 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     GLORE.FIFINE               :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Saint Velocity               :      4 ( 0, 0, 4),   0.0 :  -504.6
+     Invictus Mente               :      5 ( 1, 0, 4),  20.0 :  -293.9
+     Gos Esport                   :      4 ( 4, 0, 0), 100.0 :  +421.0
 
- 91) ChillWibess          2552.7 :      5 (+1,=0,-4),  20.0 %
+111) F/A Tequila            2409.2 :     24 (+9,=0,-15),  37.5 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Delulu                     :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     F/A UK                       :      6 ( 0, 0,  6),   0.0 :  -671.2
+     Millesime MG                 :      5 ( 0, 0,  5),   0.0 :  -582.8
+     Universum Gaming             :      5 ( 1, 0,  4),  20.0 :  -318.4
+     CDA Esports                  :      4 ( 4, 0,  0), 100.0 : +2079.9
+     Herman esport                :      4 ( 4, 0,  0), 100.0 : +2240.5
 
- 92) StormBreakers        2552.7 :      5 (+1,=0,-4),  20.0 %
+112) TSN Esports            2391.6 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Quantum  Enforcers         :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LuxAeterna eSports           :      4 ( 0, 0, 4),   0.0 :  -421.0
 
- 93) F/A 200IQ            2537.0 :     11 (+3,=0,-8),  27.3 %
+113) Narmaldaki E-sports    2391.2 :     10 (+2,=0,-8),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Baguette                   :      5 ( 1, 0, 4),  20.0 :  -183.5
-     ZeroQuality                :      6 ( 2, 0, 4),  33.3 :  -162.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Remicas Hairline             :      4 ( 0, 0, 4),   0.0 :  -823.6
+     DragosBlackPig               :      6 ( 2, 0, 4),  33.3 :  -126.2
 
- 94) Druiven gamg         2528.3 :     20 (+11,=0,-9),  55.0 %
+114) Neo Titans DZ          2374.1 :     11 (+5,=0,-6),  45.5 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Universum Gaming           :      5 (  1, 0, 4),  20.0 :  -242.9
-     Chaotic Esport             :      8 (  5, 0, 3),  62.5 :   +89.5
-     Oni Esport                 :      7 (  5, 0, 2),  71.4 :  +160.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     NaN Academy                  :      5 ( 1, 0, 4),  20.0 :  -160.8
+     RVP Gaming                   :      6 ( 4, 0, 2),  66.7 :   +67.8
 
- 95) F/A RAYO ESFERA      2521.2 :      5 (+1,=0,-4),  20.0 %
+115) Pixel Predators        2370.8 :      6 (+2,=0,-4),  33.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Hellsing                   :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Zero eSports                 :      6 ( 2, 0, 4),  33.3 :  -121.5
 
- 96) F/A Sicily           2519.8 :     11 (+6,=0,-5),  54.5 %
+116) Liverpool              2367.1 :      9 (+5,=0,-4),  55.6 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Tequila                :      6 ( 2, 0, 4),  33.3 :   -51.9
-     Sigma United               :      5 ( 4, 0, 1),  80.0 :  +138.7
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     TOP eSports                  :      5 ( 1, 0, 4),  20.0 :  -242.9
+     Promachus                    :      4 ( 4, 0, 0), 100.0 :  +582.9
 
- 97) Sentinels            2512.5 :     10 (+2,=0,-8),  20.0 %
+117) MLI                    2362.1 :     28 (+13,=0,-15),  46.4 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     vMoove                     :      5 ( 1, 0, 4),  20.0 :  -263.2
-     Proseding                  :      5 ( 1, 0, 4),  20.0 :  -224.0
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Reply Totem                  :      6 (  0, 0,  6),   0.0 :  -712.0
+     Smirk Cats                   :      7 (  1, 0,  6),  14.3 :  -536.8
+     VNeS                         :      6 (  4, 0,  2),  66.7 :  +180.8
+     Aerion Academy               :      5 (  4, 0,  1),  80.0 :  +281.1
+     Ultra Legacy                 :      4 (  4, 0,  0), 100.0 : +2319.7
 
- 98) MLI                  2512.4 :     28 (+13,=0,-15),  46.4 %
+118) Fani Boguckiego        2342.0 :     29 (+16,=0,-13),  55.2 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Reply Totem                :      6 (  0, 0,  6),   0.0 :  -668.9
-     Smirk Cats                 :      7 (  1, 0,  6),  14.3 :  -536.7
-     VNeS                       :      6 (  4, 0,  2),  66.7 :  +167.2
-     Aerion Academy             :      5 (  4, 0,  1),  80.0 :  +297.7
-     Ultra Legacy               :      4 (  4, 0,  0), 100.0 : +2319.9
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Proseding                    :      8 (  3, 0,  5),  37.5 :  -260.5
+     F/A Randoms                  :      5 (  1, 0,  4),  20.0 :   -81.1
+     BSE                          :      6 (  4, 0,  2),  66.7 :  +155.7
+     Havoc                        :      5 (  4, 0,  1),  80.0 :  +242.9
+     Mortal Dance                 :      5 (  4, 0,  1),  80.0 :  +330.6
 
- 99) Liverpool            2500.9 :      9 (+5,=0,-4),  55.6 %
+119) TEAM KODAK             2328.2 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     TOP eSports                :      5 ( 1, 0, 4),  20.0 :  -242.9
-     Promachus                  :      4 ( 4, 0, 0), 100.0 : +2076.8
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Aogiri Esport                :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-100) CalmShadow           2500.9 :      5 (+1,=0,-4),  20.0 %
+120) REVA team              2314.6 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     TOP eSports                :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     I San Marinesi               :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-101) Neo Titans DZ        2500.3 :     11 (+5,=0,-6),  45.5 %
+121) Saltys                 2306.6 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     NaN Academy                :      5 ( 1, 0, 4),  20.0 :  -110.1
-     RVP Gaming                 :      6 ( 4, 0, 2),  66.7 :   +30.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Universum Gaming             :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-102) Free Rank 30         2479.9 :     20 (+11,=0,-9),  55.0 %
+122) Tralupas               2306.6 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     NaN Academy                :      6 (  2, 0, 4),  33.3 :  -130.5
-     NoN-eSports                :      9 (  5, 0, 4),  55.6 :   +37.9
-     丸                        :      5 (  4, 0, 1),  80.0 :  +261.8
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Universum Gaming             :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-103) Team Alpha           2479.0 :     12 (+6,=0,-6),  50.0 %
+123) RVP Gaming             2306.4 :     22 (+8,=0,-14),  36.4 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     lads                       :      5 ( 1, 0, 4),  20.0 :  -409.4
-     Overtime                   :      7 ( 5, 0, 2),  71.4 :  +236.6
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     GLORE.FIFINE                 :      5 ( 1, 0,  4),  20.0 :  -563.7
+     Paradis Esports              :      5 ( 1, 0,  4),  20.0 :  -169.0
+     Neo Titans DZ                :      6 ( 2, 0,  4),  33.3 :   -67.8
+     Fãs do PoderosoR7           :      6 ( 4, 0,  2),  66.7 :  +121.5
 
-104) Fani Boguckiego      2478.0 :     29 (+16,=0,-13),  55.2 %
+124) ZIRO ESPORTS           2300.0 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     Proseding                  :      8 (  3, 0,  5),  37.5 :  -258.5
-     F/A Randoms                :      5 (  1, 0,  4),  20.0 :   -80.2
-     BSE                        :      6 (  4, 0,  2),  66.7 :  +152.6
-     Havoc                      :      5 (  4, 0,  1),  80.0 :  +242.9
-     Mortal Dance               :      5 (  4, 0,  1),  80.0 :  +331.2
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     NoN-eSports                  :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-105) RVP Gaming           2469.8 :     22 (+11,=0,-11),  50.0 %
+125) SSA | Esports          2289.9 :      9 (+1,=0,-8),  11.1 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     GLORE.FIFINE               :      5 (  1, 0,  4),  20.0 :  -508.2
-     Neo Titans DZ              :      6 (  2, 0,  4),  33.3 :   -30.5
-     Fãs do PoderosoR7         :      6 (  4, 0,  2),  66.7 :  +121.5
-     E|BANKA                    :      5 (  4, 0,  1),  80.0 :  +242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     ZeroQuality                  :      4 ( 0, 0, 4),   0.0 :  -452.7
+     Proseding                    :      5 ( 1, 0, 4),  20.0 :  -312.6
 
-106) RD|Team              2467.5 :      4 (+0,=0,-4),   0.0 %
+126) CalmShadow             2274.5 :     10 (+2,=0,-8),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     lads                       :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     TOP eSports                  :      5 ( 1, 0, 4),  20.0 :  -335.6
+     HDC|eSports                  :      5 ( 1, 0, 4),  20.0 :  -172.9
 
-107) Shadow Dominion      2465.2 :     10 (+5,=0,-5),  50.0 %
+127) Never surrender        2252.7 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Drunk Beavers              :      5 ( 1, 0, 4),  20.0 :  -275.4
-     Saltys                     :      5 ( 4, 0, 1),  80.0 :  +275.4
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ei                           :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-108) DPC | Secret 🌱    2452.5 :     13 (+5,=0,-8),  38.5 %
+128) TS|Too Serious         2227.3 :     13 (+5,=0,-8),  38.5 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Saint Velocity             :      4 ( 0, 0, 4),   0.0 :  -489.7
-     Invictus Mente             :      5 ( 1, 0, 4),  20.0 :  -298.7
-     Gos Esport                 :      4 ( 4, 0, 0), 100.0 :  +421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     DPB|Esport                   :      4 ( 0, 0, 4),   0.0 :  -788.9
+     ÆPN Zerø                   :      5 ( 1, 0, 4),  20.0 :  -252.7
+     Sacramentum                  :      4 ( 4, 0, 0), 100.0 :  +421.0
 
-109) Bautistas            2443.3 :     16 (+8,=0,-8),  50.0 %
+129) Barcelona              2225.9 :     19 (+7,=0,-12),  36.8 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LLC Esport                 :      3 ( 0, 0, 3),   0.0 :  -658.7
-     NoN-eSports                :      8 ( 4, 0, 4),  50.0 :    +1.3
-     丸                        :      5 ( 4, 0, 1),  80.0 :  +225.2
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Ei                           :      7 ( 2, 0,  5),  28.6 :  -269.7
+     Relax                        :      5 ( 1, 0,  4),  20.0 :  -200.3
+     SF Esports EMEA              :      7 ( 4, 0,  3),  57.1 :  +109.0
 
-110) NoN-eSports          2442.0 :     21 (+12,=0,-9),  57.1 %
+130) F/A Model              2205.2 :      4 (+4,=0,-0), 100.0 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     Free Rank 30               :      9 (  4, 0, 5),  44.4 :   -37.9
-     Bautistas                  :      8 (  4, 0, 4),  50.0 :    -1.3
-     ZIRO ESPORTS               :      4 (  4, 0, 0), 100.0 :  +421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Promachus                    :      4 ( 4, 0, 0), 100.0 :  +421.0
 
-111) Shoguns 🌊         2440.2 :      4 (+0,=0,-4),   0.0 %
+131) 🍉                   2194.0 :     10 (+2,=0,-8),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Crow Nest Esports          :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LuxAeterna EE                :      5 ( 1, 0, 4),  20.0 :  -242.9
+     Code : Gas                   :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-112) Klunk                2440.2 :      4 (+0,=0,-4),   0.0 %
+132) BSE                    2186.3 :     18 (+10,=0,-8),  55.6 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     COURAGE ONE                :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     F/A Hakunamatata             :      4 (  0, 0, 4),   0.0 :  -473.5
+     Fani Boguckiego              :      6 (  2, 0, 4),  33.3 :  -155.7
+     BNDZ                         :      4 (  4, 0, 0), 100.0 :  +421.0
+     GREEK GANG ESPORTS           :      4 (  4, 0, 0), 100.0 : +5817.5
 
-113) Chaotic Esport       2438.8 :     13 (+7,=0,-6),  53.8 %
+133) Fãs do PoderosoR7     2184.9 :      6 (+2,=0,-4),  33.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Druiven gamg               :      8 ( 3, 0, 5),  37.5 :   -89.5
-     RKK|Gaming EU              :      5 ( 4, 0, 1),  80.0 :  +242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     RVP Gaming                   :      6 ( 2, 0, 4),  33.3 :  -121.5
 
-114) Italy food           2407.6 :     13 (+5,=0,-8),  38.5 %
+134) VNeS                   2181.4 :     17 (+10,=0,-7),  58.8 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Hellsing                   :      4 ( 0, 0, 4),   0.0 :  -356.5
-     Zero eSports               :      9 ( 5, 0, 4),  55.6 :    +2.9
+     vs.                          :  games (  +, =, -),   (%) :    Diff
+     MLI                          :      6 (  2, 0, 4),  33.3 :  -180.8
+     IGG                          :      6 (  4, 0, 2),  66.7 :  +180.8
+     Tomar-753                    :      5 (  4, 0, 1),  80.0 :  +242.9
 
-115) DDL Esports          2406.5 :      4 (+0,=0,-4),   0.0 %
+135) PIF                    2181.2 :      8 (+0,=0,-8),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     🍆🍑                   :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Aogiri Esport                :      4 ( 0, 0, 4),   0.0 :  -568.0
+     Hellsing                     :      4 ( 0, 0, 4),   0.0 :  -526.9
 
-116) Zero eSports         2404.7 :     20 (+9,=0,-11),  45.0 %
+136) Fire Seekers           2171.1 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =,  -),   (%) :    Diff
-     vMoove                     :      5 ( 1, 0,  4),  20.0 :  -371.0
-     Italy food                 :      9 ( 4, 0,  5),  44.4 :    -2.9
-     Pixel Predators            :      6 ( 4, 0,  2),  66.7 :  +121.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     K1                           :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-117) Sigma United         2381.1 :     14 (+9,=0,-5),  64.3 %
+137) MSC|é-sports™️    2162.9 :     16 (+8,=0,-8),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Sicily                 :      5 ( 1, 0, 4),  20.0 :  -138.7
-     Overtime                   :      5 ( 4, 0, 1),  80.0 :  +138.7
-     TEAM KODAK                 :      4 ( 4, 0, 0), 100.0 :  +430.1
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     I San Marinesi               :      4 ( 0, 0, 4),   0.0 :  -394.7
+     4FUN                         :      7 ( 4, 0, 3),  57.1 :   +54.3
+     IGG                          :      5 ( 4, 0, 1),  80.0 :  +162.3
 
-118) NEBULUS              2372.0 :      5 (+1,=0,-4),  20.0 %
+138) SF Esports EMEA        2116.9 :     11 (+3,=0,-8),  27.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Golden Pilots              :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LuxAeterna EE                :      4 ( 0, 0, 4),   0.0 :  -320.0
+     Barcelona                    :      7 ( 3, 0, 4),  42.9 :  -109.0
 
-119) PHANTOMS             2372.0 :      9 (+5,=0,-4),  55.6 %
+139) 4FUN                   2108.6 :     26 (+15,=0,-11),  57.7 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Mr🐐🐐                 :      5 ( 1, 0, 4),  20.0 :  -242.9
-     ALPHA ESPORT               :      4 ( 4, 0, 0), 100.0 :  +421.0
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     Mecenates                    :      4 (  0, 0,  4),   0.0 :  -814.0
+     MSC|é-sports™️          :      7 (  3, 0,  4),  42.9 :   -54.3
+     BaW                          :      7 (  4, 0,  3),  57.1 :   +50.4
+     Cartier Spocki💎           :      4 (  4, 0,  0), 100.0 :  +421.0
+     MSN Esport                   :      4 (  4, 0,  0), 100.0 :  +426.4
 
-120) Oni Esport           2367.7 :      7 (+2,=0,-5),  28.6 %
+140) Havoc                  2099.1 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Druiven gamg               :      7 ( 2, 0, 5),  28.6 :  -160.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Fani Boguckiego              :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-121) MSC|é-sports™️  2356.8 :     16 (+8,=0,-8),  50.0 %
+141) YTM Esports            2090.2 :      8 (+0,=0,-8),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     I San Marinesi             :      4 ( 0, 0, 4),   0.0 :  -458.3
-     4FUN                       :      7 ( 4, 0, 3),  57.1 :   +55.8
-     IGG                        :      5 ( 4, 0, 1),  80.0 :  +178.7
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     lads                         :      4 ( 0, 0, 4),   0.0 :  -753.1
+     OCTANE ESPORTS               :      4 ( 0, 0, 4),   0.0 :  -451.9
 
-122) SSA | Esports        2354.9 :      9 (+1,=0,-8),  11.1 %
+142) Klunk                  2083.0 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Proseding                  :      5 ( 1, 0, 4),  20.0 :  -381.6
-     ZeroQuality                :      4 ( 0, 0, 4),   0.0 :  -344.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     COURAGE ONE                  :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-123) Valued Guys          2350.7 :     10 (+2,=0,-8),  20.0 %
+143) Aerion Academy         2081.0 :     15 (+5,=0,-10),  33.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     TC|Esport                  :      4 ( 0, 0, 4),   0.0 :  -259.8
-     DansLeBueno                :      6 ( 2, 0, 4),  33.3 :  -232.2
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Hellsing                     :      4 ( 0, 0,  4),   0.0 :  -627.1
+     MLI                          :      5 ( 1, 0,  4),  20.0 :  -281.1
+     BulgarianPros                :      6 ( 4, 0,  2),  66.7 :  +128.6
 
-124) Tralupas             2350.2 :      4 (+0,=0,-4),   0.0 %
+144) 🔥 LATIN STARS 🔥  2074.7 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Universum Gaming           :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ei                           :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-125) Fãs do PoderosoR7   2348.3 :      6 (+2,=0,-4),  33.3 %
+145) Arigatouwu             2061.2 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     RVP Gaming                 :      6 ( 2, 0, 4),  33.3 :  -121.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Chewing Gum                  :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-126) VNeS                 2345.3 :     17 (+10,=0,-7),  58.8 %
+146) BaW                    2058.1 :     12 (+7,=0,-5),  58.3 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     MLI                        :      6 (  2, 0, 4),  33.3 :  -167.2
-     IGG                        :      6 (  4, 0, 2),  66.7 :  +167.2
-     Tomar-753                  :      5 (  4, 0, 1),  80.0 :  +242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     4FUN                         :      7 ( 3, 0, 4),  42.9 :   -50.4
+     TND                          :      5 ( 4, 0, 1),  80.0 :  +242.9
 
-127) BSE                  2325.4 :     18 (+10,=0,-8),  55.6 %
+147) Mortal Dance           2011.4 :      9 (+1,=0,-8),  11.1 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     F/A Hakunamatata           :      4 (  0, 0, 4),   0.0 :  -490.8
-     Fani Boguckiego            :      6 (  2, 0, 4),  33.3 :  -152.6
-     BNDZ                       :      4 (  4, 0, 0), 100.0 :  +421.0
-     GREEK GANG ESPORTS         :      4 (  4, 0, 0), 100.0 : +2076.8
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     TOP|Academy                  :      4 ( 0, 0, 4),   0.0 :  -415.4
+     Fani Boguckiego              :      5 ( 1, 0, 4),  20.0 :  -330.6
 
-128) 4FUN                 2301.0 :     15 (+7,=0,-8),  46.7 %
+148) SEGOVIA FC             2005.8 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Mecenates                  :      4 ( 0, 0, 4),   0.0 :  -756.0
-     MSC|é-sports™️        :      7 ( 3, 0, 4),  42.9 :   -55.8
-     Cartier Spocki💎         :      4 ( 4, 0, 0), 100.0 :  +421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     TOP|Academy                  :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-129) KT | Kastraty Team   2300.0 :      4 (+0,=0,-4),   0.0 %
+149) IGG                    2000.6 :     21 (+11,=0,-10),  52.4 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Zennox Gaming              :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games (  +, =,  -),   (%) :    Diff
+     VNeS                         :      6 (  2, 0,  4),  33.3 :  -180.8
+     MSC|é-sports™️          :      5 (  1, 0,  4),  20.0 :  -162.3
+     StormBorn                    :      5 (  4, 0,  1),  80.0 :  +242.9
+     Mk gaming                    :      5 (  4, 0,  1),  80.0 :  +243.9
 
-130) Pixel Predators      2283.3 :      6 (+2,=0,-4),  33.3 %
+150) Gos Esport             1997.0 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Zero eSports               :      6 ( 2, 0, 4),  33.3 :  -121.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     DPC | Secret 🌱            :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-131) TCK Esport 丈       2259.9 :      4 (+0,=0,-4),   0.0 %
+151) Russian Grandmothers   1982.8 :      8 (+0,=0,-8),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/a ris                    :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     DARK EAGLES                  :      4 ( 0, 0, 4),   0.0 :  -673.3
+     BC* Academy                  :      4 ( 0, 0, 4),   0.0 :  -472.1
 
-132) Overtime             2242.4 :     12 (+3,=0,-9),  25.0 %
+152) BulgarianPros          1952.4 :     15 (+6,=0,-9),  40.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Team Alpha                 :      7 ( 2, 0, 5),  28.6 :  -236.6
-     Sigma United               :      5 ( 1, 0, 4),  20.0 :  -138.7
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Black and White              :      4 ( 0, 0, 4),   0.0 :  -754.0
+     Aerion Academy               :      6 ( 2, 0, 4),  33.3 :  -128.6
+     STW                          :      5 ( 4, 0, 1),  80.0 :  +243.1
 
-133) Fire Seekers         2239.2 :      4 (+0,=0,-4),   0.0 %
+153) Tomar-753              1938.4 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     K1                         :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     VNeS                         :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-134) Havoc                2235.1 :      5 (+1,=0,-4),  20.0 %
+154) TND                    1815.2 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Fani Boguckiego            :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     BaW                          :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-135) E|BANKA              2226.8 :      5 (+1,=0,-4),  20.0 %
+155) Sacramentum            1806.3 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     RVP Gaming                 :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     TS|Too Serious               :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-136) 丸                  2218.1 :     10 (+2,=0,-8),  20.0 %
+156) Promachus              1784.2 :      8 (+0,=0,-8),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Free Rank 30               :      5 ( 1, 0, 4),  20.0 :  -261.8
-     Bautistas                  :      5 ( 1, 0, 4),  20.0 :  -225.2
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Liverpool                    :      4 ( 0, 0, 4),   0.0 :  -582.9
+     F/A Model                    :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-137) Shdow                2217.4 :      4 (+0,=0,-4),   0.0 %
+157) BNDZ                   1765.3 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Jiv4iki🩸                :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     BSE                          :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-138) Aerion Academy       2214.8 :     15 (+5,=0,-10),  33.3 %
+158) StormBorn              1757.7 :      5 (+1,=0,-4),  20.0 %
 
-     vs.                        :  games ( +, =,  -),   (%) :    Diff
-     Hellsing                   :      4 ( 0, 0,  4),   0.0 :  -549.3
-     MLI                        :      5 ( 1, 0,  4),  20.0 :  -297.7
-     BulgarianPros              :      6 ( 4, 0,  2),  66.7 :  +129.4
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     IGG                          :      5 ( 1, 0, 4),  20.0 :  -242.9
 
-139) RKK|Gaming EU        2195.8 :      5 (+1,=0,-4),  20.0 %
+159) Mk gaming              1756.7 :      9 (+1,=0,-8),  11.1 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Chaotic Esport             :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     LuxAeterna CM                :      4 ( 0, 0, 4),   0.0 : -1191.5
+     IGG                          :      5 ( 1, 0, 4),  20.0 :  -243.9
 
-140) YoungtalentsGER      2194.0 :      4 (+0,=0,-4),   0.0 %
+160) STW                    1709.3 :      9 (+1,=0,-8),  11.1 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Golden Pilots              :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Remicas Hairline             :      4 ( 0, 0, 4),   0.0 : -1505.5
+     BulgarianPros                :      5 ( 1, 0, 4),  20.0 :  -243.1
 
-141) Saltys               2189.8 :      9 (+1,=0,-8),  11.1 %
+161) Cartier Spocki💎     1687.6 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Universum Gaming           :      4 ( 0, 0, 4),   0.0 :  -581.4
-     Shadow Dominion            :      5 ( 1, 0, 4),  20.0 :  -275.4
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     4FUN                         :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-142) Golden Wolves        2189.4 :      4 (+0,=0,-4),   0.0 %
+162) MSN Esport             1682.1 :      8 (+0,=0,-8),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     NaN Academy                :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     NTSX                         :      4 ( 0, 0, 4),   0.0 : -1047.0
+     4FUN                         :      4 ( 0, 0, 4),   0.0 :  -426.4
 
-143) IGG                  2178.1 :     21 (+11,=0,-10),  52.4 %
+163) Eternal Emptiness      1285.1 :     12 (+8,=0,-4),  66.7 %
 
-     vs.                        :  games (  +, =,  -),   (%) :    Diff
-     MSC|é-sports™️        :      5 (  1, 0,  4),  20.0 :  -178.7
-     VNeS                       :      6 (  2, 0,  4),  33.3 :  -167.2
-     StormBorn                  :      5 (  4, 0,  1),  80.0 :  +242.9
-     Mk gaming                  :      5 (  4, 0,  1),  80.0 :  +244.2
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Saint Velocity               :      4 ( 0, 0, 4),   0.0 : -1637.5
+     UMC                          :      4 ( 4, 0, 0), 100.0 :  +421.0
+     sosa4life🤑💸            :      4 ( 4, 0, 0), 100.0 : +1642.6
 
-144) Somalian Gang        2150.6 :      4 (+0,=0,-4),   0.0 %
+164) UMC                     864.1 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Tequila                :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Eternal Emptiness            :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-145) Mortal Dance         2146.8 :      9 (+1,=0,-8),  11.1 %
+165) Asenka Esports          601.6 :     10 (+4,=0,-6),  40.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     TOP|Academy                :      4 ( 0, 0, 4),   0.0 :  -414.3
-     Fani Boguckiego            :      5 ( 1, 0, 4),  20.0 :  -331.2
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     DPB|Esport                   :      4 ( 0, 0, 4),   0.0 : -2414.7
+     Rebellion eSports            :      6 ( 4, 0, 2),  66.7 :  +121.5
 
-146) Tomar-753            2102.3 :      5 (+1,=0,-4),  20.0 %
+166) Team AEG                601.5 :     13 (+8,=0,-5),  61.5 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     VNeS                       :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     F/a ris                      :      4 ( 0, 0, 4),   0.0 : -1943.5
+     #MSZONTOP                    :      5 ( 4, 0, 1),  80.0 :  +242.9
+     TLU                          :      4 ( 4, 0, 0), 100.0 :  +421.0
 
-147) BulgarianPros        2085.4 :     10 (+2,=0,-8),  20.0 %
+167) Rebellion eSports       480.1 :     20 (+6,=0,-14),  30.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Black and White            :      4 ( 0, 0, 4),   0.0 :  -733.5
-     Aerion Academy             :      6 ( 2, 0, 4),  33.3 :  -129.4
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     Suspect                      :      4 ( 0, 0,  4),   0.0 : -2230.8
+     Black and White              :      4 ( 0, 0,  4),   0.0 : -2226.3
+     Asenka Esports               :      6 ( 2, 0,  4),  33.3 :  -121.5
+     #MSZONTOP                    :      6 ( 4, 0,  2),  66.7 :  +121.5
 
-148) Gos Esport           2031.5 :      4 (+0,=0,-4),   0.0 %
+168) #MSZONTOP               358.6 :     11 (+3,=0,-8),  27.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     DPC | Secret 🌱          :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Team AEG                     :      5 ( 1, 0, 4),  20.0 :  -242.9
+     Rebellion eSports            :      6 ( 2, 0, 4),  33.3 :  -121.5
 
-149) ZIRO ESPORTS         2021.0 :      4 (+0,=0,-4),   0.0 %
+169) CDA Esports             329.3 :     11 (+5,=0,-6),  45.5 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     NoN-eSports                :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     F/A Tequila                  :      4 ( 0, 0, 4),   0.0 : -2079.9
+     Herman esport                :      7 ( 5, 0, 2),  71.4 :  +160.6
 
-150) ALPHA ESPORT         1951.0 :      4 (+0,=0,-4),   0.0 %
+170) TLU                     180.6 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     PHANTOMS                   :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Team AEG                     :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-151) TEAM KODAK           1950.9 :      8 (+0,=0,-8),   0.0 %
+171) Herman esport           168.7 :     15 (+6,=0,-9),  40.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Aogiri Esport              :      4 ( 0, 0, 4),   0.0 :  -957.4
-     Sigma United               :      4 ( 0, 0, 4),   0.0 :  -430.1
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     F/A Tequila                  :      4 ( 0, 0, 4),   0.0 : -2240.5
+     CDA Esports                  :      7 ( 2, 0, 5),  28.6 :  -160.6
+     AIR FØRCE                   :      4 ( 4, 0, 0), 100.0 :  +421.0
 
-152) StormBorn            1935.2 :      5 (+1,=0,-4),  20.0 %
+172) Ultra Legacy             42.4 :      8 (+4,=0,-4),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     IGG                        :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     MLI                          :      4 ( 0, 0, 4),   0.0 : -2319.7
+     PRZ                          :      4 ( 4, 0, 0), 100.0 :  +421.0
 
-153) Mk gaming            1933.9 :      9 (+1,=0,-8),  11.1 %
+173) Nizamettin             -114.5 :     12 (+8,=0,-4),  66.7 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LuxAeterna CM              :      4 ( 0, 0, 4),   0.0 : -1142.5
-     IGG                        :      5 ( 1, 0, 4),  20.0 :  -244.2
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ananastortilla               :      7 ( 4, 0, 3),  57.1 :   +50.4
+     sosa4life🤑💸            :      5 ( 4, 0, 1),  80.0 :  +243.0
 
-154) BNDZ                 1904.5 :      4 (+0,=0,-4),   0.0 %
+174) Ananastortilla         -164.9 :     11 (+7,=0,-4),  63.6 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     BSE                        :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Nizamettin                   :      7 ( 3, 0, 4),  42.9 :   -50.4
+     Zennox Gaming                :      4 ( 4, 0, 0), 100.0 : +1712.5
 
-155) Cartier Spocki💎   1880.0 :      4 (+0,=0,-4),   0.0 %
+175) AIR FØRCE             -252.3 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     4FUN                       :      4 ( 0, 0, 4),   0.0 :  -421.0
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Herman esport                :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-156) DragosBlackPig       1204.8 :     10 (+4,=0,-6),  40.0 %
+176) sosa4life🤑💸      -357.5 :      9 (+1,=0,-8),  11.1 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     XPERION NXT                :      4 ( 0, 0, 4),   0.0 : -1889.6
-     LuxAeterna EE              :      6 ( 4, 0, 2),  66.7 :  +121.5
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Eternal Emptiness            :      4 ( 0, 0, 4),   0.0 : -1642.6
+     Nizamettin                   :      5 ( 1, 0, 4),  20.0 :  -243.0
 
-157) LuxAeterna EE        1083.3 :     18 (+10,=0,-8),  55.6 %
+177) PRZ                    -378.6 :      4 (+0,=0,-4),   0.0 %
 
-     vs.                        :  games (  +, =, -),   (%) :    Diff
-     F/A Borti                  :      4 (  0, 0, 4),   0.0 : -1913.4
-     DragosBlackPig             :      6 (  2, 0, 4),  33.3 :  -121.5
-     BLEWERS 💦               :      4 (  4, 0, 0), 100.0 :  +421.0
-     SF Esports EMEA            :      4 (  4, 0, 0), 100.0 : +1825.7
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ultra Legacy                 :      4 ( 0, 0, 4),   0.0 :  -421.0
 
-158) Black Falcons        1038.0 :     11 (+5,=0,-6),  45.5 %
+178) Zennox Gaming         -1877.4 :      8 (+4,=0,-4),  50.0 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     XPERION NXT                :      4 ( 0, 0, 4),   0.0 : -2056.4
-     Interstelar                :      7 ( 5, 0, 2),  71.4 :  +160.6
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     Ananastortilla               :      4 ( 0, 0, 4),   0.0 : -1712.5
+     GREEK GANG ESPORTS           :      4 ( 4, 0, 0), 100.0 : +1753.7
 
-159) Interstelar           877.4 :      7 (+2,=0,-5),  28.6 %
+179) GREEK GANG ESPORTS    -3631.1 :     14 (+4,=0,-10),  28.6 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Black Falcons              :      7 ( 2, 0, 5),  28.6 :  -160.6
+     vs.                          :  games ( +, =,  -),   (%) :    Diff
+     BSE                          :      4 ( 0, 0,  4),   0.0 : -5817.5
+     Zennox Gaming                :      4 ( 0, 0,  4),   0.0 : -1753.7
+     Goekan Esports               :      6 ( 4, 0,  2),  66.7 :  +121.5
 
-160) 🔥TGT DINASTY🔥   823.2 :      8 (+4,=0,-4),  50.0 %
+180) Goekan Esports        -3752.6 :      6 (+2,=0,-4),  33.3 %
 
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Reverso Gaming             :      4 ( 0, 0, 4),   0.0 : -2320.0
-     BRN                        :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-161) SJS                   779.6 :     16 (+8,=0,-8),  50.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Universum Gaming           :      4 ( 0, 0, 4),   0.0 : -1991.6
-     HPN                        :      6 ( 4, 0, 2),  66.7 :  +121.5
-     Eepy Cars                  :      6 ( 4, 0, 2),  66.7 :  +121.5
-
-162) Zündstoffkommando    698.7 :     12 (+5,=0,-7),  41.7 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Proseding                  :      4 ( 0, 0, 4),   0.0 : -2037.8
-     SEGOVIA FC                 :      8 ( 5, 0, 3),  62.5 :   +89.5
-
-163) BLEWERS 💦          662.3 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LuxAeterna EE              :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-164) HPN                   658.2 :     10 (+2,=0,-8),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     GLORE.FIFINE               :      4 ( 0, 0, 4),   0.0 : -2319.8
-     SJS                        :      6 ( 2, 0, 4),  33.3 :  -121.5
-
-165) Eepy Cars             658.2 :     10 (+2,=0,-8),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Aogiri Esport              :      4 ( 0, 0, 4),   0.0 : -2250.2
-     SJS                        :      6 ( 2, 0, 4),  33.3 :  -121.5
-
-166) Eternal Emptiness     622.2 :      8 (+4,=0,-4),  50.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Saint Velocity             :      4 ( 0, 0, 4),   0.0 : -2320.0
-     sosa4life🤑💸          :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-167) SEGOVIA FC            609.2 :      8 (+3,=0,-5),  37.5 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Zündstoffkommando         :      8 ( 3, 0, 5),  37.5 :   -89.5
-
-168) Team AEG              580.6 :     13 (+8,=0,-5),  61.5 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/a ris                    :      4 ( 0, 0, 4),   0.0 : -2100.3
-     #MSZONTOP                  :      5 ( 4, 0, 1),  80.0 :  +242.9
-     TLU                        :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-169) AMA | Team            545.5 :      6 (+4,=0,-2),  66.7 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Promachus                  :      6 ( 4, 0, 2),  66.7 :  +121.5
-
-170) CDA Esports           491.6 :     11 (+5,=0,-6),  45.5 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Tequila                :      4 ( 0, 0, 4),   0.0 : -2080.0
-     Herman esport              :      7 ( 5, 0, 2),  71.4 :  +160.6
-
-171) Promachus             424.0 :     10 (+2,=0,-8),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Liverpool                  :      4 ( 0, 0, 4),   0.0 : -2076.8
-     AMA | Team                 :      6 ( 2, 0, 4),  33.3 :  -121.5
-
-172) BRN                   402.2 :      8 (+0,=0,-8),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LLC Esport                 :      4 ( 0, 0, 4),   0.0 : -2699.8
-     🔥TGT DINASTY🔥        :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-173) #MSZONTOP             337.6 :      5 (+1,=0,-4),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Team AEG                   :      5 ( 1, 0, 4),  20.0 :  -242.9
-
-174) Herman esport         331.0 :     15 (+6,=0,-9),  40.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     F/A Tequila                :      4 ( 0, 0, 4),   0.0 : -2240.6
-     CDA Esports                :      7 ( 2, 0, 5),  28.6 :  -160.6
-     AIR FØRCE                 :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-175) Arigatouwu            298.4 :      8 (+4,=0,-4),  50.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Chewing Gum                :      4 ( 0, 0, 4),   0.0 : -2319.9
-     JI Gaming                  :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-176) GREEK GANG ESPORTS    248.6 :     14 (+4,=0,-10),  28.6 %
-
-     vs.                        :  games ( +, =,  -),   (%) :    Diff
-     Zennox Gaming              :      4 ( 0, 0,  4),   0.0 : -2472.4
-     BSE                        :      4 ( 0, 0,  4),   0.0 : -2076.8
-     Goekan Esports             :      6 ( 4, 0,  2),  66.7 :  +121.5
-
-177) sosa4life🤑💸     201.2 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Eternal Emptiness          :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-178) Ultra Legacy          192.6 :      8 (+4,=0,-4),  50.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     MLI                        :      4 ( 0, 0, 4),   0.0 : -2319.9
-     PRZ                        :      4 ( 4, 0, 0), 100.0 :  +421.0
-
-179) TLU                   159.6 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Team AEG                   :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-180) Goekan Esports        127.1 :      6 (+2,=0,-4),  33.3 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     GREEK GANG ESPORTS         :      6 ( 2, 0, 4),  33.3 :  -121.5
-
-181) AIR FØRCE            -89.9 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Herman esport              :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-182) JI Gaming            -122.6 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Arigatouwu                 :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-183) PRZ                  -228.4 :      4 (+0,=0,-4),   0.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     Ultra Legacy               :      4 ( 0, 0, 4),   0.0 :  -421.0
-
-184) SF Esports EMEA      -742.4 :      8 (+4,=0,-4),  50.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     LuxAeterna EE              :      4 ( 0, 0, 4),   0.0 : -1825.7
-     STF|Rangers                :      4 ( 4, 0, 0), 100.0 : +1874.8
-
-185) STF|Rangers         -2617.1 :      9 (+4,=0,-5),  44.4 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     SF Esports EMEA            :      4 ( 0, 0, 4),   0.0 : -1874.8
-     003                        :      5 ( 4, 0, 1),  80.0 :  +242.9
-
-186) 003                 -2860.1 :      5 (+1,=0,-4),  20.0 %
-
-     vs.                        :  games ( +, =, -),   (%) :    Diff
-     STF|Rangers                :      5 ( 1, 0, 4),  20.0 :  -242.9
+     vs.                          :  games ( +, =, -),   (%) :    Diff
+     GREEK GANG ESPORTS           :      6 ( 2, 0, 4),  33.3 :  -121.5
 

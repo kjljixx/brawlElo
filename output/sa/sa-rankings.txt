@@ -1,36 +1,38 @@
 
-   # PLAYER                   : RATING    POINTS  PLAYED    (%)
-   1 SKCalalas SA             : 3645.4      47.0      68   69.1%
-   2 BC* Gaming SA            : 3597.9      58.0      93   62.4%
-   3 CASA BRAWL               : 3597.1      62.0      96   64.6%
-   4 Zurita Gang              : 3586.1      52.0      78   66.7%
-   5 LOUD                     : 3583.5      72.0     107   67.3%
-   6 Legión Otaku            : 3564.7      54.0      82   65.9%
-   7 Olimpo Squad             : 3539.8      53.0      92   57.6%
-   8 Blue Lock 357            : 3420.8      16.0      34   47.1%
-   9 Alguém Segura           : 3418.4      49.0      82   59.8%
-  10 IX F/A                   : 3416.7      33.0      63   52.4%
-  11 iWorlds                  : 3327.1      14.0      31   45.2%
-  12 lele day                 : 3309.9      34.0      66   51.5%
-  13 ACRE HATERS🦖          : 3308.6      30.0      51   58.8%
-  14 Inimigos do CLT F/A      : 3221.6      45.0      83   54.2%
-  15 Carteira de trabalho     : 3211.7      20.0      40   50.0%
-  16 XO F/A                   : 3188.4      32.0      67   47.8%
-  17 DRN                      : 3182.6      28.0      42   66.7%
-  18 F4TALITY                 : 3174.5      24.0      56   42.9%
-  19 HiddenX                  : 3171.7      21.0      39   53.8%
-  20 2026                     : 3171.2      34.0      55   61.8%
-  21 Os Bolinhas              : 3148.9      13.0      31   41.9%
-  22 Vou ate anotar           : 3100.1      26.0      62   41.9%
-  23 Enosis eSports           : 3051.9      22.0      37   59.5%
-  24 Não treinamos           : 3051.3      45.0      80   56.2%
-  25 Tribe 6ix One            : 2980.0      20.0      47   42.6%
-  26 Censored Sports          : 2944.6      28.0      49   57.1%
-  27 zWim                     : 2933.9      20.0      44   45.5%
-  28 GALÁTICS                : 2886.2      16.0      38   42.1%
-  29 Chipis team              : 2822.2      20.0      41   48.8%
-  30 7pk2                     : 2736.8      15.0      37   40.5%
-  31 777                      : 1572.1      17.0      35   48.6%
+   # PLAYER                         : RATING    POINTS  PLAYED    (%)
+   1 SKCalalas SA                   : 3393.7      47.0      68   69.1%
+   2 BC* Gaming SA                  : 3346.4      58.0      93   62.4%
+   3 CASA BRAWL                     : 3345.3      62.0      96   64.6%
+   4 Zurita Gang                    : 3334.0      52.0      78   66.7%
+   5 LOUD                           : 3331.4      72.0     107   67.3%
+   6 Cross Esports                  : 3314.3      54.0      82   65.9%
+   7 Olimpo Squad                   : 3287.7      53.0      92   57.6%
+   8 Blue Lock 357                  : 3172.6      16.0      34   47.1%
+   9 Alguém Segura                 : 3166.1      49.0      82   59.8%
+  10 IX F/A                         : 3164.2      33.0      63   52.4%
+  11 iWorlds                        : 3079.0      14.0      31   45.2%
+  12 ACRE HATERS🦖                : 3066.1      30.0      51   58.8%
+  13 lele day                       : 3052.3      34.0      66   51.5%
+  14 Nobruzes F/A                   : 2972.5      20.0      36   55.6%
+  15 Carteira de trabalho           : 2971.8      20.0      40   50.0%
+  16 Inimigos do CLT F/A            : 2971.0      41.0      79   51.9%
+  17 HiddenX                        : 2947.1      25.0      43   58.1%
+  18 XO F/A                         : 2939.3      32.0      67   47.8%
+  19 DRN                            : 2917.8      28.0      42   66.7%
+  20 F4TALITY                       : 2917.2      24.0      56   42.9%
+  21 2026                           : 2909.7      34.0      55   61.8%
+  22 Os Bolinhas                    : 2876.1      13.0      31   41.9%
+  23 Vou ate anotar                 : 2864.5      26.0      62   41.9%
+  24 Não treinamos                 : 2767.9      41.0      76   53.9%
+  25 Tribe 6ix One                  : 2715.4      24.0      52   46.2%
+  26 Censored Sports                : 2674.1      24.0      45   53.3%
+  27 zWim                           : 2612.2      16.0      43   37.2%
+  28 GALÁTICS                      : 2604.1      16.0      38   42.1%
+  29 CRS | Coquitos                 : 2564.0      20.0      31   64.5%
+  30 7pk2                           : 2529.1      11.0      32   34.4%
+  31 777                            : 2510.7      17.0      40   42.5%
+  32 Chipis team                    : 2471.9      17.0      34   50.0%
+  33 Pitchulas                      : 2448.0      13.0      30   43.3%
 
 White advantage = 0.00
 Draw rate (equal opponents) = 50.00 %

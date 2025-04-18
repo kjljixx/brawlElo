@@ -1,38 +1,31 @@
 
    # PLAYER                 : RATING    POINTS  PLAYED    (%)
-   1 SK Gaming              : 3324.4      69.0      99   69.7%
-   2 HMBLE                  : 3321.9      50.0      68   73.5%
-   3 Eclipsar Esport        : 3243.8      60.0     106   56.6%
-   4 F/A UK                 : 3214.1      54.0      93   58.1%
-   5 Papara SuperMassive    : 3211.7      28.0      52   53.8%
-   6 FUT Esports            : 3203.6      57.0     102   55.9%
-   7 Inner Circle           : 3191.1      25.0      40   62.5%
-   8 Reply Totem            : 3181.3      56.0      89   62.9%
-   9 Team Heretics          : 3166.8      54.0      95   56.8%
-  10 Reverso Gaming         : 3143.2      40.0      69   58.0%
-  11 Millesime MG           : 3131.2      44.0      77   57.1%
-  12 LLC Esport             : 3102.0      61.0     111   55.0%
-  13 XPERION NXT            : 3094.4      47.0      84   56.0%
-  14 PUZO                   : 3085.5      20.0      34   58.8%
-  15 LuxAeterna CM          : 3076.4      26.0      42   61.9%
-  16 Skepsis Gaming         : 3059.2      39.0      77   50.6%
-  17 Smirk Cats             : 3049.1      15.0      30   50.0%
-  18 F/A Borti              : 2996.7      23.0      39   59.0%
-  19 Am o fantezie          : 2995.9      17.0      32   53.1%
-  20 F/A Poland             : 2995.3      27.0      53   50.9%
-  21 LuxAeterna eSports     : 2982.7      21.0      41   51.2%
-  22 GLORE.FIFINE           : 2978.0      32.0      59   54.2%
-  23 Saint Velocity         : 2942.1      15.0      32   46.9%
-  24 ChessSigmas            : 2934.4      16.0      35   45.7%
-  25 Aogiri Esport          : 2908.3      24.0      42   57.1%
-  26 lads                   : 2888.4      22.0      41   53.7%
-  27 Black and White        : 2818.9      19.0      40   47.5%
-  28 vMoove                 : 2775.7      18.0      32   56.2%
-  29 Universum Gaming       : 2771.2      39.0      71   54.9%
-  30 TOP eSports            : 2743.8      29.0      64   45.3%
-  31 Proseding              : 2736.5      30.0      56   53.6%
-  32 NaN Academy            : 2610.4      18.0      37   48.6%
-  33 F/A Tequila            : 2571.6      17.0      34   50.0%
+   1 SK Gaming              : 3102.7      82.0     116   70.7%
+   2 HMBLE                  : 3097.7      57.0      80   71.2%
+   3 Papara SuperMassive    : 3039.0      41.0      70   58.6%
+   4 Eclipsar Esport        : 3028.5      62.0     112   55.4%
+   5 FUT Esports            : 2980.4      69.0     118   58.5%
+   6 Reply Totem            : 2975.8      56.0      99   56.6%
+   7 F/A UK                 : 2972.6      48.0      87   55.2%
+   8 Reverso Gaming         : 2969.6      42.0      77   54.5%
+   9 Team Heretics          : 2958.5      59.0     105   56.2%
+  10 Inner Circle           : 2885.0      28.0      55   50.9%
+  11 LLC Esport             : 2881.4      53.0     107   49.5%
+  12 Millesime MG           : 2865.7      46.0      85   54.1%
+  13 XPERION NXT            : 2862.2      62.0     117   53.0%
+  14 Code : Gas             : 2861.0      22.0      39   56.4%
+  15 LuxAeterna CM          : 2837.1      18.0      34   52.9%
+  16 F/A Poland             : 2835.6      39.0      75   52.0%
+  17 Am o fantezie          : 2792.5      17.0      32   53.1%
+  18 Saint Velocity         : 2788.8      15.0      32   46.9%
+  19 Skepsis Gaming         : 2779.7      42.0      86   48.8%
+  20 GLORE.FIFINE           : 2762.5      29.0      62   46.8%
+  21 ChessSigmas            : 2697.9      16.0      35   45.7%
+  22 Aogiri Esport          : 2670.3      27.0      58   46.6%
+  23 LUX NNS                : 2666.3      23.0      51   45.1%
+  24 TOP eSports            : 2567.4      29.0      71   40.8%
+  25 Universum Gaming       : 2489.8      17.0      52   32.7%
+  26 Proseding              : 2471.2      18.0      36   50.0%
 
 White advantage = 0.00
 Draw rate (equal opponents) = 50.00 %

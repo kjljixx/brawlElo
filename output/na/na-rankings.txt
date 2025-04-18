@@ -1,41 +1,46 @@
 
-   # PLAYER                                  : RATING    POINTS  PLAYED    (%)
-   1 Tribe Gaming                            : 3669.0      72.0      93   77.4%
-   2 BC* Gaming                              : 3590.5      64.0      95   67.4%
-   3 Elevate                                 : 3546.0      45.0      61   73.8%
-   4 Pioneers                                : 3513.7      48.0      73   65.8%
-   5 🖤🖤🖤                            : 3457.3      68.0     106   64.2%
-   6 SSG                                     : 3455.2      60.0      99   60.6%
-   7 CODE OG                                 : 3447.4      57.0      96   59.4%
-   8 Eternal                                 : 3429.1      39.0      69   56.5%
-   9 STMN                                    : 3424.2      36.0      70   51.4%
-  10 Olimpo Squad NA                         : 3288.6      48.0      81   59.3%
-  11 Synchronic Gaming                       : 3277.6      36.0      75   48.0%
-  12 Pale Fox Esports                        : 3262.4      23.0      47   48.9%
-  13 Kimchi Fund                             : 3240.2      29.0      48   60.4%
-  14 OCTANE ESPORTS                          : 3227.2      52.0      89   58.4%
-  15 The Unction                             : 3198.8      17.0      37   45.9%
-  16 New Meta                                : 3149.2      28.0      52   53.8%
-  17 Yoshinoya gyudon                        : 3145.2      22.0      38   57.9%
-  18 Kangaroos                               : 3139.4      17.0      35   48.6%
-  19 West Coast FA                           : 3118.9      18.0      31   58.1%
-  20 BlockBuster                             : 3112.2      21.0      37   56.8%
-  21 Octane Zero                             : 3112.2      22.0      40   55.0%
-  22 ultbobs aura                            : 3101.4      31.0      66   47.0%
-  23 Un Verano Sin Ti                        : 3084.3      19.0      33   57.6%
-  24 Ares Core                               : 3043.1      38.0      79   48.1%
-  25 IX Squares                              : 3008.0      24.0      44   54.5%
-  26 Clutch Or Cope🏆🤡                  : 2983.0      17.0      36   47.2%
-  27 Complexity                              : 2877.5      24.0      52   46.2%
-  28 Cabritos                                : 2852.3      15.0      33   45.5%
-  29 RJG Team 🔥🔥🔥                   : 2833.8      22.0      51   43.1%
-  30 Crow’s Nest Esport                    : 2821.9      21.0      42   50.0%
-  31 Chill Guys                              : 2776.9      32.0      72   44.4%
-  32 Draft 4 Me                              : 2734.7      20.0      30   66.7%
-  33 3/5                                     : 2682.8      17.0      34   50.0%
-  34 Meow~                                   : 2679.8      20.0      38   52.6%
-  35 H                                       : 2585.1      23.0      47   48.9%
-  36 Nameless                                : 2542.9      15.0      39   38.5%
+   # PLAYER                    : RATING    POINTS  PLAYED    (%)
+   1 Tribe Gaming              : 2949.9      90.0     115   78.3%
+   2 BC* Gaming                : 2877.9      82.0     118   69.5%
+   3 Elevate                   : 2837.7      64.0      86   74.4%
+   4 Pioneers                  : 2821.9      66.0      95   69.5%
+   5 SSG                       : 2798.8      78.0     120   65.0%
+   6 🖤🖤🖤              : 2784.2      88.0     136   64.7%
+   7 CODE OG                   : 2731.0      77.0     127   60.6%
+   8 STMN                      : 2728.3      54.0     100   54.0%
+   9 Eternal                   : 2682.5      62.0     110   56.4%
+  10 Pale Fox Esports          : 2610.6      23.0      47   48.9%
+  11 New Heights Gaming        : 2587.7      30.0      55   54.5%
+  12 Olimpo Squad NA           : 2564.2      57.0     104   54.8%
+  13 Synchronic Gaming         : 2553.5      57.0     115   49.6%
+  14 Kimchi Fund               : 2550.9      17.0      34   50.0%
+  15 GG                        : 2543.2      20.0      39   51.3%
+  16 New Hights Gaming         : 2534.0      18.0      35   51.4%
+  17 Crumbs                    : 2515.2      17.0      32   53.1%
+  18 YHLQMDLG                  : 2509.6      22.0      41   53.7%
+  19 Eternal Academy           : 2496.1      58.0     108   53.7%
+  20 New Meta                  : 2471.8      15.0      35   42.9%
+  21 The Unction               : 2469.8      17.0      37   45.9%
+  22 Yoshinoya gyudon          : 2461.8      14.0      30   46.7%
+  23 ultbobs aura              : 2455.0      50.0     101   49.5%
+  24 West Coast FA             : 2410.7      18.0      31   58.1%
+  25 Complexity                : 2405.9      25.0      65   38.5%
+  26 Kangaroos                 : 2372.9      21.0      40   52.5%
+  27 IX Squares                : 2372.3      32.0      66   48.5%
+  28 Clutch Or Cope🏆🤡    : 2340.2      17.0      36   47.2%
+  29 Ares Core                 : 2337.9      39.0      95   41.1%
+  30 Meow~                     : 2262.5      20.0      38   52.6%
+  31 Nameless                  : 2260.3      30.0      72   41.7%
+  32 Ping Warriors             : 2238.3      20.0      38   52.6%
+  33 Axolotl Warriors          : 2223.4      16.0      40   40.0%
+  34 we love latinas           : 2222.9      13.0      34   38.2%
+  35 Chill Guys                : 2220.3      35.0      84   41.7%
+  36 Crow’s Nest Esport      : 2213.2      13.0      34   38.2%
+  37 RJG Team 🔥🔥🔥     : 2169.6      10.0      35   28.6%
+  38 Cabritos                  : 2132.6      15.0      31   48.4%
+  39 3/5                       : 2131.3      17.0      44   38.6%
+  40 Snoopy Oops               : 2105.2      11.0      34   32.4%
+  41 H                         : 2091.0      16.0      44   36.4%
 
 White advantage = 0.00
 Draw rate (equal opponents) = 50.00 %

@@ -17,7 +17,7 @@
   15 Millesime MG            : 2622.1      46.0      85   54.1%
   16 Name For Fame           : 2620.7      27.0      50   54.0%
   17 FUT Academy             : 2608.8      45.0      91   49.5%
-  18 DPB|Esport              : 2602.9      50.0      93   53.8%
+  18 Mommy ASMR              : 2602.9      50.0      93   53.8%
   19 Bound By Oath           : 2600.2      59.0     120   49.2%
   20 chippy chips            : 2597.2      27.0      47   57.4%
   21 F/A UK                  : 2578.7      14.0      36   38.9%
@@ -25,7 +25,7 @@
   23 F/A Poland              : 2553.2      50.0     114   43.9%
   24 Kana Arima              : 2528.5      35.0      73   47.9%
   25 Aogiri Esport           : 2526.7      30.0      56   53.6%
-  26 GLORE.FIFINE            : 2515.4      61.0     150   40.7%
+  26 Ravery Esports          : 2515.4      61.0     150   40.7%
   27 Skepsis Gaming          : 2502.2      40.0     101   39.6%
   28 MBT SUMMIT              : 2493.6      31.0      65   47.7%
   29 Sigma Boys              : 2490.6      24.0      47   51.1%

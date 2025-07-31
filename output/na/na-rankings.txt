@@ -1,45 +1,45 @@
 
    # PLAYER                    : RATING    POINTS  PLAYED    (%)
-   1 STMN                      : 2979.4      29.0      37   78.4%
-   2 Tribe Gaming              : 2948.9     169.0     224   75.4%
-   3 Elevate                   : 2882.5     174.0     264   65.9%
-   4 Team Elektros             : 2829.9     131.0     211   62.1%
-   5 Pioneers                  : 2814.6     100.0     161   62.1%
-   6 Bums                      : 2773.9     127.0     216   58.8%
-   7 Eternal                   : 2750.7      99.0     179   55.3%
-   8 SSG                       : 2744.5     134.0     233   57.5%
-   9 RIP OG                    : 2701.8     101.0     188   53.7%
-  10 New Heights Gaming        : 2647.8      78.0     140   55.7%
-  11 Junnie.K                  : 2634.6      23.0      45   51.1%
-  12 Pale Fox Esports          : 2605.8      17.0      40   42.5%
-  13 Olimpo Squad NA           : 2575.3      44.0      87   50.6%
-  14 Prodigy Esports           : 2571.4      68.0     142   47.9%
-  15 Crumbs                    : 2565.6      79.0     173   45.7%
-  16 Crow's Nest Esports       : 2533.8      58.0     109   53.2%
-  17 Real Ones                 : 2525.7      57.0      99   57.6%
-  18 Complexity                : 2521.1      45.0     102   44.1%
-  19 LLC eSports               : 2517.1      58.0     128   45.3%
-  20 GG                        : 2509.7      37.0      79   46.8%
-  21 👯👯👯              : 2487.0      20.0      36   55.6%
-  22 IX Squares                : 2478.6      48.0     106   45.3%
-  23 Only Guarras              : 2476.8      58.0     119   48.7%
-  24 Nameless                  : 2422.2      40.0      96   41.7%
-  25 ragebait                  : 2357.2      47.0      95   49.5%
-  26 Crow’s Nest Esport      : 2350.8      13.0      34   38.2%
-  27 Clutch Or Cope🏆🤡    : 2349.1      19.0      46   41.3%
-  28 Ping Warriors             : 2348.0      20.0      38   52.6%
-  29 Los prietos 🐐          : 2330.8      22.0      51   43.1%
-  30 Chill Guys                : 2316.0      19.0      54   35.2%
-  31 H                         : 2292.6      31.0      91   34.1%
-  32 Patata Sports             : 2256.0      11.0      36   30.6%
-  33 Axolotl eSports           : 2251.5      18.0      41   43.9%
-  34 sua                       : 2247.4      14.0      37   37.8%
-  35 Conquerors                : 2216.1      13.0      31   41.9%
-  36 Cabritos                  : 2199.8      15.0      36   41.7%
-  37 Thunderbolts              : 2199.6      10.0      30   33.3%
-  38 Tilinesios                : 2187.1      15.0      31   48.4%
-  39 Stanley Steemers          : 2113.8       8.0      44   18.2%
-  40 Cobra Jets                : 2084.1      17.0      54   31.5%
+   1 Tribe Gaming              : 2955.5     169.0     224   75.4%
+   2 Elevate                   : 2898.6     158.0     236   66.9%
+   3 STMN                      : 2857.0      45.0      65   69.2%
+   4 Team Elektros             : 2831.2     131.0     211   62.1%
+   5 Pioneers                  : 2819.4     100.0     161   62.1%
+   6 Bums                      : 2777.6     127.0     216   58.8%
+   7 Eternal                   : 2754.5      99.0     179   55.3%
+   8 SSG                       : 2745.1     134.0     233   57.5%
+   9 RIP OG                    : 2704.4     101.0     188   53.7%
+  10 New Heights Gaming        : 2649.7      78.0     140   55.7%
+  11 Junnie.K                  : 2635.9      23.0      45   51.1%
+  12 Pale Fox Esports          : 2606.8      17.0      40   42.5%
+  13 Olimpo Squad NA           : 2576.1      44.0      87   50.6%
+  14 Prodigy Esports           : 2569.4      68.0     142   47.9%
+  15 Crumbs                    : 2565.0      79.0     173   45.7%
+  16 Crow's Nest Esports       : 2534.4      58.0     109   53.2%
+  17 Real Ones                 : 2527.1      57.0      99   57.6%
+  18 Complexity                : 2519.4      45.0     102   44.1%
+  19 LLC eSports               : 2518.1      58.0     128   45.3%
+  20 GG                        : 2510.8      37.0      79   46.8%
+  21 👯👯👯              : 2487.1      20.0      36   55.6%
+  22 IX Squares                : 2479.9      48.0     106   45.3%
+  23 Only Guarras              : 2477.8      58.0     119   48.7%
+  24 Nameless                  : 2424.4      40.0      96   41.7%
+  25 ragebait                  : 2358.3      47.0      95   49.5%
+  26 Crow’s Nest Esport      : 2351.5      13.0      34   38.2%
+  27 Ping Warriors             : 2349.7      20.0      38   52.6%
+  28 Clutch Or Cope🏆🤡    : 2349.5      19.0      46   41.3%
+  29 Los prietos 🐐          : 2332.6      22.0      51   43.1%
+  30 Chill Guys                : 2317.9      19.0      54   35.2%
+  31 H                         : 2293.7      31.0      91   34.1%
+  32 Patata Sports             : 2256.7      11.0      36   30.6%
+  33 Axolotl eSports           : 2252.9      18.0      41   43.9%
+  34 sua                       : 2248.1      14.0      37   37.8%
+  35 Conquerors                : 2216.8      13.0      31   41.9%
+  36 Cabritos                  : 2200.6      15.0      36   41.7%
+  37 Thunderbolts              : 2199.9      10.0      30   33.3%
+  38 Tilinesios                : 2188.2      15.0      31   48.4%
+  39 Stanley Steemers          : 2115.3       8.0      44   18.2%
+  40 Cobra Jets                : 2085.1      17.0      54   31.5%
 
 White advantage = 0.00
 Draw rate (equal opponents) = 50.00 %

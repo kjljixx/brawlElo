@@ -16,7 +16,19 @@ Go to the `src` directory, then run `python main.py (region acronym)`
 # About the Elo System
 In the elo system, what's important is not the actual ratings, but the difference between the ratings. For example, if you only have 3 teams in your system which have elo ratings of 500, 700, and 900, it would be theoretically sound to also say they have elo ratings of 2400, 2600, and 2800.
 
-**A 200 elo difference means about a ~76% chance for the higher elo team to win a game against the lower elo team.** Using some basic probability calculations, this means that the same 200 elo difference also corresponds to a ~85% chance for the higher elo team to win a set and a ~98% chance to win a best-of-5-sets series.
+**A 200 elo difference means about a ~76% chance for the higher elo team to win a game against the lower elo team.** Using some basic probability calculations, this means that the same 200 elo difference also corresponds to a ~85% chance for the higher elo team to win a set and a ~98% chance to win a best-of-5-sets series. Below is a table of various different elo difference values and corresponding probabilities for game wins, set wins, and Bo5 set wins.
+|Elo Diff|Game Win|Set Win|Bo5 Win|
+|--------|--------|-------|-------|
+|20|53%|54%|58%|
+|40|56%|58%|65%|
+|60|58%|62%|72%|
+|80|61%|66%|78%|
+|100|64%|70%|84%|
+|120|66%|74%|88%|
+|140|69%|77%|92%|
+|160|71%|80%|94%|
+|180|74%|83%|96%|
+|200|76%|85%|98%|
 
 Ordo automatically shifts elo ratings such that the average elo of all of the teams is 2300. Because this code uses the full match data from Monthly Qualifiers and Monthly Finals, there are more teams which are relatively bad, and so the top teams' elo is shifted upwards to keep the average elo 2300.
 

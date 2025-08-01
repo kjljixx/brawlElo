@@ -33,7 +33,7 @@ if regionAbbrevParam == "world":
   regionAbbrevs.append("world")
 results = getAllData(matchFiles, [f"../bsc-2025-raw/leaderboards/2025-{regionAbbrev.lower()}-leaderboard.json" for regionAbbrev in regionAbbrevs])
 
-outputFileName = f"../output/{regionAbbrev.lower()}/{regionAbbrev.lower()}-data.pgn"
+outputFileName = f"../output/{regionAbbrevParam.lower()}/{regionAbbrevParam.lower()}-data.pgn"
 with open(outputFileName, 'w', encoding='utf-8') as file:
   for teams, result in results.items():
     team1Wins = result[0]
@@ -50,4 +50,4 @@ file.close()
 
 game_cutoff = 30
 
-os.system(f"..{os.sep}ordo -Q -G -j ../output/{regionAbbrev.lower()}/{regionAbbrev.lower()}-h2h.txt -o ../output/{regionAbbrev.lower()}/{regionAbbrev.lower()}-rankings.txt -t {game_cutoff} -p ../output/{regionAbbrev.lower()}/{regionAbbrev.lower()}-data.pgn")
+os.system(f"..{os.sep}ordo -Q -G -j ../output/{regionAbbrevParam.lower()}/{regionAbbrevParam.lower()}-h2h.txt -o ../output/{regionAbbrevParam.lower()}/{regionAbbrevParam.lower()}-rankings.txt -t {game_cutoff} -p ../output/{regionAbbrevParam.lower()}/{regionAbbrevParam.lower()}-data.pgn")

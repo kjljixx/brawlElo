@@ -2,8 +2,9 @@ from getAllData import getAllData
 import os
 import sys
 
-regionAbbrev = sys.argv[1]
-matchFiles = [f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
+regionAbbrevParam = sys.argv[1]
+regionAbbrevs = ["ea", "emea", "na", "sa"] if regionAbbrevParam == "world" else [regionAbbrevParam]
+matchFiles = [[f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/february/{regionAbbrev.upper()} MQs1.json",
               f"../bsc-2025-raw/february/{regionAbbrev.upper()} MQs2.json",
               f"../bsc-2025-raw/march/{regionAbbrev.upper()} MFs.json",
@@ -21,8 +22,16 @@ matchFiles = [f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               # f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
               # f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
               # f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json"
-             ]
-results = getAllData(matchFiles, f"../bsc-2025-raw/leaderboards/2025-{regionAbbrev.lower()}-leaderboard.json")
+             ] for regionAbbrev in regionAbbrevs]
+matchFiles = [matchFile for regionMatchFiles in matchFiles for matchFile in regionMatchFiles]
+if regionAbbrevParam == "world":
+  matchFiles.extend(
+    [
+      "../bsc-2025-raw/world/Brawl Cup.json"
+    ]
+  )
+  regionAbbrevs.append("world")
+results = getAllData(matchFiles, [f"../bsc-2025-raw/leaderboards/2025-{regionAbbrev.lower()}-leaderboard.json" for regionAbbrev in regionAbbrevs])
 
 outputFileName = f"../output/{regionAbbrev.lower()}/{regionAbbrev.lower()}-data.pgn"
 with open(outputFileName, 'w', encoding='utf-8') as file:

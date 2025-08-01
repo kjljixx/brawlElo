@@ -2,10 +2,10 @@ from getData import getData
 import os
 import sys
 
-def getAllData(dataFileNames, teamsFileName):
+def getAllData(dataFileNames, teamsFileNames):
   results = {}
   for dataFileName in dataFileNames:
-    getData(dataFileName, teamsFileName, results)
+    getData(dataFileName, teamsFileNames, results)
   return results
 
 if __name__ == "__main__":

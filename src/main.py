@@ -20,8 +20,8 @@ matchFiles = [[f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/july/{regionAbbrev.upper()} MQs1.json",
               f"../bsc-2025-raw/july/{regionAbbrev.upper()} MQs2.json",
               # f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
-              # f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
-              # f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json"
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json"
              ] for regionAbbrev in regionAbbrevs]
 matchFiles = [matchFile for regionMatchFiles in matchFiles for matchFile in regionMatchFiles]
 if regionAbbrevParam == "world":

@@ -9,7 +9,7 @@ Head to head statistics:
     Bums                          :     31 (  25, 0,  6),  80.6 :  +157.7
     SSG                           :     13 (  12, 0,  1),  92.3 :  +206.4
     Eternal                       :     20 (  10, 0, 10),  50.0 :  +207.7
-    RIP OG                        :      7 (   6, 0,  1),  85.7 :  +266.4
+    IX Gaming                     :      7 (   6, 0,  1),  85.7 :  +266.4
     Pale Fox Esports              :      7 (   6, 0,  1),  85.7 :  +298.1
     New Heights Gaming            :     14 (  12, 0,  2),  85.7 :  +306.3
     Prodigy Esports               :      7 (   6, 0,  1),  85.7 :  +369.5
@@ -29,7 +29,7 @@ Head to head statistics:
     Bums                          :     20 (  12, 0,  8),  60.0 :  +114.0
     SSG                           :      7 (   6, 0,  1),  85.7 :  +162.7
     Eternal                       :     23 (  18, 0,  5),  78.3 :  +164.0
-    RIP OG                        :      8 (   6, 0,  2),  75.0 :  +222.7
+    IX Gaming                     :      8 (   6, 0,  2),  75.0 :  +222.7
     Prodigy Esports               :      6 (   6, 0,  0), 100.0 :  +325.8
     Crumbs                        :      7 (   6, 0,  1),  85.7 :  +370.0
     Real Ones                     :      6 (   6, 0,  0), 100.0 :  +387.0
@@ -63,7 +63,7 @@ Head to head statistics:
     Bums                          :     11 (   7, 0,  4),  63.6 :   +38.7
     SSG                           :     27 (  17, 0, 10),  63.0 :   +87.4
     Eternal                       :     24 (  19, 0,  5),  79.2 :   +88.6
-    RIP OG                        :     14 (   6, 0,  8),  42.9 :  +147.3
+    IX Gaming                     :     14 (   6, 0,  8),  42.9 :  +147.3
     Pale Fox Esports              :      8 (   6, 0,  2),  75.0 :  +179.1
     New Heights Gaming            :     16 (  13, 0,  3),  81.2 :  +187.3
     Junnie.K                      :     10 (   7, 0,  3),  70.0 :  +205.1
@@ -85,7 +85,7 @@ Head to head statistics:
     Bums                          :     20 (   8, 0, 12),  40.0 :   +15.1
     SSG                           :     18 (  12, 0,  6),  66.7 :   +63.8
     Eternal                       :     17 (  13, 0,  4),  76.5 :   +65.1
-    RIP OG                        :     28 (  16, 0, 12),  57.1 :  +123.8
+    IX Gaming                     :     28 (  16, 0, 12),  57.1 :  +123.8
     New Heights Gaming            :     14 (  12, 0,  2),  85.7 :  +163.7
     Junnie.K                      :      6 (   6, 0,  0), 100.0 :  +181.6
     Prodigy Esports               :      7 (   6, 0,  1),  85.7 :  +226.9
@@ -103,7 +103,7 @@ Head to head statistics:
     Pioneers                      :     20 (  12, 0,  8),  60.0 :   -15.1
     SSG                           :     22 (  11, 0, 11),  50.0 :   +48.7
     Eternal                       :     14 (   6, 0,  8),  42.9 :   +50.0
-    RIP OG                        :     13 (   6, 0,  7),  46.2 :  +108.7
+    IX Gaming                     :     13 (   6, 0,  7),  46.2 :  +108.7
     New Heights Gaming            :      7 (   6, 0,  1),  85.7 :  +148.6
     Prodigy Esports               :     12 (  12, 0,  0), 100.0 :  +211.8
     Olimpo Squad NA               :     15 (  12, 0,  3),  80.0 :  +218.8
@@ -123,7 +123,7 @@ Head to head statistics:
     Pioneers                      :     18 (   6, 0,  12),  33.3 :   -63.8
     Bums                          :     22 (  11, 0,  11),  50.0 :   -48.7
     Eternal                       :     12 (   5, 0,   7),  41.7 :    +1.3
-    RIP OG                        :     25 (  14, 0,  11),  56.0 :   +60.0
+    IX Gaming                     :     25 (  14, 0,  11),  56.0 :   +60.0
     Pale Fox Esports              :      7 (   6, 0,   1),  85.7 :   +91.7
     New Heights Gaming            :      9 (   3, 0,   6),  33.3 :   +99.9
     Prodigy Esports               :     11 (   7, 0,   4),  63.6 :  +163.1
@@ -146,7 +146,7 @@ Head to head statistics:
     Pioneers                      :     17 (   4, 0, 13),  23.5 :   -65.1
     Bums                          :     14 (   8, 0,  6),  57.1 :   -50.0
     SSG                           :     12 (   7, 0,  5),  58.3 :    -1.3
-    RIP OG                        :     22 (  13, 0,  9),  59.1 :   +58.7
+    IX Gaming                     :     22 (  13, 0,  9),  59.1 :   +58.7
     Crumbs                        :     18 (  13, 0,  5),  72.2 :  +206.1
     Crow's Nest Esports           :      7 (   6, 0,  1),  85.7 :  +211.6
     LLC eSports                   :     17 (  13, 0,  4),  76.5 :  +218.9
@@ -155,7 +155,7 @@ Head to head statistics:
     Nameless                      :     14 (  12, 0,  2),  85.7 :  +299.4
     Hooters eSports               :      6 (   6, 0,  0), 100.0 :  +494.1
 
- 9) RIP OG                 2665.8 :    235 (+128,=0,-107),  54.5 %
+ 9) IX Gaming              2665.8 :    235 (+128,=0,-107),  54.5 %
 
     vs.                           :  games (   +, =,   -),   (%) :    Diff
     Tribe Gaming                  :      7 (   1, 0,   6),  14.3 :  -266.4
@@ -193,7 +193,7 @@ Head to head statistics:
     Pioneers                      :     14 (  2, 0, 12),  14.3 :  -163.7
     Bums                          :      7 (  1, 0,  6),  14.3 :  -148.6
     SSG                           :      9 (  6, 0,  3),  66.7 :   -99.9
-    RIP OG                        :     11 (  4, 0,  7),  36.4 :   -39.9
+    IX Gaming                     :     11 (  4, 0,  7),  36.4 :   -39.9
     Olimpo Squad NA               :      8 (  6, 0,  2),  75.0 :   +70.1
     Crumbs                        :     10 (  7, 0,  3),  70.0 :  +107.4
     LLC eSports                   :      9 (  6, 0,  3),  66.7 :  +120.3
@@ -229,7 +229,7 @@ Head to head statistics:
     Pioneers                      :      7 (  1, 0,  6),  14.3 :  -226.9
     Bums                          :     12 (  0, 0, 12),   0.0 :  -211.8
     SSG                           :     11 (  4, 0,  7),  36.4 :  -163.1
-    RIP OG                        :     22 ( 14, 0,  8),  63.6 :  -103.1
+    IX Gaming                     :     22 ( 14, 0,  8),  63.6 :  -103.1
     Olimpo Squad NA               :     10 (  3, 0,  7),  30.0 :    +7.0
     Crumbs                        :      7 (  6, 0,  1),  85.7 :   +44.3
     Crow's Nest Esports           :      6 (  6, 0,  0), 100.0 :   +49.8
@@ -303,7 +303,7 @@ Head to head statistics:
     Bums                          :      6 (  0, 0,  6),   0.0 :  -268.9
     SSG                           :     16 (  4, 0, 12),  25.0 :  -220.2
     Eternal                       :     17 (  4, 0, 13),  23.5 :  -218.9
-    RIP OG                        :      8 (  2, 0,  6),  25.0 :  -160.2
+    IX Gaming                     :      8 (  2, 0,  6),  25.0 :  -160.2
     New Heights Gaming            :      9 (  3, 0,  6),  33.3 :  -120.3
     Crumbs                        :      7 (  1, 0,  6),  14.3 :   -12.8
     IX Squares                    :     31 ( 19, 0, 12),  61.3 :   +52.7
@@ -319,7 +319,7 @@ Head to head statistics:
 
     vs.                           :  games (  +, =,  -),   (%) :    Diff
     Elevate                       :      6 (  0, 0,  6),   0.0 :  -387.0
-    RIP OG                        :      7 (  1, 0,  6),  14.3 :  -164.3
+    IX Gaming                     :      7 (  1, 0,  6),  14.3 :  -164.3
     New Heights Gaming            :      8 (  2, 0,  6),  25.0 :  -124.4
     Junnie.K                      :     11 (  4, 0,  7),  36.4 :  -106.5
     Crumbs                        :     10 (  4, 0,  6),  40.0 :   -17.0
@@ -352,7 +352,7 @@ Head to head statistics:
     vs.                           :  games (  +, =,  -),   (%) :    Diff
     Pioneers                      :      8 (  2, 0,  6),  25.0 :  -311.1
     Eternal                       :      9 (  3, 0,  6),  33.3 :  -246.0
-    RIP OG                        :      9 (  7, 0,  2),  77.8 :  -187.3
+    IX Gaming                     :      9 (  7, 0,  2),  77.8 :  -187.3
     Crumbs                        :      9 (  2, 0,  7),  22.2 :   -39.9
     Complexity                    :      9 (  3, 0,  6),  33.3 :    -7.5
     SVA | 就将                  :      4 (  0, 0,  4),   0.0 :   +11.8
@@ -378,7 +378,7 @@ Head to head statistics:
 24) Quebec Elite           2465.1 :     47 (+20,=0,-27),  42.6 %
 
     vs.                           :  games (  +, =,  -),   (%) :    Diff
-    RIP OG                        :      9 (  3, 0,  6),  33.3 :  -200.8
+    IX Gaming                     :      9 (  3, 0,  6),  33.3 :  -200.8
     New Heights Gaming            :      9 (  3, 0,  6),  33.3 :  -160.8
     Crow's Nest Esports           :     12 (  6, 0,  6),  50.0 :   -47.9
     GG                            :      6 (  2, 0,  4),  33.3 :   -13.5
@@ -419,7 +419,7 @@ Head to head statistics:
     vs.                           :  games (  +, =,  -),   (%) :    Diff
     Team Elektros                 :      8 (  2, 0,  6),  25.0 :  -362.7
     Eternal                       :      6 (  0, 0,  6),   0.0 :  -274.0
-    RIP OG                        :     24 (  5, 0, 19),  20.8 :  -215.3
+    IX Gaming                     :     24 (  5, 0, 19),  20.8 :  -215.3
     Prodigy Esports               :     15 (  7, 0,  8),  46.7 :  -112.2
     Olimpo Squad NA               :      7 (  1, 0,  6),  14.3 :  -105.3
     Octane Esports                :     14 (  7, 0,  7),  50.0 :   +98.5
@@ -435,7 +435,7 @@ Head to head statistics:
     Elevate                       :      6 (  0, 0,  6),   0.0 :  -463.4
     SSG                           :      9 (  2, 0,  7),  22.2 :  -300.7
     Eternal                       :     14 (  2, 0, 12),  14.3 :  -299.4
-    RIP OG                        :     10 (  4, 0,  6),  40.0 :  -240.7
+    IX Gaming                     :     10 (  4, 0,  6),  40.0 :  -240.7
     New Heights Gaming            :      8 (  2, 0,  6),  25.0 :  -200.8
     Junnie.K                      :      6 (  0, 0,  6),   0.0 :  -182.9
     Queremos Unas Güeras         :     20 ( 10, 0, 10),  50.0 :   -31.8
@@ -464,7 +464,7 @@ Head to head statistics:
 31) Ping Warriors          2379.2 :     69 (+35,=0,-34),  50.7 %
 
     vs.                           :  games (  +, =,  -),   (%) :    Diff
-    RIP OG                        :      6 (  0, 0,  6),   0.0 :  -286.6
+    IX Gaming                     :      6 (  0, 0,  6),   0.0 :  -286.6
     Prodigy Esports               :      7 (  1, 0,  6),  14.3 :  -183.5
     Crumbs                        :     13 (  8, 0,  5),  61.5 :  -139.2
     LLC eSports                   :      6 (  0, 0,  6),   0.0 :  -126.4
@@ -667,7 +667,7 @@ Head to head statistics:
 54) Bussy Lovers Esports   2216.4 :     19 (+8,=0,-11),  42.1 %
 
     vs.                           :  games ( +, =,  -),   (%) :    Diff
-    RIP OG                        :      6 ( 0, 0,  6),   0.0 :  -449.5
+    IX Gaming                     :      6 ( 0, 0,  6),   0.0 :  -449.5
     The Shibas                    :      6 ( 4, 0,  2),  66.7 :   +11.2
     DarkStars                     :      7 ( 4, 0,  3),  57.1 :  +100.4
 
@@ -756,7 +756,7 @@ Head to head statistics:
 66) Luo Li from TBHX 😛  2124.1 :     26 (+10,=0,-16),  38.5 %
 
     vs.                           :  games (  +, =,  -),   (%) :    Diff
-    RIP OG                        :      6 (  0, 0,  6),   0.0 :  -541.7
+    IX Gaming                     :      6 (  0, 0,  6),   0.0 :  -541.7
     DMNT                          :      8 (  2, 0,  6),  25.0 :   -67.8
     Patata Sports                 :      8 (  4, 0,  4),  50.0 :   -47.9
     Triunfadores                  :      4 (  4, 0,  0), 100.0 :  +203.7

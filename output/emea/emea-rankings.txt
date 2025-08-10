@@ -1,45 +1,45 @@
 
    # PLAYER                  : RATING    POINTS  PLAYED    (%)
-   1 SK Gaming               : 2818.0     170.0     256   66.4%
-   2 HMBLE                   : 2806.9     133.0     203   65.5%
-   3 Team Heretics           : 2761.8     131.0     227   57.7%
-   4 Inner Circle            : 2761.1     132.0     216   61.1%
-   5 Papara SuperMassive     : 2752.4     106.0     189   56.1%
-   6 FUT Esports             : 2734.1     154.0     247   62.3%
-   7 Reply Totem             : 2721.0     138.0     247   55.9%
-   8 NOVO Esports            : 2712.8     127.0     239   53.1%
-   9 Code : Gas              : 2664.4      67.0     112   59.8%
-  10 XPERION NXT             : 2645.4     121.0     227   53.3%
-  11 Krono Esports           : 2642.6      65.0     108   60.2%
-  12 Reverso Gaming          : 2639.9      93.0     178   52.2%
-  13 KDS Esports             : 2637.9      92.0     202   45.5%
-  14 Izana is bad            : 2628.8      63.0     110   57.3%
-  15 Name For Fame           : 2611.1      27.0      50   54.0%
-  16 Millesime MG            : 2609.4      40.0      77   51.9%
-  17 FUT Academy             : 2592.9      55.0     114   48.2%
-  18 Bound By Oath           : 2587.4      65.0     139   46.8%
-  19 chippy chips            : 2585.0      27.0      47   57.4%
-  20 Mommy ASMR              : 2575.3      44.0      85   51.8%
-  21 F/A Poland              : 2543.5      56.0     120   46.7%
+   1 HMBLE                   : 2817.6     151.0     229   65.9%
+   2 SK Gaming               : 2814.3     186.0     284   65.5%
+   3 Inner Circle            : 2764.2     141.0     232   60.8%
+   4 Team Heretics           : 2757.7     135.0     238   56.7%
+   5 Papara SuperMassive     : 2748.6     109.0     198   55.1%
+   6 FUT Esports             : 2738.0     164.0     267   61.4%
+   7 Reply Totem             : 2719.4     138.0     247   55.9%
+   8 NOVO Esports            : 2705.3     127.0     245   51.8%
+   9 Code : Gas              : 2663.4      67.0     112   59.8%
+  10 XPERION NXT             : 2643.8     121.0     227   53.3%
+  11 Krono Esports           : 2643.4      68.0     118   57.6%
+  12 Reverso Gaming          : 2639.4      93.0     178   52.2%
+  13 KDS Esports             : 2636.5      92.0     202   45.5%
+  14 Izana is bad            : 2629.4      63.0     110   57.3%
+  15 Name For Fame           : 2611.3      27.0      50   54.0%
+  16 Millesime MG            : 2610.3      40.0      77   51.9%
+  17 FUT Academy             : 2594.0      55.0     114   48.2%
+  18 Bound By Oath           : 2587.6      65.0     139   46.8%
+  19 chippy chips            : 2587.3      27.0      47   57.4%
+  20 Mommy ASMR              : 2574.6      44.0      85   51.8%
+  21 F/A Poland              : 2543.3      56.0     120   46.7%
   22 Kana Arima              : 2511.0      35.0      73   47.9%
-  23 Skepsis Gaming          : 2505.6      46.0     114   40.4%
-  24 Ravery Esports          : 2495.0      70.0     169   41.4%
-  25 Aogiri Esport           : 2484.9      25.0      49   51.0%
-  26 Sigma Boys              : 2481.2      24.0      47   51.1%
-  27 NaN Esports             : 2437.2      22.0      47   46.8%
-  28 Paurigon-Z              : 2431.5      31.0      90   34.4%
-  29 Black and White         : 2431.5      16.0      32   50.0%
-  30 ZeroEsports             : 2426.0      14.0      37   37.8%
-  31 Freezer Esports         : 2417.7      44.0      92   47.8%
-  32 Orion                   : 2403.3      17.0      37   45.9%
-  33 MBT SUMMIT              : 2402.4      34.0      80   42.5%
-  34 LUX Gaming              : 2366.8      16.0      34   47.1%
-  35 Crows Nest Esports      : 2362.3      38.0     119   31.9%
-  36 TOP|Academy             : 2352.5      29.0      65   44.6%
-  37 SMB Talents             : 2333.4      15.0      34   44.1%
-  38 DPB Academy             : 2321.2      15.0      44   34.1%
-  39 CDA Esports             : 2311.6      15.0      43   34.9%
-  40 F/A Fullclip            : 2267.4       7.0      33   21.2%
+  23 Skepsis Gaming          : 2505.4      46.0     114   40.4%
+  24 Ravery Esports          : 2494.9      70.0     169   41.4%
+  25 Aogiri Esport           : 2483.9      25.0      49   51.0%
+  26 Sigma Boys              : 2481.8      24.0      47   51.1%
+  27 NaN Esports             : 2436.4      22.0      47   46.8%
+  28 Black and White         : 2431.6      16.0      32   50.0%
+  29 Paurigon-Z              : 2431.0      31.0      90   34.4%
+  30 ZeroEsports             : 2426.2      14.0      37   37.8%
+  31 Freezer Esports         : 2417.6      44.0      92   47.8%
+  32 Orion                   : 2403.7      17.0      37   45.9%
+  33 MBT SUMMIT              : 2402.0      34.0      80   42.5%
+  34 LUX Gaming              : 2366.2      16.0      34   47.1%
+  35 Crows Nest Esports      : 2361.9      38.0     119   31.9%
+  36 TOP|Academy             : 2352.9      29.0      65   44.6%
+  37 SMB Talents             : 2333.1      15.0      34   44.1%
+  38 DPB Academy             : 2320.6      15.0      44   34.1%
+  39 CDA Esports             : 2311.7      15.0      43   34.9%
+  40 F/A Fullclip            : 2267.3       7.0      33   21.2%
 
 White advantage = 0.00
 Draw rate (equal opponents) = 50.00 %

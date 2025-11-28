@@ -28,7 +28,8 @@ if regionAbbrevParam == "world":
   matchFiles.extend(
     [
       "../bsc-2025-raw/world/Brawl Cup.json",
-      "../bsc-2025-raw/world/Last Chance Qualifier.json"
+      "../bsc-2025-raw/world/Last Chance Qualifier.json",
+      "../bsc-2025-raw/world/World Finals.json"
     ]
   )
   regionAbbrevs.append("world")

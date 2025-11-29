@@ -29,6 +29,9 @@ if regionAbbrevParam == "world":
     [
       "../bsc-2025-raw/world/Brawl Cup.json",
       "../bsc-2025-raw/world/Last Chance Qualifier.json",
+      "../bsc-2025-raw/world/World Finals.json",
+      "../bsc-2025-raw/world/Brawl Cup.json",
+      "../bsc-2025-raw/world/Last Chance Qualifier.json",
       "../bsc-2025-raw/world/World Finals.json"
     ]
   )

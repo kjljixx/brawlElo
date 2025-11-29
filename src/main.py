@@ -22,17 +22,25 @@ matchFiles = [[f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json"
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json",
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
              ] for regionAbbrev in regionAbbrevs]
 matchFiles = [matchFile for regionMatchFiles in matchFiles for matchFile in regionMatchFiles]
 if regionAbbrevParam == "world":
   matchFiles.extend(
     [
       "../bsc-2025-raw/world/Brawl Cup.json",
-      "../bsc-2025-raw/world/Last Chance Qualifier.json",
-      "../bsc-2025-raw/world/World Finals.json",
       "../bsc-2025-raw/world/Brawl Cup.json",
       "../bsc-2025-raw/world/Last Chance Qualifier.json",
-      "../bsc-2025-raw/world/World Finals.json"
+      "../bsc-2025-raw/world/Last Chance Qualifier.json",
+      "../bsc-2025-raw/world/Last Chance Qualifier.json",
+      "../bsc-2025-raw/world/World Finals.json",
+      "../bsc-2025-raw/world/World Finals.json",
+      "../bsc-2025-raw/world/World Finals.json",
+      "../bsc-2025-raw/world/World Finals.json",
+      "../bsc-2025-raw/world/World Finals.json",
     ]
   )
   regionAbbrevs.append("world")

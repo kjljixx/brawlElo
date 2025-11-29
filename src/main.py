@@ -25,7 +25,7 @@ matchFiles = [[f"../bsc-2025-raw/february/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs1.json",
               f"../bsc-2025-raw/august/{regionAbbrev.upper()} MQs2.json",
-              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json",
+              f"../bsc-2025-raw/august/{regionAbbrev.upper()} MFs.json"
              ] for regionAbbrev in regionAbbrevs]
 matchFiles = [matchFile for regionMatchFiles in matchFiles for matchFile in regionMatchFiles]
 if regionAbbrevParam == "world":
@@ -40,7 +40,7 @@ if regionAbbrevParam == "world":
       "../bsc-2025-raw/world/World Finals.json",
       "../bsc-2025-raw/world/World Finals.json",
       "../bsc-2025-raw/world/World Finals.json",
-      "../bsc-2025-raw/world/World Finals.json",
+      "../bsc-2025-raw/world/World Finals.json"
     ]
   )
   regionAbbrevs.append("world")
